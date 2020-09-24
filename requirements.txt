@@ -1,0 +1,9 @@
+py2neo
+pyspark
+elasticsearch
+flask
+joblib
+underthesea
+pandas
+scrapy
+flask_cors

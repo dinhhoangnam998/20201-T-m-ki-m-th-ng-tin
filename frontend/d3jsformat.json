@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": 2476354262912,
+      "labels": "Person",
+      "properties": {
+        "name": "Thanh"
+      }
+    },
+    {
+      "id": 7898894992213924993,
+      "labels": "Location",
+      "properties": {
+        "name": "HCM"
+      }
+    },
+    {
+      "id": 7898894992213924994,
+      "labels": "Location",
+      "properties": {
+        "name": "Th\u00e0nh ph\u1ed1 HCM"
+      }
+    },
+    {
+      "id": 7898894992213924995,
+      "labels": "Location",
+      "properties": {
+        "name": "H\u00e0 n\u1ed9i"
+      }
+    },
+    {
+      "id": 7898894992213924996,
+      "labels": "BN",
+      "properties": {
+        "name": "BN221",
+        "country": "VietNam",
+        "home_town": "",
+        "gender": "nam",
+        "age": 20
+      }
+    },
+    {
+      "id": 7898894992213924997,
+      "labels": "Person",
+      "properties": {
+        "name": "Giang"
+      }
+    },
+    {
+      "id": 7898894992213924998,
+      "labels": "Person",
+      "properties": {
+        "name": "Nam"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": -1836489034294152656,
+      "type": "Relationship",
+      "startNode": 7898894992213924996,
+      "endNode": 7898894992213924993,
+      "properties": {
+        "name": "\u0111i"
+      },
+      "source": 7898894992213924996,
+      "target": 7898894992213924993,
+      "linknum": 1
+    },
+    {
+      "id": -5292876019878810751,
+      "type": "KNOWS",
+      "startNode": 2476354262912,
+      "endNode": 7898894992213924998,
+      "properties": {
+        "source": "https://..."
+      },
+      "source": 2476354262912,
+      "target": 7898894992213924998,
+      "linknum": 1
+    },
+    {
+      "id": -1836489034294152656,
+      "type": "Relationship",
+      "startNode": 7898894992213924996,
+      "endNode": 7898894992213924993,
+      "properties": {
+        "name": "\u0111\u1ebfn"
+      },
+      "source": 7898894992213924996,
+      "target": 7898894992213924993,
+      "linknum": 1
+    },
+    {
+      "id": -5292876019879893468,
+      "type": "KNOWS",
+      "startNode": 2476354262912,
+      "endNode": 7898894992213924997,
+      "properties": {
+        "source": "good"
+      },
+      "source": 2476354262912,
+      "target": 7898894992213924997,
+      "linknum": 1
+    },
+    {
+      "id": -1836489034259514923,
+      "type": "Relationship",
+      "startNode": 7898894992213924996,
+      "endNode": 7898894992213924994,
+      "properties": {
+        "name": "\u0111\u1ebfn"
+      },
+      "source": 7898894992213924996,
+      "target": 7898894992213924994,
+      "linknum": 1
+    },
+    {
+      "id": -1836489034259514923,
+      "type": "Relationship",
+      "startNode": 7898894992213924996,
+      "endNode": 7898894992213924994,
+      "properties": {
+        "name": "$r_name"
+      },
+      "source": 7898894992213924996,
+      "target": 7898894992213924994,
+      "linknum": 1
+    },
+    {
+      "id": -1836489034258578054,
+      "type": "Relationship",
+      "startNode": 7898894992213924996,
+      "endNode": 7898894992213924995,
+      "properties": {
+        "name": "$r_name"
+      },
+      "source": 7898894992213924996,
+      "target": 7898894992213924995,
+      "linknum": 1
+    }
+  ]
+}

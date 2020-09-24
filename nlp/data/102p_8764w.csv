@@ -1,0 +1,8763 @@
+﻿SENT#,WORD,POS,NER,TAG
+0,THÔNG BÁO,Np,B-PER,
+0,VỀ,V,O,
+0,7,M,O,
+0,CA,Np,B-PER,
+0,BỆNH,Np,I-PER,
+0,MỚI,R,O,
+0,(,CH,O,
+0,BN343,Np,B-LOC,B-BN
+0,-,CH,B-LOC,
+0,BN349,Np,I-LOC,B-BN
+0,),CH,O,
+0,:,CH,O,
+0,Việt Nam,Np,B-LOC,
+0,vừa,R,O,
+0,ghi nhận,V,O,
+0,thêm,V,O,
+0,7,M,O,
+0,ca,N,O,
+0,mắc,V,O,
+0,mới,R,O,
+0,COVID,Np,B-PER,
+0,-,CH,O,
+0,19,M,O,
+0,",",CH,O,
+0,đều,R,O,
+0,từ,E,O,B-R
+0,châu Âu,N,O,B-LOC
+0,về,E,O,B-R
+0,Nội Bài,Np,B-LOC,B-LOC
+0,(,CH,O,
+0,Hà Nội,Np,B-LOC,
+0,),CH,O,
+0,trên,E,O,
+0,chuyến,N,B-LOC,
+0,bay,V,I-LOC,
+0,VN2,Np,I-LOC,B-FLIGHT
+0,",",CH,O,
+0,sau,N,O,
+0,khi,N,O,
+0,nhập cảnh,V,O,
+0,được,R,O,
+0,cách ly,V,O,B-R
+0,ngay,T,O,
+0,tại,E,O,
+0,Trường,N,B-LOC,B-LOC
+0,Cao đẳng,N,I-LOC,I-LOC
+0,nghề,N,I-LOC,I-LOC
+0,Công nghệ cao,V,I-LOC,I-LOC
+0,",",CH,I-LOC,I-LOC
+0,Tây Mỗ,Np,I-LOC,I-LOC
+0,",",CH,O,I-LOC
+0,Nam,Np,B-PER,I-LOC
+0,Từ Liêm,Np,I-PER,I-LOC
+0,",",CH,O,I-LOC
+0,Hà Nội,Np,B-LOC,I-LOC
+0,.,CH,O,
+1,Hiện,N,O,
+1,7,M,O,
+1,BN,Np,B-LOC,B-BNS
+1,được,V,O,
+1,cách ly,V,O,B-R
+1,",",CH,O,
+1,điều trị,V,O,B-R
+1,tại,E,O,
+1,Bệnh viện,N,B-LOC,B-HOS
+1,Bệnh,N,I-LOC,I-HOS
+1,Nhiệt đới,N,I-LOC,I-HOS
+1,Trung ương,N,I-LOC,I-HOS
+1,cơ sở,N,I-LOC,I-HOS
+1,2,M,I-LOC,I-HOS
+1,",",CH,O,
+1,không,R,O,
+1,có,V,O,
+1,nguy cơ,N,O,
+1,lây,V,O,
+1,ra,V,O,
+1,cộng đồng,N,O,
+1,.,CH,O,
+2,Trong,E,O,
+2,đó,P,O,
+2,",",CH,O,
+2,BN343,Np,B-PER,B-BN
+2,:,CH,O,
+2,nữ,N,O,B-SEX
+2,",",CH,O,
+2,27,M,O,B-AGE
+2,tuổi,N,O,
+2,",",CH,O,
+2,Cẩm Thủy,Np,B-PER,B-ADD
+2,",",CH,O,I-ADD
+2,Cẩm Phả,Np,I-LOC,I-ADD
+2,",",CH,O,I-ADD
+2,Quảng Ninh,Np,B-LOC,I-ADD
+2,.,CH,O,
+3,BN344,Np,B-PER,B-BN
+3,:,CH,O,
+3,nam,N,O,B-SEX
+3,",",CH,O,
+3,52,M,O,B-AGE
+3,tuổi,N,O,
+3,",",CH,O,
+3,Nghi Thủy,Np,B-PER,B-ADD
+3,",",CH,O,I-ADD
+3,Cửa Lò,Np,I-LOC,I-ADD
+3,",",CH,O,I-ADD
+3,Nghệ An,Np,B-LOC,I-ADD
+3,.,CH,O,
+4,các,L,O,
+4,BN BN345,Np,B-PER,B-BN
+4,(,CH,O,
+4,nữ,N,O,B-SEX
+4,",",CH,O,
+4,39,M,O,B-AGE
+4,tuổi,N,O,
+4,),CH,O,
+4,",",CH,O,
+4,BN346,Np,B-PER,B-BN
+4,(,CH,O,
+4,nam,N,O,B-SEX
+4,",",CH,O,
+4,6,M,O,B-AGE
+4,tuổi,N,O,
+4,),CH,O,
+4,",",CH,O,
+4,BN347,Np,B-PER,B-BN
+4,(,CH,O,
+4,nam,N,O,B-SEX
+4,",",CH,O,
+4,6,M,O,B-AGE
+4,tuổi,N,O,
+4,),CH,O,
+4,",",CH,O,
+4,BN348,Np,B-PER,B-BN
+4,(,CH,O,
+4,nam,N,O,B-SEX
+4,",",CH,O,
+4,39,M,O,B-AGE
+4,tuổi,N,O,
+4,),CH,O,
+4,",",CH,O,
+4,BN349,Np,B-PER,B-BN
+4,(,CH,O,
+4,nam,N,O,B-SEX
+4,",",CH,O,
+4,12,M,O,B-AGE
+4,tuổi,N,O,
+4,),CH,O,
+4,cùng,C,O,
+4,có,V,O,
+4,địa chỉ,N,O,
+4,tại,E,O,
+4,Cổ Nhuế,Np,B-LOC,B-ADD
+4,1,M,O,I-ADD
+4,",",CH,O,I-ADD
+4,Bắc,Np,B-PER,I-ADD
+4,Từ Liêm,Np,I-PER,I-ADD
+4,",",CH,O,I-ADD
+4,Hà Nội,Np,B-LOC,I-ADD
+4,.,CH,O,
+5,THÔNG BÁO,Np,B-PER,
+5,VỀ,Np,B-PER,
+5,CA,Np,I-PER,
+5,BỆNH BN336,Np,I-PER,
+5,-,CH,O,
+5,BN342,Np,B-LOC,B-BN
+5,:,CH,O,
+5,BN336,Np,B-LOC,B-BN
+5,:,CH,B-LOC,
+5,BN,Np,I-LOC,
+5,nam,N,O,B-SEX
+5,",",CH,O,
+5,29,M,O,B-AGE
+5,tuổi,N,O,
+5,",",CH,O,
+5,có,V,O,
+5,địa chỉ,N,O,
+5,tại,E,O,
+5,Nghi Lộc,Np,B-LOC,B-ADD
+5,",",CH,B-LOC,I-ADD
+5,Nghệ An,Np,I-LOC,I-ADD
+5,.,CH,O,
+6,BN337,Np,B-PER,B-BN
+6,:,CH,O,
+6,BN,Np,O,
+6,nam,N,O,B-SEX
+6,",",CH,O,
+6,25,M,O,B-AGE
+6,tuổi,N,O,
+6,",",CH,O,
+6,có,V,O,
+6,địa chỉ,N,O,
+6,tại,E,O,
+6,Hoằng Hoá,Np,B-LOC,B-ADD
+6,",",CH,B-LOC,I-ADD
+6,Thanh Hoá,Np,I-LOC,I-ADD
+6,.,CH,O,
+7,BN338,Np,B-PER,B-BN
+7,:,CH,O,
+7,BN,Np,O,
+7,nam,N,O,B-SEX
+7,",",CH,O,
+7,38,M,O,B-AGE
+7,tuổi,N,O,
+7,",",CH,O,
+7,có,V,O,
+7,địa chỉ,N,O,
+7,tại,E,O,
+7,Lạng Giang,Np,B-LOC,B-ADD
+7,",",CH,B-LOC,I-ADD
+7,Bắc Giang,Np,I-LOC,I-ADD
+7,.,CH,O,
+8,BN339,Np,B-PER,B-BN
+8,:,CH,O,
+8,BN,Np,O,
+8,nam,N,O,B-SEX
+8,",",CH,O,
+8,37,M,O,
+8,tuổi,N,O,
+8,",",CH,O,
+8,có,V,O,
+8,địa chỉ,N,O,
+8,tại,E,O,
+8,Diễn Châu,Np,B-LOC,B-ADD
+8,",",CH,B-LOC,I-ADD
+8,Nghệ An,Np,I-LOC,I-ADD
+8,.,CH,O,
+9,BN340,Np,B-PER,B-BN
+9,:,CH,O,
+9,BN,Np,O,
+9,nam,N,O,B-SEX
+9,",",CH,O,
+9,33,M,O,B-AGE
+9,tuổi,N,O,
+9,",",CH,O,
+9,có,V,O,
+9,địa chỉ,N,O,
+9,tại,E,O,
+9,Yên Thành,Np,B-LOC,B-ADD
+9,",",CH,B-LOC,I-ADD
+9,Nghệ An,Np,I-LOC,I-ADD
+9,.,CH,O,
+10,BN341,Np,B-PER,B-BN
+10,:,CH,O,
+10,BN,Np,O,
+10,nam,N,O,B-SEX
+10,",",CH,O,
+10,35,M,O,B-AGE
+10,tuổi,N,O,
+10,",",CH,O,
+10,có,V,O,
+10,địa chỉ,N,O,
+10,tại,E,O,
+10,Tứ Kỳ,Np,B-LOC,B-ADD
+10,",",CH,B-LOC,I-ADD
+10,Hải Dương,Np,I-LOC,I-ADD
+10,.,CH,O,
+11,BN342,Np,B-PER,B-BN
+11,:,CH,O,
+11,BN,Np,O,
+11,nam,N,O,B-SEX
+11,",",CH,O,
+11,41,M,O,B-AGE
+11,tuổi,N,O,
+11,",",CH,O,
+11,có,V,O,
+11,địa chỉ,N,O,
+11,tại,E,O,
+11,Hương Khê,Np,B-LOC,B-ADD
+11,",",CH,B-LOC,I-ADD
+11,Hà Tĩnh,Np,I-LOC,I-ADD
+11,.,CH,O,
+12,Ngày,N,O,
+12,16/6,M,O,B-TIME
+12,các,L,O,
+12,BN,Np,B-PER,B-BNS
+12,này,P,O,
+12,từ,E,O,B-R
+12,Kuwait,Np,B-LOC,B-LOC
+12,(,CH,O,
+12,quá cảnh,N,B-LOC,B-R
+12,Quatar,Np,I-LOC,B-LOC
+12,),CH,O,
+12,về,E,O,B-R
+12,sân bay,N,B-LOC,B-LOC
+12,Tân Sơn Nhất,Np,I-LOC,I-LOC
+12,",",CH,O,I-LOC
+12,TP.,Ny,B-MISC,I-LOC
+12,Hồ Chí Minh,Np,I-MISC,I-LOC
+12,trên,E,O,
+12,chuyến,N,O,
+12,bay,V,O,
+12,QH9092,Np,B-LOC,B-FLIGHT
+12,và,C,O,
+12,được,V,O,
+12,cách ly,V,O,B-R
+12,ngay,T,O,
+12,tại,E,O,
+12,khu,N,B-LOC,B-LOC
+12,cách ly,V,I-LOC,I-LOC
+12,thị xã,N,I-LOC,I-LOC
+12,Phú Mỹ,Np,I-LOC,I-LOC
+12,",",CH,O,I-LOC
+12,tỉnh,N,B-LOC,I-LOC
+12,Bà Rịa,Np,I-LOC,I-LOC
+12,-,CH,O,I-LOC
+12,Vũng Tàu,Np,B-LOC,I-LOC
+12,.,CH,O,
+13,Ngày,N,O,
+13,17/6,M,O,B-TIME
+13,",",CH,O,
+13,các,L,O,
+13,BN,Np,B-PER,B-BNS
+13,được,V,O,
+13,lấy,V,O,
+13,mẫu,N,O,
+13,xét nghiệm,V,O,
+13,.,CH,O,
+14,Kết quả,N,O,
+14,xét nghiệm,V,O,
+14,ngày,N,B-LOC,
+14,17/6,M,I-LOC,B-TIME
+14,là,V,O,
+14,dương tính,N,O,B-STATUS
+14,với,E,O,
+14,SARS,Np,B-LOC,
+14,-,CH,O,
+14,CoV,Ny,O,
+14,-,CH,O,
+14,2,M,O,
+14,.,CH,O,
+15,Hiện,N,O,
+15,7,M,O,
+15,BN,Np,B-LOC,B-BNS
+15,được,V,O,
+15,cách ly,V,O,B-R
+15,",",CH,O,
+15,điều trị,V,O,B-R
+15,tại,E,O,
+15,Bệnh viện,N,B-LOC,B-LOC
+15,Bà Rịa,Np,I-LOC,I-LOC
+15,.,CH,O,
+16,THÔNG BÁO,Np,B-PER,
+16,VỀ,Np,B-PER,
+16,BN335,Np,I-PER,B-BN
+16,(,CH,O,
+16,BN335,Np,B-LOC,B-BN
+16,),CH,O,
+16,:,CH,O,
+16,BN,Np,B-PER,
+16,nam,N,O,B-SEX
+16,",",CH,O,
+16,24,M,O,B-AGE
+16,tuổi,N,O,
+16,",",CH,O,
+16,có,V,O,
+16,địa chỉ,N,O,
+16,tại,E,O,
+16,xã,N,B-LOC,B-ADD
+16,Khôi Kỳ,Np,I-LOC,I-ADD
+16,",",CH,O,I-ADD
+16,huyện,N,B-LOC,I-ADD
+16,Đại Từ,Np,I-LOC,I-ADD
+16,",",CH,O,I-ADD
+16,tỉnh,N,B-LOC,I-ADD
+16,Thái Nguyên,Np,I-LOC,I-ADD
+16,",",CH,O,
+16,sống,V,O,B-R
+16,và,C,O,
+16,làm việc,V,O,B-R
+16,tại,E,O,
+16,Kuwait,Np,B-LOC,B-LOC
+16,2,M,O,
+16,năm,N,O,
+16,.,CH,O,
+17,Ngày,N,O,
+17,16/6,M,O,B-TIME
+17,BN,Np,B-LOC,B-BN
+17,từ,E,O,B-R
+17,Kuwait,Np,B-LOC,B-LOC
+17,(,CH,O,
+17,quá cảnh,N,B-LOC,B-R
+17,Quatar,Np,I-LOC,B-LOC
+17,),CH,O,
+17,về,E,O,B-R
+17,sân bay,N,B-LOC,B-LOC
+17,Tân Sơn Nhất,Np,I-LOC,I-LOC
+17,được,R,O,
+17,cách ly,V,O,
+17,ngay,R,O,
+17,",",CH,O,
+17,lấy,V,O,
+17,mẫu,N,O,
+17,xét nghiệm,V,O,B-R
+17,tại,E,O,
+17,Bệnh viện,N,B-LOC,B-HOS
+17,Bệnh,N,I-LOC,I-HOS
+17,nhiệt đới,N,I-LOC,I-HOS
+17,TP.,Ny,I-LOC,I-HOS
+17,HCM.,Np,I-LOC,I-HOS
+18,Kết quả,N,O,
+18,xét nghiệm,V,O,
+18,ngày,N,O,
+18,16/6,M,O,B-TIME
+18,dương tính,N,O,B-STATUS
+18,với,E,O,
+18,SARS,Np,B-LOC,
+18,-,CH,O,
+18,CoV,Ny,O,
+18,-,CH,O,
+18,2,M,O,
+18,.,CH,O,
+19,Hiện,N,B-LOC,
+19,BN,Np,I-LOC,B-BN
+19,được,R,O,
+19,cách ly,V,O,B-R
+19,",",CH,O,
+19,điều trị,V,O,B-R
+19,tại,E,O,
+19,Bệnh viện,N,B-LOC,B-HOS
+19,Bệnh,N,I-LOC,I-HOS
+19,nhiệt đới,N,I-LOC,I-HOS
+19,TP.,Ny,I-LOC,I-HOS
+19,HCM.,Np,I-LOC,I-HOS
+20,Như vậy,X,O,
+20,",",CH,O,
+20,tính,V,O,
+20,đến,E,O,
+20,6h,M,O,
+20,ngày,N,O,
+20,17/6,M,O,B-TIME
+20,",",CH,O,
+20,Việt Nam,Np,B-LOC,
+20,có,V,O,
+20,tổng cộng,N,O,
+20,195,V,O,
+20,ca,N,O,
+20,nhiễm,V,O,
+20,nhập cảnh,N,O,
+20,được,V,O,
+20,cách ly,V,O,
+20,ngay,R,O,
+20,",",CH,O,
+20,không,R,O,
+20,có,V,O,
+20,nguy cơ,N,O,
+20,lây,V,O,
+20,ra,V,O,
+20,cộng đồng,N,O,
+20,",",CH,O,
+20,đồng thời,R,O,
+20,ghi nhận,V,O,
+20,62,M,O,
+20,ngày,N,O,
+20,liên tiếp,A,O,
+20,không,R,O,
+20,có,V,O,
+20,ca,N,O,
+20,nhiễm,V,O,
+20,trong,E,O,
+20,cộng đồng,N,O,
+20,.,CH,O,
+21,THÔNG BÁO,Np,B-PER,
+21,VỀ,Np,B-PER,
+21,CA BỆNH,Np,I-PER,
+21,334,V,O,
+21,(,CH,O,
+21,BN334,Np,B-LOC,B-BN
+21,),CH,O,
+21,:,CH,O,
+21,BN,N,O,
+21,nam,N,O,B-SEX
+21,",",CH,O,
+21,29,M,O,
+21,tuổi,N,O,
+21,",",CH,O,
+21,có,V,O,
+21,địa chỉ,N,O,
+21,tại,E,O,
+21,quận,N,B-LOC,B-ADD
+21,Bình Tân,Np,I-LOC,I-ADD
+21,",",CH,O,I-ADD
+21,TP,Ny,O,I-ADD
+21,Hồ Chí Minh,Np,B-PER,I-ADD
+21,.,CH,O,
+22,Ngày,N,O,
+22,14/01/2020,V,O,B-TIME
+22,đi,V,O,
+22,du lịch,V,O,B-R
+22,tới,E,O,
+22,Trung Quốc,Np,B-LOC,B-LOC
+22,",",CH,O,
+22,do,E,O,
+22,dịch bệnh,N,O,
+22,nên,C,O,
+22,bị,V,O,
+22,kẹt,V,O,
+22,không,R,O,
+22,về,V,O,
+22,Việt Nam,Np,B-LOC,
+22,được,R,O,
+22,.,CH,O,
+23,Ngày,N,O,
+23,31/5/2020,M,O,B-TIME
+23,BN,N,O,
+23,từ,E,O,B-R
+23,Hồ Bắc,Np,B-LOC,B-LOC
+23,",",CH,O,I-LOC
+23,Trung Quốc,Np,B-LOC,I-LOC
+23,đi,V,O,
+23,máy bay,N,O,
+23,đến,E,O,B-R
+23,Nam Ninh,Np,B-LOC,B-LOC
+23,",",CH,O,I-LOC
+23,Trung Quốc,Np,B-LOC,I-LOC
+23,",",CH,O,
+23,sau,N,O,
+23,đó,P,O,
+23,nhập cảnh,V,O,B-R
+23,vào,E,O,
+23,Việt Nam,Np,B-LOC,B-LOC
+23,qua,V,O,
+23,cửa khẩu,N,O,
+23,quốc tế,N,B-LOC,
+23,Móng Cái,Np,I-LOC,
+23,",",CH,O,
+23,Quảng Ninh,Np,B-LOC,
+23,.,CH,O,
+24,Ngay,T,O,
+24,sau,N,O,
+24,khi,N,O,
+24,nhập cảnh,V,O,
+24,(,CH,O,
+24,ngày,N,B-LOC,
+24,31/5/2020,M,I-LOC,B-TIME
+24,),CH,O,
+24,BN,N,O,B-BN
+24,được,V,O,B-R
+24,đưa,V,O,I-R
+24,đến,E,O,I-R
+24,khu,N,O,B-LOC
+24,cách ly,V,O,I-LOC
+24,tập trung,V,O,I-LOC
+24,ở,E,O,I-LOC
+24,Móng Cái,Np,B-LOC,I-LOC
+24,.,CH,O,
+25,Trung tâm,N,O,
+25,Kiểm soát,V,O,
+25,bệnh tật,N,B-LOC,
+25,tỉnh,N,I-LOC,
+25,Quảng Ninh,Np,I-LOC,
+25,lấy,V,O,
+25,mẫu,N,O,
+25,xét nghiệm,V,O,
+25,lần,N,B-LOC,
+25,1,M,I-LOC,
+25,ngày,N,B-LOC,
+25,03/06/2020,M,I-LOC,B-TIME
+25,cho,E,O,
+25,kết quả,N,O,
+25,âm tính,V,O,B-STATUS
+25,với,E,O,
+25,SARS,Np,B-PER,
+25,-,CH,O,
+25,CoV,Ny,O,
+25,-,CH,O,
+25,2,M,O,
+25,.,CH,O,
+26,Xét nghiệm,V,O,
+26,lần,N,O,
+26,2,M,O,
+26,ngày,N,B-LOC,
+26,11/06/2020,M,I-LOC,B-TIME
+26,có,V,O,
+26,kết quả,N,O,
+26,dương tính,A,O,B-STATUS
+26,với,E,O,
+26,SARS,Np,B-LOC,
+26,-,CH,O,
+26,CoV,Ny,O,
+26,-,CH,O,
+26,2,M,O,
+26,.,CH,O,
+27,Hiện,N,O,
+27,BN,N,O,B-BN
+27,được,V,O,
+27,chuyển,V,O,
+27,cách ly,V,O,B-R
+27,",",CH,O,
+27,điều trị,V,O,B-R
+27,tại,E,O,
+27,Bệnh viện,N,B-LOC,B-HOS
+27,Bệnh,N,I-LOC,I-HOS
+27,nhiệt đới,N,I-LOC,I-HOS
+27,Trung ương,N,I-LOC,I-HOS
+27,cơ sở,N,I-LOC,I-HOS
+27,2,M,I-LOC,I-HOS
+27,.,CH,O,
+28,THÔNG BÁO,Np,B-PER,
+28,VỀ,Np,B-PER,
+28,BN333,Np,I-PER,B-BN
+28,(,CH,O,
+28,BN333,Np,B-LOC,B-BN
+28,),CH,O,
+28,:,CH,O,
+28,BN,Np,B-PER,
+28,nam,N,O,B-SEX
+28,",",CH,O,
+28,37,M,O,B-AGE
+28,tuổi,N,O,
+28,",",CH,O,
+28,có,V,O,
+28,địa chỉ,N,O,
+28,tại,E,O,
+28,Phường,Np,B-LOC,I-ADD
+28,9,M,O,I-ADD
+28,",",CH,O,I-ADD
+28,thành phố,N,B-LOC,I-ADD
+28,Vũng Tàu,Np,I-LOC,I-ADD
+28,",",CH,O,I-ADD
+28,tỉnh,N,B-LOC,I-ADD
+28,Bà Rịa,Np,I-LOC,I-ADD
+28,-,CH,O,I-ADD
+28,Vũng Tàu,Np,B-LOC,I-ADD
+28,.,CH,O,
+29,BN,Np,B-PER,B-BN
+29,là,V,O,B-R
+29,thuyền viên,N,O,I-R
+29,trên,E,O,
+29,tàu thủy,N,B-LOC,B-LOC
+29,Pacific,Np,I-LOC,I-LOC
+29,Vũng Tàu,Np,B-LOC,I-LOC
+29,(,CH,O,
+29,loại,N,O,
+29,tàu,N,O,
+29,dịch vụ,N,O,
+29,lai,A,O,
+29,kéo,V,O,
+29,),CH,O,
+29,hoạt động,V,O,
+29,tại,E,O,
+29,Malaysia,Np,B-LOC,
+29,.,CH,O,
+30,Ngày,N,O,
+30,30/5/2020,M,O,B-TIME
+30,từ,E,O,B-R
+30,Malaysia,Np,B-LOC,B-LOC
+30,nhập cảnh,V,O,B-R
+30,tại,E,O,
+30,cảng,N,B-LOC,B-LOC
+30,Vũng Tàu,Np,I-LOC,I-LOC
+30,và,C,O,
+30,được,V,O,
+30,chuyển,V,O,
+30,cách ly,V,O,
+30,tập trung,V,O,
+30,ngay,T,O,
+30,sau,N,O,
+30,khi,N,O,
+30,nhập cảnh,V,O,
+30,.,CH,O,
+31,Kết quả,N,O,
+31,xét nghiệm,V,O,
+31,lần,N,O,
+31,1,M,O,
+31,ngày,N,O,
+31,31/5/2020,M,O,B-TIME
+31,âm tính,N,O,B-STATUS
+31,với,E,O,
+31,vi rút,N,B-LOC,
+31,SARS,Np,I-LOC,
+31,-,CH,O,
+31,CoV,Ny,O,
+31,-,CH,O,
+31,2,M,O,
+31,",",CH,O,
+31,ngày,N,O,
+31,11/6/2020,M,O,B-TIME
+31,(,CH,O,
+31,khi,N,O,
+31,chuẩn bị,V,O,
+31,rời,V,O,
+31,khu,N,O,
+31,cách ly,V,O,
+31,tập trung,V,O,
+31,),CH,O,
+31,xét nghiệm,V,O,
+31,lần,N,B-LOC,
+31,2,M,I-LOC,
+31,dương tính,N,O,B-STATUS
+31,với,E,O,
+31,vi rút,N,B-LOC,
+31,SARS,Np,I-LOC,
+31,-,CH,O,
+31,CoV,Ny,O,
+31,-,CH,O,
+31,2,M,O,
+31,.,CH,O,
+32,Hiện,N,O,
+32,BN,Np,B-PER,B-BN
+32,đang,R,O,
+32,được,V,O,
+32,chuyển,V,O,
+32,cách ly,V,O,B-R
+32,",",CH,O,
+32,điều trị,V,O,B-R
+32,tại,E,O,
+32,Bệnh viện,N,B-LOC,B-HOS
+32,Bà Rịa,Np,I-LOC,I-HOS
+32,.,CH,O,
+33,THÔNG BÁO,Np,B-PER,
+33,VỀ,Np,B-PER,
+33,BN332,Np,I-PER,B-BN
+33,(,CH,O,
+33,BN332,Np,B-LOC,B-BN
+33,),CH,O,
+33,:,CH,O,
+33,BN,Np,B-PER,
+33,nam,N,O,B-SEX
+33,",",CH,O,
+33,18,M,O,B-AGE
+33,tuổi,N,O,
+33,",",CH,O,
+33,có,V,O,
+33,địa chỉ,N,O,
+33,tại,E,O,
+33,xã,N,B-LOC,B-ADD
+33,Thường Phước,Np,I-LOC,I-ADD
+33,",",CH,O,I-ADD
+33,huyện,N,B-LOC,I-ADD
+33,Hồng Ngự,Np,I-LOC,I-ADD
+33,",",CH,B-LOC,I-ADD
+33,tỉnh,N,I-LOC,I-ADD
+33,Đồng Tháp,Np,I-LOC,I-ADD
+33,.,CH,O,
+34,Ngày,N,O,
+34,25/5,M,O,B-TIME
+34,",",CH,O,
+34,thanh niên,N,O,
+34,này,P,O,
+34,từ,E,O,B-R
+34,nước ngoài,N,O,B-LOC
+34,nhập cảnh,V,O,B-R
+34,vào,E,O,
+34,Việt Nam,Np,B-LOC,B-LOC
+34,qua,V,O,B-R
+34,cửa khẩu,N,B-LOC,B-LOC
+34,Thường Phước,Np,I-LOC,I-LOC
+34,",",CH,O,I-LOC
+34,huyện,N,B-LOC,I-LOC
+34,Hồng Ngự,Np,I-LOC,I-LOC
+34,",",CH,O,I-LOC
+34,tỉnh,N,B-LOC,I-LOC
+34,Đồng Tháp,Np,I-LOC,I-LOC
+34,và,C,O,
+34,được,V,O,
+34,cách ly,V,O,B-R
+34,tập trung,V,O,
+34,ngay,T,O,
+34,tại,E,O,
+34,Trung tâm,N,B-LOC,B-HOS
+34,Y tế,N,I-LOC,I-HOS
+34,huyện,N,I-LOC,I-HOS
+34,Hồng Ngự,Np,I-LOC,I-HOS
+34,.,CH,O,
+35,Kết quả,N,O,
+35,xét nghiệm,V,O,
+35,lần,N,O,
+35,1,M,O,
+35,ngày,N,O,
+35,26/5,M,O,B-TIME
+35,âm tính,N,O,B-STATUS
+35,với,E,O,
+35,SARS,Np,B-LOC,
+35,-,CH,O,
+35,CoV,Ny,O,
+35,-,CH,O,
+35,2,M,O,
+35,",",CH,O,
+35,kết quả,N,O,
+35,xét nghiệm,V,O,
+35,lần,N,B-LOC,
+35,2,M,I-LOC,
+35,(,CH,O,
+35,khi,N,O,
+35,chuẩn bị,V,O,
+35,rời,V,O,
+35,khu,N,O,
+35,cách ly,V,O,
+35,tập trung,V,O,
+35,),CH,O,
+35,ngày,N,B-LOC,
+35,07/6,M,I-LOC,B-TIME
+35,là,V,O,
+35,dương tính,N,O,B-STATUS
+35,với,E,O,
+35,SARS,Np,B-LOC,
+35,-,CH,O,
+35,CoV,Ny,O,
+35,-,CH,O,
+35,2,M,O,
+35,.,CH,O,
+36,Hiện,N,B-LOC,
+36,BN,Np,I-LOC,B-BN
+36,được,R,O,
+36,cách ly,V,O,B-R
+36,",",CH,O,
+36,điều trị,V,O,B-R
+36,tại,E,O,
+36,Trung tâm,N,B-LOC,B-HOS
+36,Y tế,N,I-LOC,I-HOS
+36,huyện,N,I-LOC,I-HOS
+36,Hồng Ngự,Np,I-LOC,I-HOS
+36,",",CH,B-LOC,I-HOS
+36,tỉnh,N,I-LOC,I-HOS
+36,Đồng Tháp,Np,I-LOC,I-HOS
+36,.,CH,O,
+37,THÔNG BÁO,Np,O,
+37,VỀ,Np,B-LOC,
+37,2,M,I-LOC,
+37,BN330,Np,I-LOC,B-BN
+37,",",CH,O,
+37,BN331,Np,B-LOC,B-BN
+37,:,CH,B-LOC,
+37,BN330,Np,I-LOC,B-BN
+37,(,CH,O,
+37,BN330,Np,B-LOC,B-BN
+37,),CH,O,
+37,là,V,O,
+37,nữ giới,N,O,B-SEX
+37,",",CH,O,
+37,28,M,O,B-SEX
+37,tuổi,N,O,
+37,",",CH,O,
+37,có,V,O,
+37,địa chỉ,N,O,
+37,tại,E,O,
+37,Cẩm Nam,Np,B-LOC,B-ADD
+37,",",CH,B-LOC,I-ADD
+37,Cẩm Xuyên,Np,I-LOC,I-ADD
+37,",",CH,O,I-ADD
+37,Hà Tĩnh,Np,B-LOC,I-ADD
+37,",",CH,O,
+37,làm việc,V,O,B-R
+37,tại,E,O,
+37,một,M,O,
+37,công ty,N,O,
+37,ở,E,O,
+37,TP.,Ny,B-LOC,B-LOC
+37,HCM.,Np,I-LOC,I-LOC
+38,BN331,Np,B-PER,B-BN
+38,(,CH,O,
+38,BN331,Np,B-LOC,B-BN
+38,),CH,O,
+38,là,V,O,
+38,nữ giới,N,O,B-SEX
+38,",",CH,O,
+38,47,M,O,B-AGE
+38,tuổi,N,O,
+38,",",CH,O,
+38,có,V,O,
+38,địa chỉ,N,O,
+38,tại,E,O,
+38,phường,N,B-LOC,B-ADD
+38,12,M,I-LOC,I-ADD
+38,",",CH,O,I-ADD
+38,Quận,Np,B-LOC,I-ADD
+38,5,M,O,I-ADD
+38,",",CH,O,I-ADD
+38,TP.,Ny,B-LOC,I-ADD
+38,HCM,Np,I-LOC,I-ADD
+38,",",CH,O,
+38,làm,V,O,B-R
+38,cùng,A,O,I-R
+38,công ty,N,O,I-R
+38,với,E,O,
+38,BN330,Np,B-PER,B-BN
+38,.,CH,O,
+39,Ngày,N,O,
+39,13/3,M,O,B-TIME
+39,",",CH,O,
+39,hai,M,O,
+39,BN,Np,B-PER,B-BNS
+39,đi,V,O,
+39,từ,E,O,B-R
+39,TP.,Ny,B-LOC,B-LOC
+39,HCM,Np,I-LOC,I-LOC
+39,đến,E,O,B-R
+39,Mexico,Np,B-LOC,B-LOC
+39,.,CH,O,
+40,Do,E,O,
+40,đóng,V,O,
+40,cửa,N,O,
+40,biên giới,N,O,
+40,và,C,O,
+40,cấm,V,O,
+40,bay,V,O,
+40,nên,C,O,
+40,đã,R,O,
+40,ở,V,O,
+40,lại,V,B-LOC,
+40,Mexico,Np,I-LOC,
+40,đến,E,O,
+40,ngày,N,B-LOC,
+40,4/6,M,I-LOC,B-TIME
+40,cùng,C,O,
+40,bay,V,O,
+40,về,E,O,B-R
+40,Nhật Bản,Np,B-LOC,B-LOC
+40,",",CH,B-LOC,
+40,ngày,N,I-LOC,
+40,5/6,M,I-LOC,B-TIME
+40,từ,E,O,B-R
+40,Nhật Bản,Np,B-LOC,B-LOC
+40,bay,V,O,
+40,về,E,O,B-R
+40,Đà Nẵng,Np,B-LOC,B-LOC
+40,trên,E,O,
+40,chuyến,N,O,
+40,bay,V,O,
+40,VN319,Np,B-LOC,B-FLIGHT
+40,.,CH,O,
+41,Hiện,N,O,B-TIME
+41,BN,Np,B-PER,B-BN
+41,đang,R,O,
+41,cách ly,V,O,B-R
+41,",",CH,O,
+41,điều trị,V,O,B-R
+41,tại,E,O,
+41,Bệnh viện,N,B-LOC,B-HOS
+41,Đa khoa,N,I-LOC,I-HOS
+41,Trung ương,N,I-LOC,I-HOS
+41,Quảng Nam,Np,I-LOC,I-HOS
+41,.,CH,O,
+42,Như vậy,X,O,
+42,",",CH,O,
+42,tính,V,O,
+42,đến,E,O,
+42,6h,M,O,
+42,ngày,N,O,
+42,8/6,M,O,B-TIME
+42,",",CH,O,
+42,Việt Nam,Np,B-LOC,
+42,có,V,O,
+42,tổng cộng,N,O,
+42,191,V,O,
+42,ca,N,O,
+42,nhiễm,V,O,
+42,nhập cảnh,N,O,
+42,được,V,O,
+42,cách ly,V,O,
+42,ngay,R,O,
+42,",",CH,O,
+42,đã,R,O,
+42,có,V,O,
+42,53,M,O,
+42,ngày,N,O,
+42,liên tiếp,A,O,
+42,không,R,O,
+42,có,V,O,
+42,ca,N,O,
+42,lây nhiễm,V,O,
+42,trong,E,O,
+42,cộng đồng,N,O,
+42,.,CH,O,
+43,THÔNG BÁO,Np,B-PER,
+43,VỀ,Np,B-PER,
+43,BN329,Np,I-PER,B-BN
+43,(,CH,O,
+43,BN329,Np,B-LOC,B-BN
+43,),CH,O,
+43,:,CH,O,
+43,BN,Np,B-PER,
+43,nam,N,O,B-SEX
+43,",",CH,O,
+43,22,M,O,B-AGE
+43,tuổi,N,O,
+43,",",CH,O,
+43,du học sinh,N,O,B-R
+43,tại,E,O,
+43,Anh,Np,B-LOC,B-LOC
+43,",",CH,O,
+43,có,V,O,
+43,địa chỉ,N,O,
+43,tại,E,O,
+43,phường,N,B-LOC,B-ADD
+43,Phương Liệt,Np,I-LOC,I-ADD
+43,",",CH,O,I-ADD
+43,quận,N,B-LOC,I-ADD
+43,Thanh Xuân,Np,I-LOC,I-ADD
+43,",",CH,O,I-ADD
+43,Hà Nội,Np,B-LOC,I-ADD
+43,.,CH,O,
+44,Ngày,N,O,
+44,04/6,M,O,B-TIME
+44,",",CH,O,
+44,BN,Np,B-PER,B-BN
+44,từ,E,O,B-R
+44,Anh,Np,B-LOC,B-LOC
+44,về,E,O,B-R
+44,Sân bay,N,B-LOC,B-LOC
+44,Tân Sơn Nhất,Np,I-LOC,I-LOC
+44,",",CH,O,I-LOC
+44,TP.,Ny,B-MISC,I-LOC
+44,Hồ CHí Minh,Np,I-MISC,I-LOC
+44,trên,E,O,
+44,chuyến,N,O,
+44,bay,V,O,
+44,VN50,Np,B-LOC,B-FLIGHT
+44,",",CH,O,
+44,được,V,O,
+44,cách ly,V,O,B-R
+44,tập trung,V,O,
+44,ngay,T,O,
+44,tại,E,O,
+44,Trường,N,B-LOC,B-LOC
+44,Thiếu sinh quân,N,I-LOC,I-LOC
+44,",",CH,I-LOC,I-LOC
+44,Khu C,Np,I-LOC,I-LOC
+44,",",CH,O,I-LOC
+44,Củ Chi,Np,B-LOC,I-LOC
+44,",",CH,B-LOC,I-LOC
+44,TP. HCM,Np,I-LOC,I-LOC
+44,(,CH,O,
+44,không,R,O,
+44,có,V,O,
+44,nguy cơ,N,O,
+44,lây,V,O,
+44,ra,V,O,
+44,cộng đồng,N,O,
+44,),CH,O,
+44,.,CH,O,
+45,BN329,Np,B-PER,B-BN
+45,được,V,O,
+45,lấy,V,O,
+45,mẫu,N,O,
+45,xét nghiệm,V,O,
+45,vào,E,O,
+45,ngày,N,B-LOC,
+45,5/6,M,I-LOC,B-TIME
+45,và,C,O,
+45,có,V,O,
+45,kết quả,N,O,
+45,xét nghiệm,V,O,
+45,cùng,A,O,
+45,ngày,N,O,
+45,.,CH,O,
+46,Hiện,N,B-LOC,B-TIME
+46,BN,Np,I-LOC,B-BN
+46,được,R,O,
+46,cách ly,V,O,B-R
+46,",",CH,O,
+46,điều trị,V,O,B-R
+46,tại,E,O,
+46,Bệnh viện,N,B-LOC,B-HOS
+46,Dã chiến,N,I-LOC,I-HOS
+46,Củ Chi,Np,I-LOC,I-HOS
+46,.,CH,O,
+47,TRÒN,N,O,
+47,50,M,O,
+47,NGÀY,N,O,
+47,KHÔNG,R,O,
+47,CÓ,V,O,
+47,CA,Np,B-PER,
+47,LÂY NHIỄM,Np,I-PER,
+47,COVID,Np,I-PER,
+47,-,CH,O,
+47,19,M,O,
+47,TRONG,E,O,
+47,CỘNG ĐỒNG,Np,B-LOC,
+47,:,CH,O,
+47,Tính,V,O,
+47,đến,E,O,
+47,6h,N,B-LOC,
+47,sáng,N,I-LOC,
+47,5/6,M,I-LOC,B-TIME
+47,",",CH,O,
+47,ngày,N,B-LOC,
+47,thứ,N,I-LOC,
+47,50,M,I-LOC,
+47,liên tiếp,A,O,
+47,Việt Nam,Np,B-LOC,
+47,không,R,O,
+47,ghi nhận,V,O,
+47,thêm,V,O,
+47,ca,N,O,
+47,nhiễm,V,O,
+47,COVID,Np,B-LOC,
+47,-,CH,O,
+47,19,M,O,
+47,mới,A,O,
+47,trong,E,O,
+47,cộng đồng,N,O,
+47,",",CH,O,
+47,là,V,O,
+47,ngày,N,B-LOC,
+47,thứ,N,I-LOC,
+47,6,M,I-LOC,
+47,liên tiếp,A,O,
+47,không,R,O,
+47,thêm,V,O,
+47,ca,N,O,
+47,nhiễm,V,O,
+47,mới,A,O,
+47,.,CH,O,
+48,Trong,E,O,
+48,tổng số,N,O,
+48,328,V,O,
+48,ca,N,O,
+48,nhiễm,V,O,
+48,trên,E,O,
+48,cả,T,O,
+48,nước,N,O,
+48,(,CH,O,
+48,188,V,O,
+48,ca,N,O,
+48,là,V,O,
+48,những,L,O,
+48,ca,N,O,
+48,nhập cảnh,V,O,
+48,được,R,O,
+48,cách ly,V,O,
+48,ngay,T,O,
+48,),CH,O,
+48,",",CH,O,
+48,đã,R,O,
+48,có,V,O,
+48,302,M,O,
+48,người,N,O,
+48,khỏi,V,O,
+48,bệnh,N,O,
+48,",",CH,O,
+48,chiếm,V,O,
+48,92,A,O,
+48,%,V,O,
+48,.,CH,O,
+49,26,N,O,
+49,BN,Np,B-PER,
+49,điều trị,V,O,
+49,tại,E,O,
+49,6,M,O,
+49,cơ sở,N,O,
+49,y tế,N,O,
+49,",",CH,O,
+49,tình trạng,N,O,
+49,sức khỏe,V,O,
+49,cơ bản,A,O,
+49,ổn định,A,O,
+49,.,CH,O,
+50,Trong,E,O,
+50,số,N,O,
+50,này,P,O,
+50,",",CH,O,
+50,có,V,O,
+50,7,M,O,
+50,ca,N,O,
+50,xét nghiệm,V,O,
+50,chuyển,V,O,
+50,âm tính,V,O,B-STATUS
+50,lần,N,O,
+50,một,M,O,
+50,",",CH,O,
+50,7,M,O,
+50,ca,N,O,
+50,âm tính,V,O,B-STATUS
+50,lần,N,B-LOC,
+50,hai,M,I-LOC,
+50,trở,V,O,
+50,lên,V,O,
+50,.,CH,O,
+51,Chỉ,R,O,
+51,còn,V,O,
+51,12,M,O,
+51,người,N,O,
+51,vẫn,R,O,
+51,dương tính,V,O,B-STATUS
+51,với,E,O,
+51,SARS,Np,B-PER,
+51,-,CH,O,
+51,CoV,Ny,O,
+51,-,CH,O,
+51,2,M,O,
+51,gây,V,O,
+51,bệnh,N,B-LOC,
+51,COVID,Np,I-LOC,
+51,-,CH,O,
+51,19,M,O,
+51,.,CH,O,
+52,THÔNG BÁO,Np,B-PER,
+52,VỀ,Np,B-PER,
+52,BN328,Np,I-PER,B-BN
+52,(,CH,O,
+52,BN328,Np,B-LOC,B-BN
+52,),CH,O,
+52,:,CH,O,
+52,BN,Np,B-PER,
+52,nam,N,O,B-SEX
+52,",",CH,O,
+52,01,M,O,B-AGE
+52,tuổi,N,O,
+52,",",CH,O,
+52,có,V,O,
+52,địa chỉ,N,O,
+52,tại,E,O,
+52,Thiệu Duy,Np,B-LOC,B-ADD
+52,",",CH,B-LOC,I-ADD
+52,Thiệu Hoá,Np,I-LOC,I-ADD
+52,",",CH,O,I-ADD
+52,tỉnh,N,B-LOC,I-ADD
+52,Thanh Hoá,Np,I-LOC,I-ADD
+52,",",CH,O,
+52,tiếp xúc,V,O,B-R
+52,gần,A,B-LOC,I-R
+52,BN314,Np,I-LOC,B-BN
+52,ở,E,O,
+52,Nga,Np,B-LOC,
+52,và,C,O,
+52,cùng,A,O,
+52,trên,E,O,
+52,chuyến,N,O,
+52,bay,V,O,
+52,.,CH,O,
+53,Ngày,N,O,
+53,13/5,M,O,B-TIME
+53,",",CH,O,
+53,BN,Np,B-PER,B-BN
+53,từ,E,O,B-R
+53,Liên Bang Nga,Np,B-LOC,B-LOC
+53,về,E,O,B-R
+53,Sân bay,N,B-LOC,B-LOC
+53,Vân Đồn,Np,I-LOC,I-LOC
+53,trên,E,O,
+53,chuyến,N,O,
+53,bay,V,O,
+53,VN0062,Np,B-LOC,B-FLIGHT
+53,",",CH,O,
+53,được,V,O,
+53,cách ly,V,O,B-R
+53,ngay,T,O,
+53,tại,E,O,
+53,Trung đoàn,N,B-LOC,B-LOC
+53,125,M,I-LOC,I-LOC
+53,",",CH,O,I-LOC
+53,Cộng Hoà,Np,B-LOC,I-LOC
+53,",",CH,B-LOC,I-LOC
+53,Chí Linh,Np,I-LOC,I-LOC
+53,",",CH,O,I-LOC
+53,tỉnh,N,B-LOC,I-LOC
+53,Hải Dương,Np,I-LOC,I-LOC
+53,.,CH,O,
+54,Cùng,A,O,
+54,ngày,N,O,
+54,",",CH,O,
+54,BN,Np,B-PER,B-BN
+54,được,V,O,
+54,lấy,V,O,
+54,mẫu,N,O,
+54,xét nghiệm,V,O,
+54,và,C,O,
+54,cho,E,O,
+54,kết quả,N,O,
+54,âm tính,A,O,B-STATUS
+54,.,CH,O,
+55,Ngày,N,O,
+55,28/5,M,O,B-TIME
+55,",",CH,O,
+55,Trung tâm,N,O,
+55,Kiểm soát,V,O,
+55,bệnh tật,N,B-LOC,
+55,tỉnh,N,I-LOC,
+55,Hải Dương,Np,I-LOC,
+55,lấy,V,O,
+55,mẫu,N,O,
+55,xét nghiệm,V,O,
+55,lần,N,B-LOC,
+55,4,M,I-LOC,
+55,và,C,O,
+55,cho,E,O,
+55,kết quả,N,O,
+55,dương tính,A,O,B-STATUS
+55,.,CH,O,
+56,Ngày,N,O,
+56,29/5,M,O,B-TIME
+56,",",CH,O,
+56,kết quả,N,O,
+56,xét nghiệm,V,O,
+56,của,E,O,
+56,Viện,N,O,
+56,Vệ sinh,V,O,
+56,Dịch tễ,V,O,
+56,Trung ương,N,O,
+56,cho,E,O,
+56,kết quả,N,O,
+56,dương tính,A,O,B-STATUS
+56,với,E,O,
+56,SARS,Np,B-LOC,
+56,-,CH,O,
+56,CoV,Ny,O,
+56,-,CH,O,
+56,2,M,O,
+56,.,CH,O,
+57,Hiện,N,B-LOC,B-TIME
+57,BN,Np,I-LOC,B-BN
+57,được,R,O,
+57,cách ly,V,O,B-R
+57,",",CH,O,
+57,điều trị,V,O,B-R
+57,tại,E,O,
+57,Bệnh viện,N,B-LOC,B-HOS
+57,Bệnh,N,I-LOC,I-HOS
+57,Nhiệt đới,N,I-LOC,I-HOS
+57,TP.,Ny,I-LOC,I-HOS
+57,Hải Dương,Np,I-LOC,I-HOS
+57,.,CH,O,
+58,Tổng số,N,O,
+58,ca,N,O,
+58,nhiễm,V,O,
+58,trên,E,O,
+58,chuyến,N,O,
+58,bay,V,O,
+58,:,CH,O,
+58,34,V,O,
+58,được,R,O,
+58,cách ly,V,O,
+58,ngay,T,O,
+58,sau,N,O,
+58,nhập cảnh,N,O,
+58,(,CH,O,
+58,cách ly,N,O,
+58,tại,E,O,
+58,Thái Bình,Np,B-LOC,
+58,28,M,O,
+58,",",CH,O,
+58,Hải Dương,Np,B-LOC,
+58,3,M,O,
+58,",",CH,O,
+58,Quảng Ninh,Np,B-LOC,
+58,1,M,O,
+58,và,C,O,
+58,02,V,O,
+58,tiếp viên,N,O,
+58,cách ly,V,O,
+58,tại,E,O,
+58,TP.,Ny,B-LOC,
+58,Hồ Chí Minh,Np,I-LOC,
+58,),CH,O,
+58,.,CH,O,
+59,THÔNG BÁO,Np,B-PER,
+59,VỀ,Np,B-PER,
+59,BN327,Np,I-PER,B-BN
+59,(,CH,O,
+59,BN327,Np,B-LOC,B-BN
+59,),CH,O,
+59,:,CH,O,
+59,BN,Np,B-PER,
+59,nam,N,O,B-SEX
+59,",",CH,O,
+59,31,M,O,B-AGE
+59,tuổi,N,O,
+59,",",CH,O,
+59,có,V,O,
+59,địa chỉ,N,O,
+59,tại,E,O,
+59,Nam Vân,Np,B-LOC,B-ADD
+59,",",CH,B-LOC,I-ADD
+59,TP.,Ny,I-LOC,I-ADD
+59,Nam Định,Np,I-LOC,I-ADD
+59,",",CH,O,I-ADD
+59,tỉnh,N,B-LOC,I-ADD
+59,Nam Định,Np,I-LOC,I-ADD
+59,.,CH,O,
+60,Ngày,N,O,
+60,13/5,M,O,B-TIME
+60,",",CH,O,
+60,BN,Np,B-PER,B-BN
+60,từ,E,O,B-R
+60,Liên bang Nga,N,O,B-LOC
+60,về,E,O,B-R
+60,Sân bay,N,B-LOC,B-LOC
+60,Vân Đồn,Np,I-LOC,I-LOC
+60,trên,E,O,
+60,chuyến,N,O,
+60,bay,V,O,
+60,VN0062,Np,B-LOC,B-FLIGHT
+60,",",CH,O,
+60,sau,N,O,
+60,khi,N,O,
+60,nhập cảnh,V,O,
+60,được,R,O,
+60,cách ly,V,O,B-R
+60,tập trung,V,O,
+60,tại,E,O,
+60,Trường,N,B-LOC,B-LOC
+60,Quân sự,N,I-LOC,I-LOC
+60,tỉnh,N,I-LOC,I-LOC
+60,Thái Bình,Np,I-LOC,I-LOC
+60,.,CH,O,
+61,Cùng,A,O,
+61,ngày,N,O,
+61,",",CH,O,
+61,được,V,O,
+61,lấy,V,O,
+61,mẫu,N,O,
+61,xét nghiệm,V,O,
+61,và,C,O,
+61,cho,E,O,
+61,kết quả,N,O,
+61,âm tính,A,O,B-STATUS
+61,.,CH,O,
+62,Ngày,N,O,
+62,25/5,M,O,B-TIME
+62,",",CH,O,
+62,Trung tâm,N,O,
+62,Kiểm soát,V,O,
+62,Bệnh tật,N,B-LOC,
+62,tỉnh,N,I-LOC,
+62,Thái Bình,Np,I-LOC,
+62,lấy,V,O,
+62,mẫu,N,O,
+62,xét nghiệm,V,O,
+62,lần,N,B-LOC,
+62,4,M,I-LOC,
+62,cho,E,O,
+62,kết quả,N,O,
+62,dương tính,A,O,B-STATUS
+62,vớiSARS,M,O,
+62,-,CH,O,
+62,CoV,Ny,O,
+62,-,CH,O,
+62,2,M,O,
+62,.,CH,O,
+63,Ngày,N,O,
+63,26/5,M,O,B-TIME
+63,",",CH,O,
+63,Viện,N,O,
+63,Vệ sinh,V,O,
+63,dịch tễ,N,O,
+63,Trung ương,N,O,
+63,xét nghiệm,V,O,
+63,cho,E,O,
+63,kết quả,N,O,
+63,dương tính,A,O,B-STATUS
+63,vớiSARS,M,O,
+63,-,CH,O,
+63,CoV,Ny,O,
+63,-,CH,O,
+63,2,M,O,
+63,.,CH,O,
+64,Hiện,N,B-LOC,B-TIME
+64,BN,Np,I-LOC,B-BN
+64,được,R,O,
+64,cách ly,V,O,B-R
+64,",",CH,O,
+64,điều trị,V,O,B-R
+64,tại,E,O,
+64,Bệnh viện,N,B-LOC,B-HOS
+64,Đa khoa,N,I-LOC,I-HOS
+64,tỉnh,N,I-LOC,I-HOS
+64,Thái Bình,Np,I-LOC,I-HOS
+64,.,CH,O,
+65,Như vậy,X,O,
+65,tổng số,N,O,
+65,ca,N,O,
+65,mắc,V,O,
+65,là,V,O,
+65,hành khách,N,O,
+65,trên,E,O,
+65,chuyến,N,O,
+65,bay,V,O,
+65,VN0062,Np,B-LOC,B-FLIGHT
+65,ngày,N,B-LOC,
+65,13/5,M,I-LOC,B-TIME
+65,là,C,O,
+65,33,M,O,
+65,trường hợp,N,O,
+65,.,CH,O,
+66,Tất cả,P,O,
+66,được,R,O,
+66,cách ly,V,O,
+66,ngay,T,O,
+66,sau,N,O,
+66,nhập cảnh,N,O,
+66,không,R,O,
+66,có,V,O,
+66,nguy cơ,N,O,
+66,lây,V,O,
+66,bệnh,N,O,
+66,ra,V,O,
+66,cộng đồng,N,O,
+66,",",CH,O,
+66,bao gồm,V,O,
+66,31,N,O,
+66,hành khách,N,O,
+66,:,CH,O,
+66,28,M,O,
+66,người,N,O,
+66,cách ly,V,O,
+66,tại,E,O,
+66,Thái Bình,Np,B-LOC,
+66,",",CH,B-LOC,
+66,2,M,I-LOC,
+66,tại,E,O,
+66,Hải Dương,Np,B-LOC,
+66,",",CH,B-LOC,
+66,1,M,I-LOC,
+66,tại,E,O,
+66,Quảng Ninh,Np,B-LOC,
+66,.,CH,O,
+67,và,C,O,
+67,02,V,O,
+67,tiếp viên,N,O,
+67,cách ly,V,O,
+67,tại,E,O,
+67,TP.,Ny,B-LOC,
+67,Hồ Chí Minh,Np,I-LOC,
+67,),CH,O,
+67,.,CH,O,
+68,THÔNG BÁO,Np,B-PER,
+68,VỀ,Np,B-PER,
+68,BN326,Np,I-PER,B-BN
+68,(,CH,O,
+68,BN326,Np,B-LOC,B-BN
+68,),CH,O,
+68,:,CH,O,
+68,BN nữ,N,O,B-SEX
+68,",",CH,O,
+68,20,M,O,B-AGE
+68,tuổi,N,O,
+68,",",CH,O,
+68,là,V,O,B-R
+68,du học sinh,N,B-LOC,I-R
+68,Pháp,Np,I-LOC,B-LOC
+68,",",CH,O,
+68,có,V,O,
+68,địa chỉ,N,O,
+68,tại,E,O,
+68,Phường,Np,B-LOC,B-ADD
+68,19,M,O,I-ADD
+68,",",CH,O,I-ADD
+68,Quận,Np,B-PER,I-ADD
+68,Bình Thạnh,Np,I-PER,I-ADD
+68,",",CH,O,I-ADD
+68,TP.,Ny,B-MISC,I-ADD
+68,Hồ Chí Minh,Np,I-MISC,I-ADD
+68,.,CH,O,
+69,Ngày,N,O,
+69,24/5,M,O,B-TIME
+69,",",CH,O,
+69,BN,Np,B-LOC,B-BN
+69,từ,E,O,B-R
+69,Pháp,Np,B-LOC,B-LOC
+69,về,E,O,B-R
+69,Sân bay,N,B-LOC,B-LOC
+69,Tân Sơn Nhất,Np,I-LOC,I-LOC
+69,trên,E,O,
+69,chuyến,N,O,
+69,bay,V,O,
+69,VN008,Np,B-LOC,B-FLIGHT
+69,",",CH,O,
+69,được,V,O,
+69,cách ly,V,O,B-R
+69,ngay,T,O,
+69,sau,N,O,
+69,khi,N,O,
+69,nhập cảnh,V,O,
+69,tại,E,O,
+69,Sư đoàn,N,B-LOC,B-LOC
+69,317,N,I-LOC,I-LOC
+69,huyện,N,I-LOC,I-LOC
+69,Hóc Môn,Np,I-LOC,I-LOC
+69,",",CH,O,I-LOC
+69,TP.,Ny,B-MISC,I-LOC
+69,Hồ Chí Minh,Np,I-MISC,I-LOC
+69,.,CH,O,
+70,Cùng,A,O,
+70,ngày,N,O,
+70,BN,Np,B-PER,B-BN
+70,được,V,O,
+70,lấy,V,O,
+70,mẫu,N,O,
+70,bệnh phẩm,N,O,
+70,",",CH,O,
+70,kết quả,N,O,
+70,xét nghiệm,V,O,
+70,ngày,N,O,
+70,25/5,M,O,B-TIME
+70,dương tính,N,O,B-STATUS
+70,với,E,O,
+70,SARS,Np,B-LOC,
+70,-,CH,O,
+70,CoV,Ny,O,
+70,-,CH,O,
+70,2,M,O,
+70,.,CH,O,
+71,Hiện,N,B-LOC,B-TIME
+71,BN,Np,I-LOC,B-BN
+71,được,R,O,
+71,cách ly,V,O,B-R
+71,",",CH,O,
+71,điều trị,V,O,B-R
+71,tại,E,O,
+71,Bệnh viện,N,O,B-HOS
+71,Dã chiến,N,O,I-HOS
+71,Củ chi,V,O,I-HOS
+71,.,CH,O,
+72,THÔNG BÁO,Np,B-PER,
+72,VỀ,Np,B-PER,
+72,BN325,Np,I-PER,B-BN
+72,:,CH,O,
+72,BN nữ,N,O,B-SEX
+72,",",CH,O,
+72,34,M,O,B-AGE
+72,tuổi,N,O,
+72,",",CH,O,
+72,có,V,O,
+72,địa chỉ,N,B-LOC,
+72,tại Gia Viễn,M,I-LOC,B-ADD
+72,",",CH,O,I-ADD
+72,Ninh Bình,Np,B-PER,I-ADD
+72,.,CH,O,
+73,BN,Np,B-PER,B-BN
+73,đã,R,O,
+73,từng,R,O,
+73,mắc,V,O,
+73,COVID,Np,B-PER,
+73,-,CH,O,
+73,19,M,O,
+73,tại,E,O,
+73,Nga,Np,B-LOC,B-LOC
+73,",",CH,O,
+73,đã,R,O,
+73,khỏi,V,O,
+73,bệnh,N,O,
+73,trước,E,O,
+73,khi,N,O,
+73,về,V,O,
+73,Việt Nam,Np,B-LOC,B-LOC
+73,.,CH,O,
+74,Ngày,N,O,
+74,13/5,M,O,B-TIME
+74,",",CH,O,
+74,BN,Np,B-PER,B-BN
+74,từ,E,O,B-R
+74,Moscow,Np,B-LOC,B-LOC
+74,về,E,O,B-R
+74,sân bay,N,B-LOC,B-ADD
+74,Vân Đồn,Np,I-LOC,I-ADD
+74,trên,E,O,
+74,chuyến,N,O,
+74,bay,V,O,
+74,VN0062,Np,B-LOC,B-FLIGHT
+74,",",CH,O,
+74,được,V,O,
+74,cách ly,V,O,B-R
+74,ngay,T,O,
+74,tại,E,O,
+74,Trung đoàn,N,B-LOC,B-LOC
+74,125,M,I-LOC,I-LOC
+74,",",CH,O,I-LOC
+74,Hải Dương,Np,B-PER,I-LOC
+74,.,CH,O,
+75,Hiện,N,B-LOC,B-TIME
+75,BN,Np,I-LOC,B-BN
+75,được,R,O,
+75,cách ly,V,O,B-R
+75,",",CH,O,
+75,điều trị,V,O,B-R
+75,tại,E,O,
+75,Bệnh viện,N,B-LOC,B-HOS
+75,Bệnh,N,I-LOC,I-HOS
+75,Nhiệt đới,N,I-LOC,I-HOS
+75,TP.,Ny,I-LOC,I-HOS
+75,Hải Dương,Np,I-LOC,I-HOS
+75,.,CH,O,
+76,Như vậy,X,O,
+76,",",CH,O,
+76,tổng số,N,O,
+76,ca,N,O,
+76,nhiễm,V,O,
+76,trên,E,O,
+76,chuyến,N,O,
+76,bay,V,O,
+76,VN0062,Np,B-LOC,B-FLIGHT
+76,ngày,N,B-LOC,
+76,13/5,M,I-LOC,B-TIME
+76,là,C,O,
+76,32,M,O,
+76,ca,N,O,
+76,",",CH,O,
+76,được,V,O,
+76,cách ly,V,O,
+76,ngay,T,O,
+76,sau,N,O,
+76,nhập cảnh,N,O,
+76,(,CH,O,
+76,30,M,O,
+76,hành khách,N,O,
+76,:,CH,O,
+76,27,M,O,
+76,cách ly,N,O,
+76,tại,E,O,
+76,Thái Bình,Np,B-LOC,B-LOC
+76,",",CH,B-LOC,
+76,2,M,I-LOC,
+76,tại,E,O,
+76,Hải Dương,Np,B-LOC,B-LOC
+76,",",CH,B-LOC,
+76,1,M,I-LOC,
+76,tại,E,O,
+76,Quảng Ninh,Np,B-LOC,B-LOC
+76,và,C,O,
+76,02,V,O,
+76,tiếp viên,N,O,
+76,cách ly,V,O,
+76,tại,E,O,
+76,TP.,Ny,B-LOC,B-LOC
+76,HCM,Np,I-LOC,I-LOC
+76,),CH,O,
+76,.,CH,O,
+77,THÔNG BÁO,Np,B-PER,
+77,VỀ,Np,I-PER,
+77,BN321,Np,I-PER,B-BN
+77,",",CH,O,
+77,BN324,Np,I-LOC,B-BN
+77,:,CH,O,
+77,Đến,V,O,
+77,18h,M,O,
+77,ngày,N,O,
+77,17/5,M,O,B-TIME
+77,",",CH,O,
+77,Việt Nam,Np,B-LOC,
+77,ghi nhận,V,O,
+77,thêm,V,O,
+77,4,M,O,
+77,ca,N,O,
+77,dương tính,V,O,B-STATUS
+77,với,E,O,
+77,SARS,Np,B-PER,
+77,-,CH,O,
+77,CoV,Ny,O,
+77,-,CH,O,
+77,2,M,O,
+77,",",CH,O,
+77,bao gồm,N,B-LOC,
+77,2,M,I-LOC,
+77,tiếp viên,N,O,
+77,của,E,O,
+77,Vietnam Airlines,Np,B-PER,
+77,thực hiện,V,O,
+77,chuyến,N,O,
+77,bay,V,O,
+77,VN0062,Np,B-LOC,B-FLIGHT
+77,từ,E,O,B-R
+77,Mátxcơva,Np,B-LOC,B-LOC
+77,(,CH,B-LOC,
+77,LB Nga,Np,I-LOC,
+77,),CH,O,
+77,về,E,O,B-R
+77,Vân Đồn,Np,B-LOC,B-LOC
+77,ngày,N,B-LOC,
+77,13/5,M,I-LOC,B-TIME
+77,và,C,O,
+77,2,M,O,
+77,hành khách,N,O,
+77,trên,E,O,
+77,chuyến,N,B-LOC,
+77,bay,V,I-LOC,
+77,VN001,Np,I-LOC,B-FLIGHT
+77,từ,E,O,B-R
+77,Washington D. C,Np,B-LOC,B-LOC
+77,(,CH,B-LOC,
+77,Hoa Kỳ,Np,I-LOC,
+77,),CH,O,
+77,về,E,O,B-R
+77,Sân bay,N,B-LOC,B-LOC
+77,Quốc tế,N,I-LOC,I-LOC
+77,Nội Bài,Np,I-LOC,I-LOC
+77,ngày,N,O,
+77,16/5,M,O,B-TIME
+77,.,CH,O,
+78,Tất cả,P,O,
+78,các,L,O,
+78,ca,N,O,
+78,dương tính,V,O,B-STATUS
+78,trên,N,O,
+78,đều,R,O,
+78,được,V,O,
+78,cách ly,V,O,
+78,sau,N,O,
+78,khi,N,O,
+78,nhập cảnh,V,O,
+78,và,C,O,
+78,không,R,O,
+78,có,V,O,
+78,nguy cơ,N,O,
+78,lây,V,O,
+78,bệnh,N,O,
+78,ra,V,O,
+78,cộng đồng,N,O,
+78,.,CH,O,
+79,THÔNG BÁO,Np,B-PER,
+79,VỀ,Np,I-PER,
+79,4,M,O,
+79,BN319,Np,B-LOC,B-BN
+79,",",CH,B-LOC,
+79,BN320,Np,I-LOC,B-BN
+79,:,CH,O,
+79,BN319,Np,B-LOC,B-BN
+79,:,CH,B-LOC,
+79,BN,Np,I-LOC,
+79,nam,N,O,B-SEX
+79,",",CH,O,
+79,26,M,O,B-AGE
+79,tuổi,N,O,
+79,",",CH,O,
+79,có,V,O,
+79,địa chỉ,N,O,
+79,tại,E,O,
+79,huyện,N,B-LOC,B-ADD
+79,Kiến Thuỵ,Np,I-LOC,I-ADD
+79,",",CH,O,I-ADD
+79,TP.,Ny,B-MISC,I-ADD
+79,Hải Phòng,Np,I-MISC,I-ADD
+79,.,CH,O,
+80,Ngày,N,O,
+80,13/5,M,O,B-TIME
+80,",",CH,O,
+80,từ,E,O,B-R
+80,Liên bang Nga,N,O,B-LOC
+80,về,V,O,B-R
+80,nước,N,O,B-LOC
+80,trên,E,O,
+80,chuyến,N,O,
+80,bay,V,O,
+80,VN0062,Np,B-PER,B-FLIGHT
+80,nhập cảnh,V,O,B-R
+80,sân bay,N,B-LOC,B-LOC
+80,Vân Đồn,Np,I-LOC,I-LOC
+80,và,C,O,
+80,được,V,O,
+80,chuyển,V,O,
+80,cách ly,V,O,B-R
+80,tập trung,V,O,
+80,ngay,T,O,
+80,tại,E,O,
+80,Trường,N,B-LOC,B-LOC
+80,Quân sự,N,I-LOC,I-LOC
+80,tỉnh,N,I-LOC,I-LOC
+80,Thái Bình,Np,I-LOC,I-LOC
+80,cơ sở,N,O,I-LOC
+80,1,M,O,I-LOC
+80,.,CH,O,
+81,Ngày,N,O,
+81,16/5,M,O,B-TIME
+81,BN,Np,B-LOC,B-BN
+81,được,V,O,
+81,lấy,V,O,
+81,mẫu,N,O,
+81,xét nghiệm,V,O,
+81,cho,E,O,
+81,kết quả,N,B-LOC,
+81,dương tính,N,I-LOC,B-STATUS
+81,SARS,Np,I-LOC,
+81,-,CH,O,
+81,CoV,Ny,O,
+81,-,CH,O,
+81,2,M,O,
+81,.,CH,O,
+82,Hiện,N,O,B-TIME
+82,BN,Np,B-PER,B-BN
+82,đang,R,O,
+82,cách ly,V,O,B-R
+82,",",CH,O,
+82,điều trị,V,O,B-R
+82,tại,E,O,
+82,Bệnh viện,N,B-LOC,B-HOS
+82,Bệnh,N,I-LOC,I-HOS
+82,nhiệt đới,N,I-LOC,I-HOS
+82,Trung ương,N,I-LOC,I-HOS
+82,cơ sở,N,I-LOC,I-HOS
+82,2,M,I-LOC,I-HOS
+82,.,CH,O,
+83,BN320,Np,B-PER,B-BN
+83,:,CH,O,
+83,BN,Np,O,
+83,nam,N,O,B-SEX
+83,",",CH,O,
+83,29,M,O,B-AGE
+83,tuổi,N,O,
+83,",",CH,O,
+83,có,V,O,
+83,địa chỉ,N,O,
+83,tại,E,O,
+83,huyện,N,B-LOC,B-ADD
+83,Hải Hậu,Np,I-LOC,I-ADD
+83,",",CH,O,I-ADD
+83,tỉnh,N,B-LOC,I-ADD
+83,Nam Định,Np,I-LOC,I-ADD
+83,.,CH,O,
+84,Ngày,N,O,
+84,13/5,M,O,B-TIME
+84,",",CH,O,
+84,từ,E,O,B-R
+84,Liên bang Nga,N,O,B-LOC
+84,về,V,O,B-R
+84,nước,N,O,B-LOC
+84,trên,E,O,
+84,chuyến,N,B-LOC,
+84,bay,V,I-LOC,
+84,VN0062,Np,I-LOC,B-FLIGHT
+84,",",CH,O,
+84,nhập cảnh,V,O,B-R
+84,sân bay,N,B-LOC,B-LOC
+84,Vân Đồn,Np,I-LOC,I-LOC
+84,và,C,O,
+84,được,V,O,
+84,chuyển,V,O,
+84,cách ly,V,O,B-R
+84,tập trung,V,O,
+84,ngay,T,O,
+84,tại,E,O,
+84,Trường,N,B-LOC,B-LOC
+84,Quân sự,N,I-LOC,I-LOC
+84,tỉnh,N,I-LOC,I-LOC
+84,Thái Bình,Np,I-LOC,I-LOC
+84,cơ sở,N,O,I-LOC
+84,1,M,O,I-LOC
+84,.,CH,O,
+85,Ngày,N,O,
+85,15/5,M,O,B-TIME
+85,BN,Np,B-LOC,B-BN
+85,được,V,O,
+85,lấy,V,O,
+85,mẫu,N,O,
+85,xét nghiệm,V,O,
+85,",",CH,O,
+85,ngày,N,B-LOC,
+85,16/5,M,I-LOC,B-TIME
+85,có,V,O,
+85,kết quả,N,B-LOC,
+85,dương tính,A,I-LOC,B-STATUS
+85,SARS,Np,I-LOC,
+85,-,CH,O,
+85,CoV,Ny,O,
+85,-,CH,O,
+85,2,M,O,
+85,.,CH,O,
+86,Hiện,N,O,B-TIME
+86,BN,Np,B-PER,B-BN
+86,đang,R,O,
+86,cách ly,V,O,B-R
+86,",",CH,O,
+86,điều trị,V,O,B-R
+86,tại,E,O,
+86,Bệnh viện,N,B-LOC,B-HOS
+86,Đa khoa,N,I-LOC,I-HOS
+86,tỉnh,N,I-LOC,I-HOS
+86,Thái Bình,Np,I-LOC,I-HOS
+86,.,CH,O,
+87,THÔNG BÁO,Np,B-PER,
+87,VỀ,Np,I-PER,
+87,4,M,O,
+87,BN314,Np,B-LOC,B-BN
+87,",",CH,B-LOC,
+87,BN318,Np,I-LOC,B-BN
+87,:,CH,O,
+87,Cả,P,O,
+87,4,M,O,
+87,trường hợp,N,O,
+87,mắc,V,O,
+87,mới,R,O,
+87,đều,R,O,
+87,từ,E,O,
+87,nước ngoài,N,O,
+87,về,V,O,
+87,",",CH,O,
+87,đã,R,O,
+87,được,V,O,
+87,cách ly,V,O,
+87,ngay,T,O,
+87,sau,N,O,
+87,khi,N,O,
+87,nhập cảnh,V,O,
+87,.,CH,O,
+88,BN315,Np,B-PER,B-BN
+88,:,CH,O,
+88,BN,Np,O,
+88,nam,N,O,B-SEX
+88,",",CH,O,
+88,39,M,O,B-AGE
+88,tuổi,N,O,
+88,",",CH,O,
+88,từ,E,O,B-R
+88,Campuchia,Np,B-LOC,B-LOC
+88,về,V,O,B-R
+88,nước,N,O,B-LOC
+88,và,C,O,
+88,nhập cảnh,V,O,
+88,trái phép,A,O,
+88,qua,V,O,
+88,đường mòn,N,O,
+88,vào,E,O,
+88,lúc,N,O,
+88,15h30,V,O,
+88,ngày,N,B-LOC,
+88,2/5,M,I-LOC,B-TIME
+88,",",CH,O,
+88,đến,V,O,
+88,nhà,N,O,
+88,người,N,O,
+88,dì,Nc,O,
+88,ruột,A,O,
+88,tại,E,O,
+88,ấp,N,B-LOC,
+88,Tân Đông,Np,I-LOC,
+88,",",CH,O,
+88,xã,N,B-LOC,
+88,Tân Thành,Np,I-LOC,
+88,",",CH,O,
+88,huyện,N,B-LOC,
+88,Tân Châu,Np,I-LOC,
+88,(,CH,O,
+88,Tây Ninh,Np,B-LOC,
+88,),CH,O,
+88,.,CH,O,
+89,BN316,Np,B-PER,B-BN
+89,),CH,O,
+89,:,CH,O,
+89,BN,Np,B-PER,
+89,nam,N,O,B-SEX
+89,",",CH,O,
+89,19,M,O,B-AGE
+89,tuổi,N,O,
+89,",",CH,O,
+89,có,V,O,
+89,địa chỉ,N,O,
+89,tại,E,O,
+89,TP,Ny,O,B-ADD
+89,Đà Nẵng,Np,B-LOC,B-ADD
+89,.,CH,O,
+90,Ngày,N,O,
+90,14/5,M,O,B-TIME
+90,từ,E,O,B-R
+90,Philippines,Np,B-LOC,B-LOC
+90,về,V,O,B-R
+90,nước,N,O,B-LOC
+90,trên,E,O,
+90,chuyến,N,O,
+90,bay,V,O,
+90,số hiệu,N,B-LOC,
+90,QH9352,Np,I-LOC,B-FLIGHT
+90,",",CH,O,
+90,ngay,T,O,
+90,sau,N,O,
+90,khi,N,O,
+90,nhập cảnh,V,O,B-R
+90,tại,E,O,
+90,Sân bay,N,B-LOC,B-LOC
+90,Quốc tế,N,I-LOC,I-LOC
+90,Cần Thơ,Np,I-LOC,I-LOC
+90,.,CH,O,
+91,BN317,Np,B-PER,B-BN
+91,:,CH,O,
+91,BN,Np,O,
+91,nam,N,O,B-SEX
+91,",",CH,O,
+91,29,M,O,B-AGE
+91,tuổi,N,O,
+91,",",CH,O,
+91,có,V,O,
+91,địa chỉ,N,O,
+91,tại,E,O,
+91,Diên Khánh,Np,B-LOC,B-ADD
+91,",",CH,B-LOC,I-ADD
+91,Khánh Hoà,Np,I-LOC,I-ADD
+91,.,CH,O,
+92,Ngày,N,O,
+92,13/5,M,O,B-TIME
+92,",",CH,O,
+92,từ,E,O,B-R
+92,Liên bang Nga,N,O,B-LOC
+92,về,V,O,B-R
+92,nước,N,O,B-LOC
+92,trên,E,O,
+92,chuyến,N,B-LOC,
+92,bay,V,I-LOC,
+92,VN0062,Np,I-LOC,B-FLIGHT
+92,",",CH,O,
+92,sau,N,O,
+92,khi,N,O,
+92,nhập cảnh,V,O,B-R
+92,tại,E,O,
+92,Sân bay,N,B-LOC,B-LOC
+92,Vân Đồn,Np,I-LOC,I-LOC
+92,.,CH,O,
+93,BN318,Np,B-PER,B-BN
+93,:,CH,O,
+93,BN nữ,N,O,B-SEX
+93,",",CH,O,
+93,41,M,O,B-AGE
+93,tuổi,N,O,
+93,",",CH,O,
+93,có,V,O,
+93,địa chỉ,N,O,
+93,tại,E,O,
+93,TP,Ny,B-LOC,B-ADD
+93,Thanh Hoá,Np,I-LOC,I-ADD
+93,",",CH,O,I-ADD
+93,tỉnh,N,B-LOC,I-ADD
+93,Thanh Hoá,Np,I-LOC,I-ADD
+93,.,CH,O,
+94,Ngày,N,O,
+94,13/5,M,O,B-TIME
+94,",",CH,O,
+94,từ,E,O,B-R
+94,Liên bang Nga,N,O,B-LOC
+94,về,V,O,B-R
+94,nước,N,O,B-LOC
+94,trên,E,O,
+94,chuyến,N,B-LOC,
+94,bay,V,I-LOC,
+94,VN0062,Np,I-LOC,B-FLIGHT
+94,",",CH,O,
+94,sau,N,O,
+94,khi,N,O,
+94,nhập cảnh,V,O,B-R
+94,sân bay,N,B-LOC,B-LOC
+94,Vân Đồn,Np,I-LOC,I-LOC
+94,.,CH,O,
+95,THÔNG BÁO,Np,B-PER,
+95,VỀ,Np,B-PER,
+95,BN313,Np,I-PER,B-BN
+95,:,CH,B-LOC,
+95,BN,Np,I-LOC,
+95,nam,N,O,B-SEX
+95,",",CH,O,
+95,28,M,O,B-AGE
+95,tuổi,N,O,
+95,",",CH,O,
+95,ở,E,O,
+95,Yên Thành,Np,B-LOC,B-ADD
+95,",",CH,B-LOC,I-ADD
+95,Nghệ An,Np,I-LOC,I-ADD
+95,.,CH,O,
+96,BN,Np,B-PER,B-BN
+96,từ,E,O,B-R
+96,Dubai,Np,B-LOC,B-LOC
+96,-,CH,B-LOC,I-LOC
+96,UAE,Np,I-LOC,I-LOC
+96,về,E,O,B-R
+96,Việt Nam,Np,B-LOC,B-LOC
+96,ngày,N,B-LOC,
+96,03/5/2020,M,I-LOC,B-TIME
+96,trên,E,O,
+96,chuyến,N,O,
+96,bay,V,O,
+96,VN0088,Np,B-LOC,B-FLIGHT
+96,",",CH,O,
+96,số,N,O,
+96,ghế,N,O,
+96,51K,N,O,
+96,.,CH,O,
+97,Sau,N,O,
+97,khi,N,O,
+97,nhập cảnh,V,O,
+97,",",CH,O,
+97,BN,Np,B-PER,B-BN
+97,không,R,O,
+97,có,V,O,
+97,triệu chứng,N,O,
+97,",",CH,O,
+97,sức khỏe,N,O,
+97,ổn định,A,O,
+97,và,C,O,
+97,được,V,O,
+97,cách ly,V,O,B-R
+97,tại,E,O,
+97,khu,N,O,
+97,cách ly,V,O,
+97,tập trung,V,O,
+97,Ký túc xá,N,B-LOC,B-LOC
+97,sinh viên,N,I-LOC,I-LOC
+97,tỉnh,N,I-LOC,I-LOC
+97,Bạc Liêu,Np,I-LOC,I-LOC
+97,.,CH,O,
+98,Trong,E,O,
+98,đợt,N,O,
+98,lấy,V,O,
+98,mẫu,N,O,
+98,xét nghiệm,V,O,
+98,ngày,N,O,
+98,13/5,M,O,B-TIME
+98,của,E,O,
+98,Trung tâm,N,O,B-HOS
+98,Kiểm soát,V,O,I-HOS
+98,Bệnh tật,N,B-LOC,I-HOS
+98,tỉnh,N,I-LOC,I-HOS
+98,Bạc Liêu,Np,I-LOC,I-HOS
+98,",",CH,B-LOC,
+98,BN,Np,I-LOC,B-BN
+98,có,V,O,
+98,kết quả,N,O,
+98,xét nghiệm,V,O,
+98,dương tính,A,O,B-STATUS
+98,với,E,O,
+98,SARS,Np,B-LOC,
+98,-,CH,O,
+98,CoV,Ny,O,
+98,-,CH,O,
+98,2,M,O,
+98,.,CH,O,
+99,Hiện,N,O,B-TIME
+99,BN,Np,B-PER,B-BN
+99,được,V,O,
+99,chuyển,V,O,
+99,cách ly,V,O,B-R
+99,",",CH,O,
+99,theo dõi,V,O,B-R
+99,tại,E,O,
+99,Bệnh viện,N,B-LOC,B-HOS
+99,Đa khoa,N,I-LOC,I-HOS
+99,tỉnh,N,I-LOC,I-HOS
+99,Bạc Liêu,Np,I-LOC,I-HOS
+99,.,CH,O,
+100,THÔNG BÁO,Np,B-PER,
+100,VỀ,Np,I-PER,
+100,24,M,O,
+100,CA,Np,B-PER,
+100,MẮC,Np,I-PER,
+100,MỚI COVID,Np,I-PER,
+100,-,CH,O,
+100,19,M,O,
+100,:,CH,O,
+100,Đến,E,O,
+100,6h,N,B-LOC,
+100,sáng,N,I-LOC,
+100,15/5,M,I-LOC,B-TIME
+100,",",CH,O,
+100,Việt Nam,Np,B-LOC,
+100,đã,R,O,
+100,ghi nhận,V,O,
+100,thêm,V,O,
+100,24,M,O,
+100,ca,N,O,
+100,nhiễm,V,O,
+100,virus,FW,O,
+100,SARS,Np,B-LOC,
+100,-,CH,O,
+100,CoV,Ny,O,
+100,-,CH,O,
+100,2,M,O,
+100,",",CH,O,
+100,nâng,V,O,
+100,tổng số,N,B-LOC,
+100,ca,N,I-LOC,
+100,COVID,Np,I-LOC,
+100,-,CH,O,
+100,19,M,O,
+100,trên,E,O,
+100,cả,P,O,
+100,nước,N,O,
+100,lên,V,O,
+100,312,N,B-LOC,
+100,BN,Np,I-LOC,B-BNS
+100,(,CH,O,
+100,260,M,O,
+100,người,N,O,
+100,đã,R,O,
+100,được,V,O,
+100,chữa,V,O,
+100,khỏi,V,O,
+100,),CH,O,
+100,.,CH,O,
+101,Theo,V,O,
+101,báo cáo,N,O,
+101,nhận,V,O,
+101,được,R,O,
+101,tối,N,O,
+101,14/5/2020,V,O,B-TIME
+101,từ,E,O,
+101,Sở,N,B-LOC,
+101,Y tế,N,I-LOC,
+101,tỉnh,N,I-LOC,
+101,Thái Bình,Np,I-LOC,
+101,và,C,O,
+101,Trung tâm,N,O,
+101,Kiểm soát,V,O,
+101,bệnh tật,N,B-LOC,
+101,tỉnh,N,I-LOC,
+101,Quảng Ninh,Np,I-LOC,
+101,",",CH,O,
+101,tất cả,P,O,
+101,trường hợp,N,O,
+101,này,P,O,
+101,đều,R,O,
+101,là,V,O,
+101,hành khách,N,O,
+101,trên,E,O,
+101,chuyến,N,B-LOC,
+101,bay,V,I-LOC,
+101,VN0062,Np,I-LOC,B-FLIGHT
+101,từ,E,O,
+101,Moscow,Np,B-LOC,
+101,(,CH,B-LOC,
+101,Nga,Np,I-LOC,
+101,),CH,O,
+101,hạ cánh,V,O,
+101,xuống,V,O,
+101,sân bay,N,B-LOC,
+101,Vân Đồn,Np,I-LOC,
+101,(,CH,O,
+101,Quảng Ninh,Np,B-LOC,
+101,),CH,O,
+101,lúc,N,O,
+101,4h40,V,O,
+101,sáng,N,B-LOC,
+101,13/5/2020,M,I-LOC,B-TIME
+101,",",CH,O,
+101,được,V,O,
+101,cách ly,V,O,
+101,ngay,T,O,
+101,sau,N,O,
+101,khi,N,O,
+101,nhập cảnh,V,O,
+101,và,C,O,
+101,không,R,O,
+101,có,V,O,
+101,khả năng,N,O,
+101,lây nhiễm,V,O,
+101,ra,V,O,
+101,cộng đồng,N,O,
+101,.,CH,O,
+102,Chuyến,N,O,
+102,bay,V,O,
+102,VN0062,Np,B-PER,B-FLIGHT
+102,chở,V,O,
+102,345,N,O,
+102,hành khách,N,O,
+102,và,C,O,
+102,thành viên,N,O,
+102,phi hành đoàn,N,O,
+102,",",CH,O,
+102,sau,N,O,
+102,khi,N,O,
+102,nhập cảnh,V,O,
+102,được,R,O,
+102,cách ly,V,O,
+102,tại,E,O,
+102,3,M,O,
+102,địa phương,N,O,
+102,là,V,O,
+102,Thái Bình,Np,B-LOC,
+102,",",CH,B-LOC,
+102,Quảng Ninh,Np,I-LOC,
+102,và,C,O,
+102,Hải Dương,Np,B-LOC,
+102,.,CH,O,
+103,23,M,O,
+103,BN,Np,B-PER,B-BNS
+103,trong,E,O,
+103,số,N,O,
+103,này,P,O,
+103,được,V,O,
+103,chuyển,V,O,
+103,đến,E,O,
+103,Bệnh viện,N,B-LOC,
+103,Đa khoa,N,I-LOC,
+103,tỉnh,N,I-LOC,
+103,Thái Bình,Np,I-LOC,
+103,",",CH,O,
+103,01,N,B-LOC,
+103,BN,Np,I-LOC,B-BNS
+103,còn,V,O,
+103,lại,V,O,
+103,được,V,O,
+103,chuyển,V,O,
+103,tới,E,O,
+103,Bệnh viện,N,B-LOC,
+103,số,N,I-LOC,
+103,2,M,I-LOC,
+103,tỉnh,N,B-LOC,
+103,Quảng Ninh,Np,I-LOC,
+103,.,CH,O,
+104,ĐÃ,R,O,
+104,CHỮA,Np,B-PER,
+104,KHỎI,Np,I-PER,
+104,260,V,O,
+104,/,CH,O,
+104,288,N,B-LOC,
+104,BN COVID,Np,I-LOC,
+104,-,CH,O,
+104,19,M,O,
+104,:,CH,O,
+104,Tính,V,O,
+104,đến,E,O,
+104,18h,M,O,
+104,ngày,N,O,
+104,14/5,M,O,B-TIME
+104,",",CH,O,
+104,đã,R,O,
+104,có,V,O,
+104,260,N,B-LOC,
+104,BN COVID,Np,I-LOC,
+104,-,CH,O,
+104,19,M,O,
+104,tại,E,O,
+104,nước,N,O,
+104,ta,P,O,
+104,được,R,O,
+104,công bố,V,O,
+104,khỏi,V,O,
+104,bệnh,N,O,
+104,/,CH,O,
+104,xuất viện,V,O,
+104,chiếm,V,O,
+104,90,M,O,
+104,%,N,O,
+104,tổng số,N,O,
+104,ca,N,O,
+104,đang,R,O,
+104,điều trị,V,O,
+104,.,CH,O,
+105,Trong,E,O,
+105,8,M,O,
+105,người,N,O,
+105,vừa,R,O,
+105,được,V,O,
+105,công bố,V,O,
+105,khỏi,V,O,
+105,bệnh,N,O,
+105,hôm nay,N,O,
+105,có,V,O,
+105,1,M,O,
+105,bác sĩ,N,B-LOC,
+105,Bệnh viện,N,I-LOC,
+105,Bệnh,N,I-LOC,
+105,nhiệt đới,N,I-LOC,
+105,Trung ương,N,I-LOC,
+105,(,CH,I-LOC,
+105,BN141,Np,I-LOC,B-BN
+105,),CH,O,
+105,",",CH,O,
+105,một,M,O,
+105,ca,N,O,
+105,tái,Z,O,
+105,dương tính,N,O,B-STATUS
+105,(,CH,O,
+105,BN50,Np,B-LOC,B-BN
+105,),CH,O,
+105,",",CH,O,
+105,3,M,O,
+105,người,N,O,
+105,liên quan,V,O,
+105,tới,E,O,
+105,bệnh viện,N,B-LOC,
+105,Bạch Mai,Np,I-LOC,
+105,...,CH,O,
+105,17,M,O,
+105,CA,Np,B-PER,
+105,MẮC,Np,I-PER,
+105,MỚI COVID,Np,I-PER,
+105,-,CH,O,
+105,19,M,O,
+105,ĐỀU,Np,B-PER,
+105,TỪ,Np,I-PER,
+105,UAE,Np,B-LOC,
+105,VỀ,Np,I-LOC,
+105,",",CH,O,
+105,ĐÃ,Np,B-PER,
+105,ĐƯỢC,Np,I-PER,
+105,CÁCH LY,Np,I-PER,
+105,:,CH,O,
+105,Việt Nam,Np,B-LOC,
+105,đã,R,O,
+105,ghi nhận,V,O,
+105,thêm,V,O,
+105,17,M,O,
+105,ca,N,O,
+105,mắc,V,O,
+105,COVID,Np,B-LOC,
+105,-,CH,O,
+105,19,M,O,
+105,",",CH,O,
+105,nâng,V,O,
+105,tổng số,N,O,
+105,ca,N,O,
+105,nhiễm,V,O,
+105,ở,E,O,
+105,nước,N,O,
+105,ta,P,O,
+105,lên,V,O,
+105,288,V,O,
+105,người,N,O,
+105,.,CH,O,
+106,Các,L,O,
+106,ca,N,O,
+106,này,P,O,
+106,(,CH,O,
+106,từ,E,O,
+106,BN272,Np,B-LOC,B-BN
+106,đến,E,O,
+106,BN288,Np,B-LOC,B-BN
+106,),CH,O,
+106,đều,R,O,
+106,là,V,O,
+106,hành khách,N,O,
+106,trên,E,O,
+106,chuyến,N,O,
+106,bay,V,O,
+106,từ,E,O,
+106,Dubai,Np,B-LOC,
+106,mang,V,O,
+106,số hiệu,N,B-LOC,
+106,VN88,Np,I-LOC,B-FLIGHT
+106,",",CH,O,
+106,hạ cánh,V,O,
+106,tại,E,O,
+106,sân bay,N,B-LOC,
+106,Cần Thơ,Np,I-LOC,
+106,vào,E,O,
+106,rạng,N,B-LOC,
+106,sáng,N,I-LOC,
+106,3/5,M,I-LOC,B-TIME
+106,.,CH,O,
+107,Nếu,C,O,
+107,tính,V,O,
+107,theo,V,O,
+107,tiêu chí,N,O,
+107,số,N,O,
+107,ca,N,O,
+107,lây nhiễm,V,O,
+107,trong,E,O,
+107,cộng đồng,N,O,
+107,",",CH,O,
+107,đây,P,O,
+107,là,V,O,
+107,ngày,N,B-LOC,
+107,thứ,N,I-LOC,
+107,21,M,I-LOC,
+107,Việt Nam,Np,B-LOC,
+107,không,R,O,
+107,ghi nhận,V,O,
+107,ca,N,O,
+107,mắc,V,O,
+107,mới,A,O,
+107,.,CH,O,
+108,VIỆT,Np,B-LOC,
+108,NAM,Np,B-PER,
+108,ĐÃ,Np,I-PER,
+108,CÓ,V,O,
+108,233,N,O,
+108,CA,Np,B-PER,
+108,COVID,Np,I-PER,
+108,ĐƯỢC,Np,I-PER,
+108,CHỮA,Np,I-PER,
+108,KHỎI,Np,I-PER,
+108,:,CH,O,
+108,Tính,V,O,
+108,đến,E,O,
+108,16h,M,O,
+108,ngày,N,O,
+108,7/5,M,O,B-TIME
+108,",",CH,O,
+108,thông tin,N,O,
+108,từ,E,O,
+108,Tiểu ban,N,O,
+108,Điều trị,V,O,
+108,-,CH,O,
+108,Ban Chỉ đạo Quốc gia,N,O,
+108,phòng,N,O,
+108,",",CH,O,
+108,chống,V,O,
+108,dịch COVID,N,O,
+108,-,CH,O,
+108,19,M,O,
+108,cho,V,O,
+108,biết,V,O,
+108,",",CH,O,
+108,có,V,O,
+108,1,M,B-MISC,
+108,BN,Np,I-MISC,B-BN
+108,mắc,V,O,
+108,COVID,Np,O,
+108,-,CH,O,
+108,19,M,O,
+108,tại,E,O,
+108,Bệnh viện,N,B-LOC,
+108,Đa khoa,N,I-LOC,
+108,khu vực,N,I-LOC,
+108,Cửa khẩu,N,I-LOC,
+108,Quốc tế,N,I-LOC,
+108,Cầu Treo,Np,I-LOC,
+108,",",CH,O,
+108,tỉnh,N,O,
+108,Hà Tĩnh,Np,B-LOC,
+108,được,V,O,
+108,công bố,V,O,
+108,khỏi,V,O,
+108,bệnh,N,O,
+108,.,CH,O,
+109,Như vậy,X,O,
+109,",",CH,O,
+109,đến,E,O,
+109,thời điểm,N,O,
+109,này,P,O,
+109,",",CH,O,
+109,Việt Nam,Np,B-LOC,
+109,đã,R,O,
+109,có,V,O,
+109,233,M,O,
+109,/,CH,O,
+109,271,N,B-LOC,
+109,BN COVID,Np,I-LOC,
+109,-,CH,O,
+109,19,M,O,
+109,khỏi,V,O,
+109,bệnh,N,O,
+109,",",CH,O,
+109,xuất viện,V,O,
+109,.,CH,O,
+110,Hiện,N,O,B-TIME
+110,38,M,O,
+110,BN,Np,B-PER,B-BNS
+110,còn,V,O,
+110,lại,V,O,
+110,đang,R,O,
+110,được,V,O,
+110,điều trị,V,O,
+110,tại,E,O,
+110,các,L,O,
+110,cơ sở,N,B-LOC,
+110,y tế,N,I-LOC,
+110,tuyến,N,I-LOC,
+110,Trung ương,N,I-LOC,
+110,và,C,O,
+110,tuyến,N,O,
+110,tỉnh,N,O,
+110,.,CH,O,
+111,Đa số,L,O,
+111,các,L,O,
+111,BN,Np,B-PER,B-BNS
+111,đều,R,O,
+111,có,V,O,
+111,sức khoẻ,N,O,
+111,ổn định,A,O,
+111,.,CH,O,
+112,THÊM,V,O,
+112,11,M,O,
+112,CA COVID,Np,B-PER,
+112,-,CH,O,
+112,19,M,O,
+112,ĐƯỢC,Np,B-PER,
+112,CHỮA,Np,I-PER,
+112,KHỎI,Np,I-PER,
+112,:,CH,O,
+112,10,M,O,
+112,giờ,Nu,O,
+112,sáng,N,B-LOC,
+112,5/5,M,I-LOC,B-TIME
+112,",",CH,O,
+112,Bệnh viện,N,O,
+112,Bệnh,N,O,
+112,Nhiệt đới,N,O,
+112,Trung ương,N,O,
+112,công bố,V,O,
+112,khỏi,V,O,
+112,bệnh,N,O,
+112,cho,E,O,
+112,11,M,B-MISC,
+112,BN COVID,Np,I-MISC,
+112,-,CH,O,
+112,19,M,O,
+112,",",CH,O,
+112,gồm,V,O,
+112,:,CH,O,
+112,BN74,Np,B-LOC,B-BN
+112,",",CH,B-LOC,
+112,BN137,Np,I-LOC,B-BN
+112,",",CH,B-LOC,
+112,BN147,Np,I-LOC,B-BN
+112,",",CH,O,
+112,BN161,Np,B-LOC,B-BN
+112,(,CH,O,
+112,BN88,M,O,B-BN
+112,tuổi,N,O,
+112,",",CH,O,
+112,cao tuổi,A,O,
+112,nhất,R,O,
+112,mắc,V,O,
+112,COVID,Np,B-PER,
+112,-,CH,O,
+112,19,M,O,
+112,),CH,O,
+112,",",CH,O,
+112,BN163,Np,B-PER,B-BN
+112,",",CH,O,
+112,BN201,Np,B-LOC,B-BN
+112,",",CH,B-LOC,
+112,BN225,Np,I-LOC,B-BN
+112,",",CH,O,
+112,BN233,Np,B-LOC,B-BN
+112,",",CH,B-LOC,
+112,BN245,Np,I-LOC,B-BN
+112,",",CH,O,
+112,BN255,Np,B-LOC,B-BN
+112,",",CH,B-LOC,
+112,BN267,Np,I-LOC,B-BN
+112,.,CH,O,
+113,Như vậy,X,O,
+113,",",CH,O,
+113,Việt Nam,Np,B-PER,
+113,đã,R,O,
+113,chữa,V,O,
+113,khỏi,V,O,
+113,232,N,O,
+113,ca,N,O,
+113,mắc,V,O,
+113,COVID,Np,B-LOC,
+113,-,CH,O,
+113,19,M,O,
+113,trên,E,O,
+113,tổng số,N,B-LOC,
+113,271,N,I-LOC,
+113,BN,Np,I-LOC,B-BNS
+113,(,CH,O,
+113,đạt,V,O,
+113,tỷ lệ,N,O,
+113,thành công,V,O,
+113,86,N,B-LOC,
+113,%,M,I-LOC,
+113,),CH,O,
+113,.,CH,O,
+114,CA,Np,O,
+114,TỬ VONG,Np,O,
+114,DO,Np,O,
+114,XƠ GAN,Np,O,
+114,GIAI ĐOẠN,Np,O,
+114,CUỐI,Np,O,
+114,Ở,Np,O,
+114,HÀ NAM,Np,B-LOC,
+114,KHÔNG PHẢI,Np,O,
+114,DO COVID,Np,O,
+114,-,CH,O,
+114,19,M,O,
+114,:,CH,O,
+114,Trường hợp,N,O,
+114,tử vong,V,O,
+114,tại,E,O,
+114,Hà Nam,Np,B-LOC,
+114,vào,E,O,
+114,rạng,N,B-LOC,
+114,sáng,N,I-LOC,
+114,1/5,M,I-LOC,B-TIME
+114,là,C,O,
+114,BN,Np,B-PER,B-BN
+114,nam,N,O,B-SEX
+114,",",CH,O,
+114,64,M,O,
+114,tuổi,N,O,
+114,",",CH,O,
+114,quê,N,O,
+114,ở,E,O,
+114,Bình Lục,Np,B-LOC,
+114,",",CH,B-LOC,
+114,Hà Nam,Np,I-LOC,
+114,",",CH,O,
+114,đã,R,O,
+114,được,V,O,
+114,điều trị,V,O,
+114,Khoa,Np,B-LOC,
+114,Tiêu hóa,N,B-LOC,
+114,BV,Np,I-LOC,
+114,Đa khoa,V,O,
+114,tỉnh,N,B-LOC,
+114,Hà Nam,Np,I-LOC,
+114,từ,E,O,
+114,ngày,N,O,
+114,20/3,V,O,B-TIME
+114,với,E,O,
+114,các,L,O,
+114,bệnh,N,O,
+114,xơ gan,V,O,
+114,giai đoạn,N,O,
+114,cuối,N,O,
+114,",",CH,O,
+114,suy kiệt,V,O,
+114,",",CH,O,
+114,bệnh,N,O,
+114,gút,N,O,
+114,nặng,A,O,
+114,",",CH,O,
+114,cứng khớp,N,O,
+114,",",CH,O,
+114,teo cơ,N,O,
+114,.,CH,O,
+115,Ngày,N,O,
+115,7/4,M,O,B-TIME
+115,",",CH,O,
+115,xét nghiệm,V,O,
+115,cho,E,O,
+115,kết quả,N,O,
+115,dương tính,A,O,B-STATUS
+115,với,E,O,
+115,SARS,Np,B-LOC,
+115,-,CH,O,
+115,CoV,Ny,O,
+115,-,CH,O,
+115,2,M,O,
+115,",",CH,O,
+115,được,V,O,
+115,chuyển,V,O,
+115,tới,E,O,
+115,Bệnh viện,N,B-LOC,
+115,Bệnh,N,I-LOC,
+115,Nhiệt đới,N,I-LOC,
+115,Trung ương,N,I-LOC,
+115,để,E,O,
+115,điều trị,V,O,
+115,COVID,Np,B-LOC,
+115,-,CH,O,
+115,19,M,O,
+115,.,CH,O,
+116,Sau,N,O,
+116,thời gian,N,O,
+116,điều trị,V,O,
+116,đã,R,O,
+116,4,M,O,
+116,lần,N,O,
+116,xét nghiệm,V,O,
+116,âm tính,V,O,B-STATUS
+116,với,E,O,
+116,SARS,Np,B-PER,
+116,-,CH,O,
+116,CoV,Ny,O,
+116,-,CH,O,
+116,2,M,O,
+116,vào,E,O,
+116,các,L,O,
+116,ngày,N,O,
+116,10,M,O,
+116,",",CH,O,
+116,12,M,O,
+116,",",CH,O,
+116,15,M,O,
+116,và,C,O,
+116,17/4,N,O,B-TIME
+116,",",CH,O,
+116,BN,Np,B-PER,B-BN
+116,được,V,O,
+116,Bệnh viện,N,O,
+116,Bệnh,N,O,
+116,Nhiệt đới,N,O,
+116,Trung ương,N,O,
+116,xác định,V,O,
+116,khỏi,V,O,B-STATUS
+116,bệnh,N,O,I-STATUS
+116,",",CH,O,
+116,không,R,O,
+116,còn,R,O,
+116,bị,V,O,
+116,nhiễm,V,O,
+116,COVID,Np,B-PER,
+116,-,CH,O,
+116,19,M,O,
+116,",",CH,O,
+116,tình trạng,N,O,
+116,các,L,O,
+116,bệnh lý,N,O,
+116,khác,A,O,
+116,ổn định,A,O,
+116,",",CH,O,
+116,chuyển,V,O,
+116,tuyến,N,O,
+116,dưới,N,O,
+116,để,E,O,
+116,điều trị,V,O,
+116,bệnh,N,O,
+116,xơ gan,V,O,
+116,từ,E,O,
+116,ngày,N,B-LOC,
+116,17/4,M,I-LOC,B-TIME
+116,.,CH,O,
+117,Khi,N,O,
+117,BN,Np,B-PER,
+117,tử vong,V,O,
+117,",",CH,O,
+117,Bệnh viện,N,B-LOC,
+117,Đa khoa,N,I-LOC,
+117,tỉnh,N,I-LOC,
+117,Hà Nam,Np,I-LOC,
+117,đã,R,O,
+117,tiến hành,V,O,
+117,làm,V,O,
+117,xét nghiệm,N,B-LOC,
+117,SARS,Np,I-LOC,
+117,-,CH,O,
+117,CoV,Ny,O,
+117,-,CH,O,
+117,2,M,O,
+117,cho,E,O,
+117,kết quả,N,O,
+117,âm tính,A,O,B-STATUS
+117,",",CH,O,
+117,BN,Np,B-PER,B-BN
+117,không,R,O,
+117,có,V,O,
+117,bất cứ,R,O,
+117,triệu chứng,N,O,
+117,nào,P,O,
+117,của,E,O,
+117,tổn thương,N,O,
+117,phổi,N,O,
+117,do,E,O,
+117,COVID,Np,B-LOC,
+117,-,CH,O,
+117,19,M,O,
+117,gây,V,O,
+117,ra,V,O,
+117,.,CH,O,
+118,THÔNG BÁO,Np,B-PER,
+118,VỀ,Np,B-PER,
+118,BN271,Np,I-PER,B-BN
+118,:,CH,B-LOC,
+118,BN,Np,I-LOC,
+118,nam,N,O,B-SEX
+118,",",CH,O,
+118,37,M,O,B-AGE
+118,tuổi,N,O,
+118,",",CH,O,
+118,quốc tịch,N,B-LOC,
+118,Anh,Np,I-LOC,B-NAT
+118,",",CH,O,
+118,là,V,O,B-R
+118,chuyên gia,N,O,I-R
+118,của,E,O,
+118,Tập đoàn,N,O,B-LOC
+118,Dầu khí,N,O,B-LOC
+118,được,V,O,
+118,nhập cảnh,V,O,
+118,để,E,O,
+118,thực hiện,V,O,
+118,dự án,N,O,
+118,kinh tế,N,O,
+118,.,CH,O,
+119,Ngày,N,O,
+119,28/4,M,O,B-TIME
+119,",",CH,O,
+119,BN,Np,B-PER,B-BN
+119,bay,V,O,
+119,từ,E,O,B-R
+119,Anh,Nc,O,B-LOC
+119,tới,V,O,B-R
+119,Sân bay,N,B-LOC,B-LOC
+119,Tân Sơn Nhất,Np,I-LOC,I-LOC
+119,trên,E,O,
+119,chuyến,N,O,
+119,bay,V,O,
+119,riêng,A,O,
+119,mang,V,O,
+119,số hiệu,N,B-LOC,
+119,AXY,Np,I-LOC,B-FLIGHT
+119,2504,V,O,I-FLIGHT
+119,(,CH,O,
+119,không,R,O,
+119,phải,V,O,
+119,chuyến,N,O,
+119,bay,V,O,
+119,chở,V,O,
+119,khách thương mại,N,O,
+119,),CH,O,
+119,.,CH,O,
+120,Cùng,A,O,
+120,đi,V,O,
+120,với,E,O,
+120,BN,Np,B-PER,
+120,có,V,O,
+120,12,M,O,
+120,chuyên gia,N,O,
+120,khác,A,O,
+120,(,CH,O,
+120,đều,R,O,
+120,âm tính,V,O,B-STATUS
+120,),CH,O,
+120,",",CH,O,
+120,tất cả,P,O,
+120,đã,R,O,
+120,được,V,O,
+120,quản lý,V,O,
+120,",",CH,O,
+120,cách ly,V,O,
+120,tập trung,V,O,
+120,ngay,T,O,
+120,sau,N,O,
+120,khi,N,O,
+120,nhập cảnh,V,O,
+120,tại,E,O,
+120,huyện,N,B-LOC,
+120,Cần Giờ,Np,I-LOC,
+120,(,CH,O,
+120,TP.,Ny,B-LOC,
+120,HCM,Np,I-LOC,
+120,),CH,O,
+120,",",CH,O,
+120,nên,C,O,
+120,không,R,O,
+120,lây,V,O,
+120,ra,V,O,
+120,cộng đồng,N,O,
+120,.,CH,O,
+121,Hiện,N,O,B-TIME
+121,BN271,Np,B-PER,B-BN
+121,đang,R,O,
+121,được,V,O,
+121,cách ly,V,O,B-R
+121,và,C,O,
+121,điều trị,V,O,B-R
+121,tại,E,O,
+121,Bệnh viện,N,B-LOC,B-HOS
+121,Dã chiến,N,I-LOC,I-HOS
+121,Củ Chi,Np,I-LOC,I-HOS
+121,(,CH,O,I-HOS
+121,TP.,Ny,B-LOC,I-HOS
+121,HCM,Np,I-LOC,I-HOS
+121,),CH,O,I-HOS
+121,.,CH,O,
+122,THÔNG BÁO,Np,O,
+122,VỀ,Np,B-LOC,
+122,2,M,I-LOC,
+122,BN269,Np,I-LOC,B-BN
+122,",",CH,O,
+122,BN270,Np,B-LOC,B-BN
+122,:,CH,B-LOC,
+122,BN269,Np,I-LOC,B-BN
+122,-,CH,O,
+122,nam,N,O,B-SEX
+122,",",CH,O,
+122,23,M,O,B-AGE
+122,tuổi,N,O,
+122,",",CH,O,
+122,địa chỉ,N,O,
+122,ở,E,O,
+122,Hương Mai,Np,B-LOC,B-ADD
+122,",",CH,B-LOC,I-ADD
+122,Việt Yên,Np,I-LOC,I-ADD
+122,",",CH,B-LOC,I-ADD
+122,Bắc Giang,Np,I-LOC,I-ADD
+122,.,CH,O,
+123,BN270,Np,B-PER,B-BN
+123,-,CH,O,
+123,nữ,N,O,B-SEX
+123,",",CH,O,
+123,22,M,O,B-AGE
+123,tuổi,N,O,
+123,",",CH,O,
+123,địa chỉ,N,O,
+123,ở,E,O,
+123,Đông Thắng,Np,B-LOC,B-ADD
+123,",",CH,B-LOC,I-ADD
+123,Tiến Dũng,Np,I-LOC,I-ADD
+123,",",CH,O,I-ADD
+123,Yên Dũng,Np,B-LOC,I-ADD
+123,",",CH,B-LOC,I-ADD
+123,Bắc Giang,Np,I-LOC,I-ADD
+123,.,CH,O,
+124,Cả,P,O,
+124,hai,M,O,
+124,trường hợp,N,O,
+124,mắc,V,O,
+124,mới,R,O,
+124,đều,R,O,
+124,là,V,O,B-R
+124,du học sinh,N,O,I-R
+124,từ,E,O,B-R
+124,Nhật Bản,Np,B-LOC,B-LOC
+124,về,E,O,I-R
+124,Việt Nam,Np,B-LOC,B-LOC
+124,ngày,N,B-LOC,
+124,22/4,M,I-LOC,B-TIME
+124,trên,E,O,
+124,chuyến,N,O,
+124,bay,V,O,
+124,VN311,Np,B-LOC,B-FLIGHT
+124,.,CH,O,
+125,Ngay,T,O,
+125,sau,N,O,
+125,nhập cảnh,N,O,B-R
+125,tại,E,O,
+125,Sân bay,N,B-LOC,B-LOC
+125,Vân Đồn,Np,I-LOC,I-LOC
+125,",",CH,O,
+125,họ,P,O,B-BNS
+125,được,V,O,
+125,cách ly,V,O,B-R
+125,tập trung,V,O,
+125,tại,E,O,
+125,Trường,N,B-LOC,B-LOC
+125,Quân sự,N,I-LOC,I-LOC
+125,tỉnh,N,I-LOC,I-LOC
+125,Thái Bình,Np,I-LOC,I-LOC
+125,",",CH,O,
+125,hiện,N,O,B-TIME
+125,được,V,O,
+125,cách ly,V,O,B-R
+125,",",CH,O,
+125,điều trị,V,O,B-R
+125,tại,E,O,
+125,Bệnh viện,N,B-LOC,B-HOS
+125,Bệnh,N,I-LOC,I-HOS
+125,Nhiệt đới,N,I-LOC,I-HOS
+125,Trung ương,N,I-LOC,I-HOS
+125,cơ sở,N,I-LOC,I-HOS
+125,2,M,I-LOC,I-HOS
+125,.,CH,O,
+126,THÊM,V,O,
+126,21,M,O,
+126,BN COVID,Np,B-PER,
+126,-,CH,O,
+126,19,M,O,
+126,KHỎI,Np,B-PER,
+126,BỆNH,Np,I-PER,
+126,:,CH,O,
+126,Thông tin,N,O,
+126,từ,E,O,
+126,tiểu Ban,N,O,
+126,điều trị,V,O,
+126,-,CH,O,
+126,Ban Chỉ đạo Quốc gia,N,O,
+126,phòng,N,O,
+126,",",CH,O,
+126,chống,V,O,
+126,dịch COVID,N,O,
+126,-,CH,O,
+126,19,M,O,
+126,cho,V,O,
+126,biết,V,O,
+126,",",CH,O,
+126,hôm nay,N,O,
+126,(,CH,O,
+126,17/4,M,O,B-TIME
+126,),CH,O,
+126,",",CH,O,
+126,cả,P,O,
+126,nước,N,O,
+126,đã,R,O,
+126,có,V,O,
+126,21,M,B-MISC,
+126,BN,Np,I-MISC,B-BNS
+126,mắc,V,O,
+126,COVID,Np,O,
+126,-,CH,O,
+126,19,M,O,
+126,được,V,O,
+126,công bố,V,O,
+126,khỏi,V,O,B-R
+126,bệnh,N,O,B-BN
+126,",",CH,O,
+126,nâng,V,O,
+126,tổng số,N,O,
+126,ca,N,O,
+126,được,V,O,
+126,chữa,V,O,
+126,khỏi,V,O,
+126,ở,E,O,
+126,Việt Nam,Np,B-LOC,
+126,lên,V,O,
+126,198,N,O,
+126,(,CH,O,
+126,74,N,O,
+126,%,M,O,
+126,tổng số,N,B-LOC,
+126,BN,Np,I-LOC,
+126,),CH,O,
+126,.,CH,O,
+127,Cụ thể,A,O,
+127,",",CH,O,
+127,gồm,V,O,
+127,:,CH,O,
+127,BN108,Np,B-LOC,B-BN
+127,",",CH,B-LOC,
+127,BN128,Np,I-LOC,B-BN
+127,",",CH,O,
+127,BN133,Np,B-LOC,B-BN
+127,",",CH,B-LOC,
+127,BN139,Np,I-LOC,B-BN
+127,",",CH,O,
+127,BN169,Np,B-LOC,B-BN
+127,",",CH,B-LOC,
+127,BN172,Np,I-LOC,B-BN
+127,",",CH,B-LOC,
+127,BN173,Np,I-LOC,B-BN
+127,",",CH,O,
+127,BN174,Np,B-LOC,B-BN
+127,",",CH,B-LOC,
+127,BN183,Np,I-LOC,B-BN
+127,",",CH,O,
+127,BN191,Np,B-LOC,B-BN
+127,",",CH,B-LOC,
+127,BN213,Np,I-LOC,B-BN
+127,",",CH,O,
+127,BN217,Np,B-LOC,B-BN
+127,",",CH,B-LOC,
+127,BN219,Np,I-LOC,B-BN
+127,",",CH,O,
+127,BN221,Np,B-LOC,B-BN
+127,",",CH,B-LOC,
+127,BN223,Np,I-LOC,B-BN
+127,",",CH,O,
+127,BN242,Np,B-LOC,B-BN
+127,",",CH,B-LOC,
+127,BN251,Np,I-LOC,B-BN
+127,(,CH,O,
+127,đều,R,O,
+127,ở,E,O,
+127,BV,Np,B-LOC,B-HOS
+127,Bệnh,Np,B-LOC,I-HOS
+127,nhiệt đới,N,B-LOC,I-HOS
+127,TW,Np,I-LOC,I-HOS
+127,cơ sở,N,B-LOC,I-HOS
+127,2,M,I-LOC,I-HOS
+127,.,CH,O,
+128,BN229,Np,B-PER,B-BN
+128,ở,E,O,
+128,Ninh Bình,Np,B-LOC,B-ADD
+128,.,CH,O,
+129,BN105,Np,B-PER,B-BN
+129,",",CH,O,
+129,BN106,Np,B-LOC,B-BN
+129,",",CH,B-LOC,
+129,BN144,Np,I-LOC,B-BN
+129,đều,R,O,
+129,ở,E,O,
+129,Trà Vinh,Np,B-LOC,B-ADD
+129,.,CH,O,
+130,THÔNG BÁO,Np,B-PER,
+130,VỀ,Np,B-PER,
+130,BN268,Np,I-PER,B-BN
+130,:,CH,O,
+130,BN268,Np,B-LOC,B-BN
+130,là,V,O,
+130,nữ giới,N,O,B-SEX
+130,",",CH,O,
+130,16,M,O,B-AGE
+130,tuổi,N,O,
+130,",",CH,O,
+130,quốc tịch,N,B-LOC,
+130,Việt Nam,Np,I-LOC,B-NAT
+130,",",CH,O,
+130,dân tộc,N,B-LOC,
+130,Mông,Np,I-LOC,
+130,",",CH,O,
+130,trú,V,O,
+130,tại,E,O,
+130,một,M,O,
+130,thôn,N,O,
+130,hẻo lánh,A,O,
+130,ở,E,O,
+130,gần,A,O,
+130,biên giới,N,B-LOC,B-ADD
+130,giáp,N,I-LOC,I-ADD
+130,Trung Quốc,Np,I-LOC,I-ADD
+130,của,E,O,I-ADD
+130,huyện,N,B-LOC,I-ADD
+130,Đồng Văn,Np,I-LOC,I-ADD
+130,",",CH,O,I-ADD
+130,tỉnh,N,B-LOC,I-ADD
+130,Hà Giang,Np,I-LOC,I-ADD
+130,.,CH,O,
+131,Gia đình,N,O,
+131,BN,Np,B-PER,
+131,có,V,O,
+131,3,M,O,
+131,anh trai,N,O,
+131,làm việc,V,O,
+131,tự do,N,O,
+131,bên,N,O,
+131,Trung Quốc,Np,B-LOC,
+131,.,CH,O,
+132,Ngày,N,O,
+132,7/4,M,O,B-TIME
+132,",",CH,O,
+132,BN,Np,B-PER,B-BN
+132,có,V,O,
+132,biểu hiện,N,O,
+132,sốt,V,O,
+132,",",CH,O,
+132,ho,N,O,
+132,",",CH,O,
+132,khó,A,O,
+132,thở,V,O,
+132,và,C,O,
+132,được,V,O,
+132,cách ly,V,O,B-R
+132,tại,E,O,
+132,Bệnh viện,N,B-LOC,B-BN
+132,Đa khoa,N,I-LOC,I-BN
+132,huyện,N,I-LOC,I-BN
+132,Đồng Văn,Np,I-LOC,I-BN
+132,.,CH,O,
+133,BN,Np,B-PER,B-BN
+133,được,V,O,
+133,lấy,V,O,
+133,mẫu,N,O,
+133,xét nghiệm,V,O,
+133,và,C,O,
+133,cho,E,O,
+133,kết quả,N,O,
+133,dương tính,A,O,B-STATUS
+133,với,E,O,
+133,virus,FW,O,
+133,SARS,Np,B-LOC,
+133,-,CH,O,
+133,CoV,Ny,O,
+133,-,CH,O,
+133,2,M,O,
+133,.,CH,O,
+134,Hiện tại,N,O,B-TIME
+134,BN,Np,B-PER,B-BN
+134,được,R,O,
+134,cách ly,V,O,B-R
+134,",",CH,O,
+134,điều trị,V,O,B-R
+134,tại,E,O,
+134,Bệnh viện,N,B-LOC,B-LOC
+134,Đa khoa,N,I-LOC,I-LOC
+134,huyện,N,I-LOC,I-LOC
+134,Đồng Văn,Np,I-LOC,I-LOC
+134,",",CH,O,I-LOC
+134,tỉnh,N,B-LOC,I-LOC
+134,Hà Giang,Np,I-LOC,I-LOC
+134,.,CH,O,
+135,THÔNG BÁO,Np,B-PER,
+135,VỀ,Np,B-PER,
+135,BN267,Np,I-PER,B-BN
+135,:,CH,O,
+135,BN267,Np,B-LOC,B-BN
+135,là,V,O,
+135,nam giới,N,O,B-SEX
+135,",",CH,O,
+135,46,M,O,B-AGE
+135,tuổi,N,O,
+135,",",CH,O,
+135,xóm,N,B-LOC,B-ADD
+135,Hội,N,I-LOC,I-ADD
+135,",",CH,I-LOC,I-ADD
+135,Hạ Lôi,Np,I-LOC,I-ADD
+135,",",CH,B-LOC,I-ADD
+135,Mê Linh,Np,I-LOC,I-ADD
+135,",",CH,O,I-ADD
+135,Hà Nội,Np,B-LOC,I-ADD
+135,",",CH,O,
+135,là,V,O,B-R
+135,bố,N,B-LOC,I-R
+135,của,E,I-LOC,
+135,BN257,Np,I-LOC,B-BN
+135,",",CH,O,
+135,chồng,N,O,B-R
+135,của,E,O,
+135,BN258,Np,B-PER,B-BN
+135,",",CH,O,
+135,có,V,O,
+135,tiếp xúc,V,O,B-R
+135,gần,A,O,I-R
+135,với,E,O,
+135,BN243,Np,B-PER,B-BN
+135,tại,E,O,
+135,nhà,N,B-LOC,
+135,ngày,N,I-LOC,
+135,20/3,M,I-LOC,B-TIME
+135,.,CH,O,
+136,Ngày,N,O,
+136,8/4,M,O,B-TIME
+136,",",CH,O,
+136,được,V,O,
+136,cách ly,V,O,B-R
+136,tập trung,V,O,
+136,tại,E,O,
+136,Hà Nội,Np,B-LOC,B-LOC
+136,.,CH,O,
+137,Ngày,N,O,
+137,13/4,M,O,B-TIME
+137,BN,Np,B-LOC,B-BN
+137,khởi phát,V,O,
+137,với,E,O,
+137,triệu chứng,N,O,
+137,sốt,V,O,
+137,nhẹ,A,O,
+137,",",CH,O,
+137,mệt mỏi,A,O,
+137,",",CH,O,
+137,đau,V,O,
+137,rát,A,O,
+137,họng,N,O,
+137,",",CH,O,
+137,đau,V,O,
+137,người,N,O,
+137,",",CH,O,
+137,được,V,O,
+137,lấy,V,O,
+137,mẫu,N,O,
+137,bệnh phẩm,N,O,
+137,.,CH,O,
+138,Xét nghiệm,V,O,
+138,ngày,N,O,
+138,14/4,M,O,B-TIME
+138,cho,E,O,
+138,kết quả,N,O,
+138,dương tính,A,O,B-STATUS
+138,với,E,O,
+138,SARS,Np,B-LOC,
+138,-,CH,O,
+138,CoV,Ny,O,
+138,-,CH,O,
+138,2,M,O,
+138,.,CH,O,
+139,Hiện,N,B-LOC,B-TIME
+139,BN,Np,I-LOC,B-BN
+139,được,R,O,
+139,cách ly,V,O,B-R
+139,",",CH,O,
+139,điều trị,V,O,B-R
+139,tại,E,O,
+139,Bệnh viện,N,B-LOC,B-HOS
+139,Bệnh,N,I-LOC,I-HOS
+139,Nhiệt đới,N,I-LOC,I-HOS
+139,Trung ương,N,I-LOC,I-HOS
+139,cơ sở,N,I-LOC,I-HOS
+139,2,M,I-LOC,I-HOS
+139,.,CH,O,
+140,THÔNG BÁO,Np,B-PER,
+140,VỀ,Np,B-PER,
+140,BN266,Np,I-PER,B-BN
+140,:,CH,O,
+140,BN nữ,N,O,B-SEX
+140,",",CH,O,
+140,36,M,O,B-AGE
+140,tuổi,N,O,
+140,",",CH,O,
+140,trú,V,O,
+140,tại,E,O,
+140,Thường Tín,Np,B-LOC,B-ADD
+140,",",CH,O,I-ADD
+140,Hà Nội,Np,B-LOC,I-ADD
+140,.,CH,O,
+141,Ngày,N,O,
+141,08-10,M,O,B-TIME
+141,/,CH,O,I-TIME
+141,3,M,O,I-TIME
+141,",",CH,O,
+141,BN,Np,B-PER,B-BN
+141,đến,V,O,
+141,chăm,V,O,
+141,mẹ,N,O,
+141,tại,E,O,
+141,Khoa,Np,B-LOC,B-HOS
+141,Phục hồi,V,O,I-HOS
+141,chức năng,N,O,I-HOS
+141,",",CH,O,I-HOS
+141,Bệnh viện,N,B-LOC,I-HOS
+141,Bạch Mai,Np,I-LOC,I-HOS
+141,.,CH,O,
+142,Ngày,N,O,
+142,12/3,M,O,B-TIME
+142,",",CH,O,
+142,BN,Np,B-PER,B-BN
+142,có,V,O,
+142,biểu hiện,N,O,
+142,ngứa,V,O,
+142,họng,N,O,
+142,.,CH,O,
+143,Từ,E,O,
+143,ngày,N,B-LOC,
+143,30/3,M,I-LOC,B-TIME
+143,BN,Np,I-LOC,B-BN
+143,cách ly,V,O,
+143,tại,E,O,
+143,nhà,N,O,
+143,.,CH,O,
+144,Ngày,N,O,
+144,12/4,M,O,B-TIME
+144,",",CH,O,
+144,BN,Np,B-PER,B-BN
+144,được,V,O,
+144,lấy,V,O,
+144,mẫu,N,O,
+144,bệnh phẩm,V,O,
+144,và,C,O,
+144,cho,E,O,
+144,kết quả,N,O,
+144,xét nghiệm,V,O,
+144,dương tính,A,O,B-STATUS
+144,với,E,O,
+144,SARS,Np,B-LOC,
+144,-,CH,O,
+144,CoV,Ny,O,
+144,-,CH,O,
+144,2,M,O,
+144,vào,E,O,
+144,ngày,N,O,
+144,14/4,M,O,B-TIME
+144,.,CH,O,
+145,Hiện,N,B-LOC,B-TIME
+145,BN,Np,I-LOC,B-BN
+145,được,R,O,
+145,cách ly,V,O,B-R
+145,",",CH,O,
+145,điều trị,V,O,B-R
+145,tại,E,O,
+145,Bệnh viện,N,B-LOC,B-HOS
+145,Bệnh,N,I-LOC,I-HOS
+145,Nhiệt đới,N,I-LOC,I-HOS
+145,Trung ương,N,I-LOC,I-HOS
+145,cơ sở,N,I-LOC,I-HOS
+145,2,M,I-LOC,I-HOS
+145,.,CH,O,
+146,THÔNG BÁO,Np,O,
+146,VỀ,Np,B-LOC,
+146,3,M,I-LOC,
+146,BN263,Np,I-LOC,B-BN
+146,",",CH,O,
+146,BN265,Np,B-LOC,B-BN
+146,:,CH,B-LOC,
+146,BN263,Np,I-LOC,B-BN
+146,-,CH,O,
+146,nữ,N,O,B-SEX
+146,",",CH,O,
+146,45,M,O,B-AGE
+146,tuổi,N,O,
+146,",",CH,O,
+146,trú,V,O,
+146,tại,E,O,
+146,Hạ Lôi,Np,B-LOC,B-ADD
+146,",",CH,B-LOC,I-ADD
+146,Mê Linh,Np,I-LOC,I-ADD
+146,",",CH,O,I-ADD
+146,Hà Nội,Np,B-LOC,I-ADD
+146,.,CH,O,
+147,Ngày,N,O,
+147,25/3,M,O,B-TIME
+147,",",CH,O,
+147,BN,Np,B-PER,B-BN
+147,có,V,O,
+147,biểu hiện,N,O,
+147,sốt rét,N,O,
+147,",",CH,O,
+147,đau,V,O,
+147,rát,A,O,
+147,họng,N,O,
+147,",",CH,O,
+147,ho khan,V,O,
+147,",",CH,O,
+147,mệt,A,O,
+147,.,CH,O,
+148,BN,Np,B-PER,B-BN
+148,thuộc,V,O,
+148,diện,N,O,
+148,sàng lọc,V,O,
+148,và,C,O,
+148,được,V,O,
+148,lấy,V,O,
+148,mẫu,N,O,
+148,xét nghiệm,V,O,
+148,ngày,N,B-LOC,
+148,11/4,M,I-LOC,B-TIME
+148,",",CH,O,
+148,được,V,O,
+148,kết luận,V,O,
+148,dương tính,V,O,B-STATUS
+148,với,E,O,
+148,SARS,Np,B-PER,
+148,-,CH,O,
+148,CoV,Ny,O,
+148,-,CH,O,
+148,2,M,O,
+148,vào,E,O,
+148,ngày,N,B-LOC,
+148,13/4,M,I-LOC,B-TIME
+148,",",CH,O,
+148,hiện,N,O,B-TIME
+148,đang,R,O,
+148,được,V,O,
+148,cách ly,V,O,B-R
+148,",",CH,O,
+148,điều trị,V,O,B-R
+148,tại,E,O,
+148,BV,Np,B-LOC,B-HOS
+148,Bệnh,Np,B-LOC,I-HOS
+148,nhiệt đới,N,B-LOC,I-HOS
+148,Trung ương,N,I-LOC,I-HOS
+148,cơ sở,N,I-LOC,I-HOS
+148,2,M,I-LOC,I-HOS
+148,.,CH,O,
+149,BN264,Np,B-PER,B-BN
+149,-,CH,O,
+149,nữ,N,O,B-SEX
+149,",",CH,O,
+149,24,M,O,B-AGE
+149,tuổi,N,O,
+149,",",CH,O,
+149,trú,V,O,
+149,tại,E,O,
+149,Hạ Lôi,Np,B-LOC,B-ADD
+149,",",CH,O,
+149,thuộc,V,O,
+149,diện,N,O,
+149,sàng lọc,V,O,
+149,và,C,O,
+149,được,V,O,
+149,lấy,V,O,
+149,mẫu,N,O,
+149,xét nghiệm,V,O,
+149,ngày,N,B-LOC,
+149,11/4,M,I-LOC,B-TIME
+149,",",CH,O,
+149,có,V,O,
+149,kết quả,N,O,
+149,xét nghiệm,V,O,
+149,dương tính,A,O,B-STATUS
+149,với,E,O,
+149,SARS,Np,B-LOC,
+149,-,CH,O,
+149,CoV,Ny,O,
+149,-,CH,O,
+149,2,M,O,
+149,vào,E,O,
+149,ngày,N,B-LOC,
+149,13/4,M,I-LOC,B-TIME
+149,",",CH,O,
+149,hiện,N,O,B-TIME
+149,đang,R,O,
+149,được,V,O,
+149,cách ly,V,O,B-R
+149,",",CH,O,
+149,điều trị,V,O,B-R
+149,tại,E,O,
+149,BV,Np,B-LOC,B-HOS
+149,Bệnh,Np,B-LOC,I-HOS
+149,nhiệt đới,N,B-LOC,I-HOS
+149,Trung ương,N,I-LOC,I-HOS
+149,cơ sở,N,I-LOC,I-HOS
+149,2,M,I-LOC,I-HOS
+149,.,CH,O,
+150,BN265,Np,B-PER,B-BN
+150,-,CH,O,
+150,nam,N,O,B-SEX
+150,",",CH,O,
+150,26,M,O,B-AGE
+150,tuổi,N,O,
+150,",",CH,O,
+150,trú,V,O,
+150,tại,E,O,
+150,Hà Tĩnh,Np,B-LOC,B-ADD
+150,",",CH,B-LOC,
+150,ngày,N,I-LOC,
+150,23/3,M,I-LOC,B-TIME
+150,từ,E,O,B-R
+150,Thái Lan,Np,B-LOC,B-LOC
+150,nhập cảnh,V,O,B-R
+150,về,E,O,I-R
+150,Việt Nam,Np,B-LOC,B-LOC
+150,qua,V,O,B-R
+150,cửa khẩu,N,B-LOC,B-LOC
+150,Cha Lo,Np,I-LOC,I-LOC
+150,",",CH,O,I-LOC
+150,Quảng Bình,Np,B-LOC,I-LOC
+150,",",CH,O,
+150,hiện,N,O,B-TIME
+150,đang,R,O,
+150,được,V,O,
+150,cách ly,V,O,B-R
+150,",",CH,O,
+150,điều trị,V,O,B-R
+150,tại,E,O,
+150,Bệnh viện,N,B-LOC,B-HOS
+150,Cầu Treo,Np,I-LOC,I-HOS
+150,",",CH,O,I-HOS
+150,Hà Tĩnh,Np,B-LOC,I-HOS
+150,.,CH,O,
+151,THÔNG BÁO,Np,O,
+151,VỀ,Np,B-LOC,
+151,2,M,I-LOC,
+151,BN261,Np,I-LOC,B-BN
+151,",",CH,O,
+151,BN262,Np,B-LOC,B-BN
+151,:,CH,B-LOC,
+151,BN261,Np,I-LOC,B-BN
+151,-,CH,O,
+151,nữ,N,O,B-SEX
+151,",",CH,O,
+151,60,M,O,B-AGE
+151,tuổi,N,O,
+151,",",CH,O,
+151,trú,V,O,
+151,tại,E,O,
+151,xóm,N,B-LOC,B-ADD
+151,Hội,Np,I-LOC,I-ADD
+151,",",CH,B-LOC,I-ADD
+151,Hạ Lôi,Np,I-LOC,I-ADD
+151,",",CH,B-LOC,I-ADD
+151,Mê Linh,Np,I-LOC,I-ADD
+151,",",CH,O,I-ADD
+151,Hà Nội,Np,B-LOC,I-ADD
+151,",",CH,O,
+151,bán,V,O,B-R
+151,tạp hoá,N,O,I-R
+151,tại,E,O,
+151,chợ,N,B-LOC,B-LOC
+151,Hạ,Np,I-LOC,I-LOC
+151,trong,E,O,
+151,xóm,N,O,
+151,Hội,N,O,
+151,",",CH,O,
+151,được,V,O,
+151,lấy,V,O,
+151,mẫu,N,O,
+151,bệnh phẩm,V,O,
+151,ngày,N,B-LOC,
+151,11/4,M,I-LOC,B-TIME
+151,và,C,O,
+151,xét nghiệm,V,O,
+151,ngày,N,B-LOC,
+151,12/4,M,I-LOC,B-TIME
+151,cho,E,O,
+151,kết quả,N,O,
+151,dương tính,A,O,B-STATUS
+151,với,E,O,
+151,SARS,Np,B-LOC,
+151,-,CH,O,
+151,CoV,Ny,O,
+151,-,CH,O,
+151,2,M,O,
+151,.,CH,O,
+152,BN262,Np,B-PER,B-BN
+152,-,CH,O,
+152,nam,N,O,B-SEX
+152,",",CH,O,
+152,26,M,O,B-AGE
+152,tuổi,N,O,
+152,",",CH,O,
+152,trú,V,O,
+152,tại,E,O,
+152,xóm,N,B-LOC,B-ADD
+152,Chợ,Np,I-LOC,I-ADD
+152,",",CH,B-LOC,I-ADD
+152,Hạ Lôi,Np,I-LOC,I-ADD
+152,",",CH,O,
+152,ngày,N,B-LOC,
+152,27/3,M,I-LOC,B-TIME
+152,có,V,O,
+152,tiếp xúc,V,O,B-R
+152,gần,A,O,B-R
+152,với,E,O,
+152,BN254,Np,B-PER,B-BN
+152,(,CH,O,
+152,là,V,O,
+152,bác,N,B-LOC,
+152,của,E,I-LOC,
+152,BN,Np,I-LOC,
+152,),CH,O,
+152,",",CH,O,
+152,ngày,N,B-LOC,
+152,31/3,M,I-LOC,B-TIME
+152,có,V,O,
+152,xuất hiện,V,O,
+152,ho khan,N,O,
+152,",",CH,O,
+152,sốt,V,O,
+152,",",CH,O,
+152,được,V,O,
+152,lấy,V,O,
+152,mẫu,N,O,
+152,bệnh phẩm,V,O,
+152,ngày,N,B-LOC,
+152,11/4,M,I-LOC,B-TIME
+152,và,C,O,
+152,xét nghiệm,V,O,
+152,ngày,N,B-LOC,
+152,12/4,M,I-LOC,B-TIME
+152,cho,E,O,
+152,kết quả,N,O,
+152,dương tính,A,O,B-STATUS
+152,với,E,O,
+152,virus,FW,O,
+152,SARS,Np,B-LOC,
+152,-,CH,O,
+152,CoV,Ny,O,
+152,-,CH,O,
+152,2,M,O,
+152,.,CH,O,
+153,Hiện,N,B-LOC,B-TIME
+153,2,M,I-LOC,
+153,BN,Np,I-LOC,B-BN
+153,được,R,O,
+153,cách ly,V,O,B-R
+153,",",CH,O,
+153,điều trị,V,O,B-R
+153,tại,E,O,
+153,Bệnh viện,N,B-LOC,B-HOS
+153,Bệnh,N,I-LOC,I-HOS
+153,Nhiệt đới,N,I-LOC,I-HOS
+153,Trung ương,N,I-LOC,I-HOS
+153,cơ sở,N,I-LOC,I-HOS
+153,2,M,I-LOC,I-HOS
+153,.,CH,O,
+154,THÔNG BÁO,Np,O,
+154,VỀ,Np,B-LOC,
+154,2,M,I-LOC,
+154,BN259,Np,I-LOC,B-BN
+154,",",CH,O,
+154,BN260,Np,B-LOC,B-BN
+154,:,CH,B-LOC,
+154,BN259,Np,I-LOC,B-BN
+154,-,CH,O,
+154,nữ,N,O,B-SEX
+154,",",CH,O,
+154,41,M,O,B-AGE
+154,tuổi,N,O,
+154,",",CH,O,
+154,ở,E,O,
+154,xóm Bàng,N,B-LOC,B-ADD
+154,",",CH,I-LOC,I-ADD
+154,thôn,N,I-LOC,I-ADD
+154,Hạ Lôi,Np,I-LOC,I-ADD
+154,",",CH,O,I-ADD
+154,xã,N,B-LOC,I-ADD
+154,Mê Linh,Np,I-LOC,I-ADD
+154,",",CH,O,I-ADD
+154,huyện,N,B-LOC,I-ADD
+154,Mê Linh,Np,I-LOC,I-ADD
+154,",",CH,O,I-ADD
+154,Hà Nội,Np,B-LOC,I-ADD
+154,",",CH,O,
+154,là,V,O,B-R
+154,vợ,N,B-LOC,I-R
+154,BN254,Np,I-LOC,B-BN
+154,",",CH,O,
+154,thỉnh thoảng,R,O,
+154,có,V,O,
+154,đi,V,O,
+154,giao,V,O,B-R
+154,hoa,N,O,I-R
+154,tại,E,O,
+154,thôn,N,B-LOC,B-LOC
+154,Liễu Trì,Np,I-LOC,I-LOC
+154,",",CH,O,I-LOC
+154,xã,N,B-LOC,I-LOC
+154,Mê Linh,Np,I-LOC,I-LOC
+154,và,C,O,
+154,một số,L,O,
+154,nơi,N,O,
+154,khác,A,O,
+154,khi,N,O,
+154,có,V,O,
+154,đơn,N,O,
+154,hàng,N,O,
+154,",",CH,O,
+154,thường xuyên,R,O,
+154,mua,V,O,B-R
+154,hàng,N,O,I-R
+154,tại,E,O,I-R
+154,nhà,N,B-LOC,I-R
+154,BN250,Np,I-LOC,B-BN
+154,(,CH,O,
+154,lần,N,O,
+154,cuối,N,B-LOC,
+154,ngày,N,I-LOC,
+154,25/3,M,I-LOC,B-TIME
+154,),CH,O,
+154,.,CH,O,
+155,Từ,E,O,
+155,ngày,N,O,
+155,03/4,M,O,B-TIME
+155,-,CH,O,I-TIME
+155,06/4,N,O,I-TIME
+155,",",CH,O,
+155,có,V,O,
+155,đi,V,O,
+155,sang,V,O,
+155,xóm,N,O,
+155,",",CH,O,
+155,thôn,N,O,
+155,khác,A,O,
+155,gồm,V,O,
+155,xóm,N,B-LOC,B-LOC
+155,Chùa,Np,I-LOC,I-LOC
+155,",",CH,O,
+155,xóm,N,B-LOC,B-LOC
+155,Ao Sen,Np,I-LOC,I-LOC
+155,",",CH,O,
+155,thôn,N,B-LOC,B-LOC
+155,Liễu Trì,Np,I-LOC,I-LOC
+155,để,E,O,
+155,giao,V,O,
+155,hoa,N,O,
+155,và,C,O,
+155,mua,V,O,
+155,đồ,N,O,
+155,",",CH,O,
+155,có,V,O,
+155,tiếp xúc,V,O,
+155,nhiều,A,O,
+155,người,N,O,
+155,.,CH,O,
+156,Lần,N,O,
+156,cuối,N,O,
+156,tiếp xúc,V,O,B-R
+156,chồng,N,O,
+156,là,V,O,
+156,BN254,Np,B-PER,B-BN
+156,vào,E,O,
+156,8/4,N,O,B-TIME
+156,",",CH,O,
+156,trước,E,O,
+156,khi,N,B-LOC,
+156,BN254,Np,I-LOC,B-BN
+156,lên,V,O,
+156,chạy,V,O,B-R
+156,thận,N,O,I-R
+156,ở,E,O,
+156,BV,Np,B-LOC,B-HOS
+156,Thận,Np,B-LOC,I-HOS
+156,Hà Nội,Np,B-LOC,I-HOS
+156,.,CH,O,
+157,BN260,Np,B-PER,B-BN
+157,-,CH,O,
+157,nữ,N,O,B-SEX
+157,",",CH,O,
+157,35,M,O,B-AGE
+157,tuổi,N,O,
+157,",",CH,O,
+157,quốc tịch,N,B-LOC,
+157,Việt Nam,Np,I-LOC,B-NAT
+157,",",CH,O,
+157,địa chỉ,N,O,
+157,ở,E,O,
+157,xóm,N,B-LOC,B-ADD
+157,Đường,Np,I-LOC,I-ADD
+157,",",CH,B-LOC,I-ADD
+157,thôn,N,I-LOC,I-ADD
+157,Hạ Lôi,Np,I-LOC,I-ADD
+157,",",CH,O,
+157,làm,V,O,
+157,nghề,N,O,
+157,trồng,V,O,
+157,hoa,N,O,
+157,",",CH,O,
+157,không,R,O,
+157,đi,V,O,
+157,đâu xa,V,O,
+157,trong,E,O,
+157,vòng,N,O,
+157,2,M,O,
+157,tuần,N,O,
+157,gần,A,O,
+157,đây,P,O,
+157,.,CH,O,
+158,Hàng,R,O,
+158,ngày,N,O,
+158,thường,R,O,
+158,đi,V,O,
+158,chợ,N,O,
+158,sau,N,O,
+158,đó,P,O,
+158,ra,V,O,
+158,đồng,N,O,
+158,chăm,V,O,
+158,hoa,N,O,
+158,rồi,C,O,
+158,về,V,O,
+158,nhà,N,O,
+158,.,CH,O,
+159,Có,V,O,
+159,thói quen,N,O,
+159,mua,V,O,B-R
+159,thịt,N,O,I-R
+159,tại,E,O,
+159,nhà,N,B-LOC,B-LOC
+159,Bảy Huấn,Np,I-LOC,I-LOC
+159,(,CH,O,I-LOC
+159,tại,E,O,I-LOC
+159,xóm,N,B-LOC,I-LOC
+159,Đường,Np,I-LOC,I-LOC
+159,),CH,O,I-LOC
+159,cũng,R,O,
+159,là,V,O,
+159,nơi,N,B-LOC,
+159,BN259,Np,I-LOC,B-BN
+159,hay,C,O,
+159,tới,V,O,
+159,mua,V,O,
+159,thịt,N,O,
+159,.,CH,O,
+160,Ngày,N,O,
+160,6/4,M,O,B-TIME
+160,",",CH,O,
+160,có,V,O,
+160,tiếp xúc,V,O,
+160,gần,A,O,
+160,với,E,O,
+160,2,M,O,
+160,người,N,B-LOC,
+160,F1,Np,I-LOC,
+160,của,E,O,
+160,BN243,Np,B-ORG,B-BN
+160,khi,N,O,
+160,đi,V,O,
+160,giao,V,O,
+160,hoa,N,O,
+160,.,CH,O,
+161,THÔNG BÁO,Np,B-PER,
+161,VỀ,Np,B-PER,
+161,BN258,Np,I-PER,B-BN
+161,(,CH,O,
+161,BN258,Np,B-LOC,B-BN
+161,),CH,O,
+161,:,CH,O,
+161,BN nữ,N,O,B-SEX
+161,",",CH,O,
+161,47,M,O,B-AGE
+161,tuổi,N,O,
+161,",",CH,O,
+161,quốc tịch,N,B-LOC,
+161,Việt Nam,Np,I-LOC,B-NAT
+161,",",CH,O,
+161,trú,V,O,
+161,tại,E,O,
+161,xóm,N,B-LOC,B-ADD
+161,Hội,Np,I-LOC,I-ADD
+161,",",CH,B-LOC,I-ADD
+161,Hạ Lôi,Np,I-LOC,I-ADD
+161,",",CH,B-LOC,I-ADD
+161,Mê Linh,Np,I-LOC,I-ADD
+161,",",CH,O,I-ADD
+161,Hà Nội,Np,B-LOC,I-ADD
+161,.,CH,O,
+162,BN,Np,B-PER,B-BN
+162,là,V,O,B-R
+162,mẹ,N,O,I-R
+162,BN257,Np,B-PER,B-BN
+162,đang,R,O,
+162,được,V,O,
+162,cách ly,V,O,B-R
+162,tại,E,O,
+162,Bệnh viện,N,B-LOC,B-HOS
+162,Bệnh viện,N,I-LOC,I-HOS
+162,Bệnh,N,I-LOC,I-HOS
+162,nhiệt đới,N,I-LOC,I-HOS
+162,Trung ương,N,I-LOC,I-HOS
+162,cơ sở,N,I-LOC,I-HOS
+162,2,M,I-LOC,I-HOS
+162,.,CH,O,
+163,BN,Np,B-PER,B-BN
+163,đã,R,O,
+163,được,V,O,
+163,lấy,V,O,
+163,mẫu,N,O,
+163,xét nghiệm,V,O,
+163,và,C,O,
+163,kết luận,V,O,
+163,dương tính,V,O,B-STATUS
+163,với,E,O,
+163,virus,FW,O,
+163,SARS,Np,B-LOC,
+163,-,CH,O,
+163,CoV,Ny,O,
+163,-,CH,O,
+163,2,M,O,
+163,vào,E,O,
+163,ngày,N,O,
+163,11/4,M,O,B-TIME
+163,.,CH,O,
+164,THÔNG TIN,N,B-LOC,
+164,VỀ,Np,I-LOC,
+164,BN256,Np,I-LOC,B-BN
+164,",",CH,O,
+164,BN257,Np,B-LOC,B-BN
+164,:,CH,B-LOC,
+164,BN256,Np,I-LOC,B-BN
+164,:,CH,O,
+164,nam,N,O,B-SEX
+164,",",CH,O,
+164,52,M,O,B-AGE
+164,tuổi,N,O,
+164,",",CH,O,
+164,quốc tịch,N,B-LOC,
+164,Việt Nam,Np,I-LOC,B-NAT
+164,",",CH,O,
+164,có,V,O,
+164,địa chỉ,N,O,
+164,ở,E,O,
+164,Đình Dù,Np,B-LOC,B-ADD
+164,",",CH,B-LOC,I-ADD
+164,Văn Lâm,Np,I-LOC,I-ADD
+164,",",CH,B-LOC,I-ADD
+164,Hưng Yên,Np,I-LOC,I-ADD
+164,.,CH,O,
+165,Ngày,N,O,
+165,27/3,M,O,B-TIME
+165,",",CH,O,
+165,BN,Np,B-PER,B-BN
+165,từ,E,O,B-R
+165,Nga,Np,B-LOC,B-LOC
+165,về,E,O,B-R
+165,sân bay,N,B-LOC,B-LOC
+165,Nội Bài,Np,I-LOC,I-LOC
+165,trên,E,O,
+165,chuyến,N,O,
+165,bay,V,O,
+165,số hiệu,N,B-LOC,
+165,SU290,Np,I-LOC,B-FIGHT
+165,.,CH,O,
+166,Sau,N,O,
+166,khi,N,O,
+166,nhập cảnh,V,O,
+166,",",CH,O,
+166,BN,Np,B-PER,B-BN
+166,được,V,O,
+166,chuyển,V,O,
+166,cách ly,V,O,B-R
+166,tập trung,V,O,
+166,tại,E,O,
+166,Trường Văn hóa,N,B-LOC,B-LOC
+166,Nghệ thuật,N,I-LOC,I-LOC
+166,tỉnh,N,I-LOC,I-LOC
+166,Vĩnh Phúc,Np,I-LOC,I-LOC
+166,.,CH,O,
+167,Hiện,N,B-LOC,B-TIME
+167,BN,Np,I-LOC,B-BN
+167,được,R,O,
+167,cách ly,V,O,B-R
+167,",",CH,O,
+167,điều trị,V,O,B-R
+167,tại,E,O,
+167,Bệnh viện,N,B-LOC,B-HOS
+167,Bệnh,N,I-LOC,I-HOS
+167,Nhiệt đới,N,I-LOC,I-HOS
+167,Trung ương,N,I-LOC,I-HOS
+167,cơ sở,N,I-LOC,I-HOS
+167,2,M,I-LOC,I-HOS
+167,.,CH,O,
+168,BN257,Np,B-PER,B-BN
+168,:,CH,O,
+168,nữ,N,O,B-SEX
+168,",",CH,O,
+168,15,M,O,B-AGE
+168,tuổi,N,O,
+168,",",CH,O,
+168,quốc tịch,N,B-LOC,
+168,Việt Nam,Np,I-LOC,B-NAT
+168,",",CH,O,
+168,trú,V,O,
+168,tại,E,O,
+168,xóm,N,B-LOC,B-ADD
+168,Hội,Np,I-LOC,I-ADD
+168,",",CH,B-LOC,I-ADD
+168,Hạ Lôi,Np,I-LOC,I-ADD
+168,",",CH,B-LOC,I-ADD
+168,Mê Linh,Np,I-LOC,I-ADD
+168,",",CH,O,I-ADD
+168,Hà Nội,Np,B-LOC,I-ADD
+168,.,CH,O,
+169,BN,Np,B-PER,B-BN
+169,là,V,O,
+169,học sinh,N,O,
+169,",",CH,O,
+169,đang,R,O,
+169,nghỉ,V,O,
+169,học,V,O,
+169,ở,E,O,
+169,nhà,N,O,
+169,",",CH,O,
+169,không,R,O,
+169,đi,V,O,
+169,đâu,P,O,
+169,.,CH,O,
+170,Ngày,N,O,
+170,20/3,M,O,B-TIME
+170,",",CH,O,
+170,BN243,Np,B-LOC,B-BN
+170,(,CH,O,
+170,là,V,O,
+170,bạn,N,O,
+170,của,E,O,
+170,bố,N,B-LOC,
+170,BN,Np,I-LOC,
+170,),CH,O,
+170,đến,V,O,
+170,nhà,N,O,
+170,chơi,V,O,
+170,và,C,O,
+170,nói chuyện,V,O,
+170,với,E,O,
+170,bố,N,B-LOC,
+170,BN.,Np,I-LOC,
+171,Ngày,N,O,
+171,8/4,M,O,B-TIME
+171,",",CH,O,
+171,BN,Np,B-PER,B-BN
+171,có,V,O,
+171,biểu hiện,N,O,
+171,sốt,V,O,
+171,",",CH,O,
+171,chảy,V,O,
+171,nước mũi,A,O,
+171,.,CH,O,
+172,Ngày,N,O,
+172,9/4,M,O,B-TIME
+172,",",CH,O,
+172,BN,Np,B-PER,B-BN
+172,được,V,O,
+172,lấy,V,O,
+172,mẫu,N,O,
+172,xét nghiệm,V,O,
+172,.,CH,O,
+173,Ngày,N,O,
+173,10/4,M,O,B-TIME
+173,",",CH,O,
+173,xét nghiệm,V,O,
+173,cho,E,O,
+173,kết quả,N,O,
+173,dương tính,A,O,B-STATUS
+173,với,E,O,
+173,virus,FW,O,
+173,SARS,Np,B-LOC,
+173,-,CH,O,
+173,CoV,Ny,O,
+173,-,CH,O,
+173,2,M,O,
+173,.,CH,O,
+174,Bố,N,O,
+174,BN,Np,B-PER,
+174,cũng,R,O,
+174,đã,R,O,
+174,được,V,O,
+174,lấy,V,O,
+174,mẫu,N,O,
+174,xét nghiệm,V,O,
+174,và,C,O,
+174,cho,E,O,
+174,kết quả,N,O,
+174,âm tính,A,O,B-STATUS
+174,.,CH,O,
+175,Hiện,N,O,B-TIME
+175,BN,Np,B-PER,B-BN
+175,đang,R,O,
+175,được,V,O,
+175,cách ly,V,O,B-R
+175,",",CH,O,
+175,điều trị,V,O,B-R
+175,tại,E,O,
+175,Bệnh viện,N,B-LOC,B-HOS
+175,Bệnh,N,I-LOC,I-HOS
+175,Nhiệt đới,N,I-LOC,I-HOS
+175,Trung ương,N,I-LOC,I-HOS
+175,cơ sở,N,I-LOC,I-HOS
+175,2,M,I-LOC,I-HOS
+175,.,CH,O,
+176,THÔNG BÁO,Np,B-PER,
+176,VỀ,Np,I-PER,
+176,4,M,O,
+176,BN252,Np,B-LOC,B-BN
+176,",",CH,O,
+176,BN255,Np,B-LOC,B-BN
+176,:,CH,B-LOC,
+176,BN252,Np,I-LOC,B-BN
+176,-,CH,O,
+176,nam,N,O,B-SEX
+176,",",CH,O,
+176,6,M,O,B-AGE
+176,tuổi,N,O,
+176,",",CH,O,
+176,ở,E,O,
+176,phường,N,B-LOC,B-ADD
+176,12,M,I-LOC,B-ADD
+176,",",CH,O,B-ADD
+176,quận,N,B-LOC,B-ADD
+176,5,M,I-LOC,B-ADD
+176,",",CH,O,B-ADD
+176,TP.,Ny,B-LOC,B-ADD
+176,HCM,Np,I-LOC,B-ADD
+176,",",CH,O,
+176,sống,V,O,B-R
+176,tại,E,O,
+176,Campuchia,Np,B-LOC,B-LOC
+176,cùng,C,O,
+176,gia đình,N,O,
+176,có,V,O,
+176,5,M,O,
+176,người,N,O,
+176,",",CH,O,
+176,trong,E,O,
+176,đó,P,O,
+176,2,M,O,
+176,người,N,O,
+176,đã,R,O,
+176,được,V,O,
+176,xác định,V,O,
+176,mắc,V,O,
+176,COVID,Np,B-PER,
+176,-,CH,O,
+176,19,M,O,
+176,và,C,O,
+176,được,V,O,
+176,cách ly,V,O,B-R
+176,",",CH,O,
+176,điều trị,V,O,B-R
+176,tại,E,O,
+176,Campuchia,Np,B-LOC,B-LOC
+176,.,CH,O,
+177,Ngày,N,O,
+177,8/4,M,O,B-TIME
+177,",",CH,O,
+177,BN,Np,B-PER,B-BN
+177,cùng,A,O,
+177,2,M,O,
+177,người,N,O,
+177,còn,V,O,
+177,lại,V,O,
+177,trong,E,O,
+177,gia đình,N,O,
+177,trở về,V,O,B-R
+177,Việt Nam,Np,B-LOC,B-LOC
+177,qua,V,O,B-R
+177,cửa khẩu,N,B-LOC,B-LOC
+177,Mộc Bài,Np,I-LOC,I-LOC
+177,",",CH,O,I-LOC
+177,Tây Ninh,Np,B-LOC,I-LOC
+177,.,CH,O,
+178,BN253,Np,B-PER,B-BN
+178,-,CH,O,
+178,nữ,N,O,B-SEX
+178,",",CH,O,
+178,41,M,O,B-AGE
+178,tuổi,N,O,
+178,",",CH,O,
+178,ở,E,O,
+178,Mê Linh,Np,B-LOC,B-ADD
+178,",",CH,O,I-ADD
+178,Hà Nội,Np,B-LOC,I-ADD
+178,",",CH,O,
+178,là,V,O,B-R
+178,chị,Nc,O,I-R
+178,dâu,N,O,I-R
+178,",",CH,O,
+178,ở,E,O,B-R
+178,gần,A,O,I-R
+178,nhà,N,O,I-R
+178,và,C,O,
+178,có,V,O,
+178,tiếp xúc,V,O,B-R
+178,gần,A,O,I-R
+178,với,E,O,
+178,BN243,Np,B-PER,B-BN
+178,.,CH,O,
+179,BN254,Np,B-PER,B-BN
+179,-,CH,O,
+179,nam,N,O,B-SEX
+179,",",CH,O,
+179,51,M,O,B-AGE
+179,tuổi,N,O,
+179,",",CH,O,
+179,trú,V,O,
+179,ở,E,O,
+179,Mê Linh,Np,B-LOC,B-ADD
+179,",",CH,O,I-ADD
+179,Hà Nội,Np,B-LOC,I-ADD
+179,",",CH,O,
+179,là,V,O,B-R
+179,hàng xóm,N,O,I-R
+179,có,V,O,
+179,tiếp xúc,V,O,B-R
+179,gần,A,O,I-R
+179,BN243,Np,B-LOC,B-BN
+179,",",CH,B-LOC,
+179,BN250,Np,I-LOC,B-BN
+179,.,CH,O,
+180,BN255,Np,B-PER,B-BN
+180,-,CH,O,
+180,nam,N,O,B-SEX
+180,",",CH,O,
+180,29,M,O,B-AGE
+180,tuổi,N,O,
+180,",",CH,O,
+180,ở,E,O,
+180,Bắc Quang,Np,B-LOC,B-ADD
+180,",",CH,B-LOC,I-ADD
+180,Hà Giang,Np,I-LOC,I-ADD
+180,",",CH,O,
+180,ngày,N,B-LOC,
+180,27/3,M,I-LOC,B-TIME
+180,từ,E,O,B-R
+180,Nga,Np,B-LOC,B-LOC
+180,về,E,O,B-R
+180,Nội Bài,Np,B-LOC,B-LOC
+180,trên,E,O,
+180,chuyến,N,O,
+180,bay,V,O,
+180,SU290,Np,B-LOC,B-FLIGHT
+180,",",CH,O,
+180,được,V,O,
+180,cách ly,V,O,B-R
+180,tập trung,V,O,
+180,tại,E,O,
+180,Vĩnh Phúc,Np,B-LOC,B-LOC
+180,.,CH,O,
+181,THÊM,V,O,
+181,4,M,O,
+181,BN,Np,B-PER,B-BNS
+181,KHỎI,Np,I-PER,
+181,BỆNH,Np,I-PER,
+181,:,CH,O,
+181,Sáng,N,O,
+181,8/4,M,O,B-TIME
+181,",",CH,B-LOC,
+181,3,M,I-LOC,
+181,BN BN125,Np,I-LOC,B-BN
+181,",",CH,O,
+181,BN126,Np,I-LOC,B-BN
+181,và,C,O,
+181,BN152,Np,B-ORG,B-BN
+181,tại,E,O,
+181,Bệnh viện,N,B-LOC,B-HOS
+181,Điều trị,N,I-LOC,I-HOS
+181,COVID,Np,I-LOC,I-HOS
+181,-,CH,O,I-HOS
+181,19,M,B-MISC,I-HOS
+181,Cần Giờ,Np,I-MISC,I-HOS
+181,(,CH,O,I-HOS
+181,TP,Ny,B-LOC,I-HOS
+181,HCM,Np,I-LOC,I-HOS
+181,),CH,O,I-HOS
+181,đã,R,O,
+181,được,V,O,
+181,công bố,V,O,
+181,khỏi,V,O,B-STATUS
+181,bệnh,N,O,I-STATUS
+181,.,CH,O,
+182,Cũng,R,O,
+182,trong sáng,A,O,
+182,nay,P,O,
+182,",",CH,O,
+182,tại,E,O,
+182,Bệnh viện,N,B-LOC,B-HOS
+182,dã chiến,N,I-LOC,I-HOS
+182,Củ Chi,Np,I-LOC,I-HOS
+182,TP,Ny,B-LOC,I-HOS
+182,HCM,Np,I-LOC,I-HOS
+182,",",CH,B-LOC,
+182,BN153,Np,I-LOC,B-BN
+182,cũng,R,O,
+182,được,V,O,
+182,công bố,V,O,
+182,khỏi,V,O,B-STATUS
+182,bệnh,N,O,I-STATUS
+182,.,CH,O,
+183,Tình trạng,N,O,
+183,sức khỏe,V,O,
+183,tốt,A,O,
+183,",",CH,O,
+183,các,L,O,
+183,BN,Np,B-PER,B-BNS
+183,sẽ,R,O,
+183,tiếp tục,V,O,
+183,được,V,O,
+183,dõi,V,O,
+183,sức khỏe,V,O,
+183,trong,E,O,
+183,14,M,O,
+183,ngày,N,O,
+183,tiếp theo,V,O,
+183,.,CH,O,
+184,Như vậy,X,O,
+184,",",CH,O,
+184,đến,E,O,
+184,nay,P,O,
+184,",",CH,O,
+184,Việt Nam,Np,B-LOC,
+184,đã,R,O,
+184,có,V,O,
+184,126,N,B-LOC,
+184,BN COVID,Np,I-LOC,
+184,-,CH,O,
+184,19,M,O,
+184,khỏi,V,O,
+184,bệnh,N,O,
+184,.,CH,O,
+185,Số,N,O,
+185,ca,N,O,
+185,đang,R,O,
+185,điều trị,V,O,
+185,tại,E,O,
+185,các,L,O,
+185,cơ sở,N,O,
+185,y tế,N,O,
+185,hiện,N,O,B-TIME
+185,có,V,O,
+185,125,N,B-LOC,
+185,BN.,Np,I-LOC,
+186,THÔNG BÁO,Np,O,
+186,VỀ,Np,B-LOC,
+186,2,M,I-LOC,
+186,BN250,Np,I-LOC,B-BN
+186,",",CH,O,
+186,BN251,Np,B-LOC,B-BN
+186,:,CH,B-LOC,
+186,BN250,Np,I-LOC,B-BN
+186,-,CH,O,
+186,nữ,N,O,B-SEX
+186,",",CH,O,
+186,50,M,O,B-AGE
+186,tuổi,N,O,
+186,",",CH,O,
+186,trú,V,O,
+186,tại,E,O,
+186,Hạ Lôi,Np,B-LOC,B-ADD
+186,",",CH,B-LOC,I-ADD
+186,Mê Linh,Np,I-LOC,I-ADD
+186,",",CH,O,I-ADD
+186,Hà Nội,Np,B-LOC,I-ADD
+186,.,CH,O,
+187,BN,Np,B-PER,B-BN
+187,là,V,O,B-R
+187,hàng xóm,N,O,I-R
+187,và,C,O,
+187,có,V,O,
+187,tiếp xúc,V,O,B-R
+187,gần,A,O,I-R
+187,BN243,Np,B-LOC,B-BN
+187,",",CH,O,
+187,ngày,N,O,
+187,2/4,M,O,B-TIME
+187,khởi phát,N,O,
+187,bệnh,N,O,
+187,",",CH,O,
+187,hiện,N,O,B-TIME
+187,được,V,O,
+187,điều trị,V,O,B-R
+187,",",CH,O,
+187,cách ly,V,O,B-R
+187,tại,E,O,
+187,BV,Np,B-LOC,B-HOS
+187,Bệnh,Np,B-LOC,I-HOS
+187,Nhiệt đới,V,O,I-HOS
+187,Trung ương,N,B-LOC,I-HOS
+187,cơ sở,N,I-LOC,I-HOS
+187,2,M,I-LOC,I-HOS
+187,.,CH,O,
+188,BN251,Np,B-PER,B-BN
+188,-,CH,O,
+188,nam,N,O,B-SEX
+188,",",CH,O,
+188,64,M,O,B-AGE
+188,tuổi,N,O,
+188,",",CH,O,
+188,trú,V,O,
+188,tại,E,O,
+188,Bình Nghĩa,Np,B-LOC,B-ADD
+188,",",CH,B-LOC,I-ADD
+188,Bình Lục,Np,I-LOC,I-ADD
+188,",",CH,B-LOC,I-ADD
+188,Hà Nam,Np,I-LOC,I-ADD
+188,",",CH,O,
+188,từ,E,O,B-TIME
+188,20/3,N,O,I-TIME
+188,đến,E,O,I-TIME
+188,nay,P,O,I-TIME
+188,điều trị,V,O,B-R
+188,tại,E,O,
+188,Khoa,Np,B-LOC,B-HOS
+188,Tiêu hoá,V,O,I-HOS
+188,",",CH,O,I-HOS
+188,BVĐK,Np,B-ORG,I-HOS
+188,tỉnh,N,B-LOC,I-HOS
+188,Hà Nam,Np,I-LOC,I-HOS
+188,",",CH,O,
+188,có,V,O,
+188,con,Nc,O,
+188,trai,N,O,
+188,và,C,O,
+188,con,Nc,O,
+188,dâu,N,O,
+188,từ,E,O,
+188,Hà Nội,Np,B-LOC,
+188,về,E,O,
+188,chăm,V,O,
+188,",",CH,O,
+188,hiện,N,O,B-TIME
+188,được,V,O,
+188,điều trị,V,O,B-R
+188,",",CH,O,
+188,cách ly,V,O,B-R
+188,tại,E,O,
+188,BVĐK,Np,B-LOC,B-HOS
+188,tỉnh,N,B-LOC,I-HOS
+188,Hà Nam,Np,I-LOC,I-HOS
+188,",",CH,O,
+188,đang,R,O,
+188,tiếp tục,V,O,
+188,điều tra,V,O,
+188,nguồn,N,O,
+188,lây,V,O,
+188,.,CH,O,
+189,THÔNG BÁO,Np,B-PER,
+189,VỀ,Np,I-PER,
+189,4,M,O,
+189,BN246,Np,B-LOC,B-BN
+189,",",CH,O,
+189,BN249,Np,B-LOC,B-BN
+189,:,CH,B-LOC,
+189,BN246,Np,I-LOC,B-BN
+189,-,CH,O,
+189,nam,N,O,B-SEX
+189,",",CH,O,
+189,33,M,O,B-AGE
+189,tuổi,N,O,
+189,",",CH,O,
+189,ở,E,O,
+189,huyện,N,B-LOC,B-ADD
+189,Yên Thành,Np,I-LOC,I-ADD
+189,",",CH,O,I-ADD
+189,Nghệ An,Np,B-LOC,I-ADD
+189,",",CH,O,
+189,làm,V,O,B-R
+189,đầu bếp,V,O,I-R
+189,tại,E,O,
+189,Moscow,Np,B-LOC,B-LOC
+189,(,CH,B-LOC,I-LOC
+189,Nga,Np,I-LOC,I-LOC
+189,),CH,O,I-LOC
+189,",",CH,O,
+189,ngày,N,B-LOC,
+189,24/3,M,I-LOC,B-TIME
+189,từ,E,O,B-R
+189,Nga,Np,B-LOC,B-LOC
+189,trở về,V,O,B-R
+189,Việt Nam,Np,B-LOC,B-LOC
+189,trên,E,O,
+189,chuyến,N,O,
+189,bay,V,O,
+189,SU290,Np,B-LOC,B-FLIGHT
+189,(,CH,O,
+189,ghế,N,B-LOC,
+189,49F,M,I-LOC,
+189,),CH,O,
+189,",",CH,O,
+189,nhập cảnh,N,B-LOC,B-R
+189,Nội Bài,Np,I-LOC,B-LOC
+189,ngày,N,O,
+189,25/3,M,O,B-TIME
+189,.,CH,O,
+190,BN247,Np,B-PER,B-BN
+190,-,CH,O,
+190,nam,N,O,B-SEX
+190,",",CH,O,
+190,28,M,O,B-AGE
+190,tuổi,N,O,
+190,",",CH,O,
+190,ở,E,O,
+190,phường,N,B-LOC,B-ADD
+190,1,M,I-LOC,I-ADD
+190,",",CH,O,I-ADD
+190,quận,N,B-LOC,I-ADD
+190,Bình Thạnh,Np,I-LOC,I-ADD
+190,",",CH,O,I-ADD
+190,TP.,Ny,B-LOC,I-ADD
+190,HCM,Np,I-LOC,I-ADD
+190,",",CH,O,
+190,là,V,O,B-R
+190,đồng nghiệp,N,O,I-R
+190,",",CH,O,
+190,có,V,O,
+190,tiếp xúc,V,O,B-R
+190,gần,A,O,I-R
+190,với,E,O,
+190,BN124,Np,B-PER,B-BN
+190,và,C,O,
+190,BN151,Np,B-LOC,B-BN
+190,.,CH,O,
+191,BN248,Np,B-PER,B-BN
+191,-,CH,O,
+191,nam,N,O,B-SEX
+191,",",CH,O,
+191,20,M,O,B-AGE
+191,tuổi,N,O,
+191,",",CH,O,
+191,quốc tịch,N,B-LOC,
+191,Việt Nam,Np,I-LOC,B-NAT
+191,",",CH,O,
+191,từ,E,O,B-R
+191,Mỹ,Np,B-LOC,B-LOC
+191,quá cảnh,N,B-LOC,B-R
+191,Nhật Bản,Np,I-LOC,B-LOC
+191,về,E,O,B-R
+191,Việt Nam,Np,B-LOC,B-LOC
+191,trên,E,O,
+191,chuyến,N,O,
+191,bay,V,O,
+191,JL079,Np,B-LOC,B-FLIGHT
+191,ngày,N,O,
+191,23/3,M,O,B-TIME
+191,nhập cảnh,N,O,B-R
+191,tại,E,O,
+191,Tân Sơn Nhất,Np,B-LOC,B-LOC
+191,.,CH,O,
+192,BN249,Np,B-PER,B-BN
+192,-,CH,O,
+192,nam,N,O,B-SEX
+192,",",CH,O,
+192,55,M,O,B-AGE
+192,tuổi,N,O,
+192,",",CH,O,
+192,quốc tịch,N,B-LOC,
+192,Việt Nam,Np,I-LOC,B-NAT
+192,",",CH,O,
+192,từ,E,O,B-R
+192,Mỹ,Np,B-LOC,B-LOC
+192,quá cảnh,V,O,B-R
+192,tại,E,O,
+192,Hồng Kông,Np,B-LOC,B-LOC
+192,",",CH,O,
+192,nhập cảnh,V,O,
+192,ngày,N,B-LOC,
+192,22/3,M,I-LOC,B-TIME
+192,",",CH,O,
+192,khởi phát,V,O,B-R
+192,bệnh,N,O,I-R
+192,tại,E,O,
+192,Mỹ,Np,B-LOC,B-LOC
+192,.,CH,O,
+193,THÔNG BÁO,Np,B-PER,
+193,VỀ,Np,I-PER,
+193,4,M,O,
+193,BN242,Np,B-LOC,B-BN
+193,",",CH,O,
+193,BN245,Np,B-LOC,B-BN
+193,:,CH,B-LOC,
+193,BN242,Np,I-LOC,B-BN
+193,(,CH,O,
+193,BN242,Ny,O,B-BN
+193,),CH,O,
+193,-,CH,O,
+193,nữ,N,O,B-SEX
+193,",",CH,O,
+193,34,M,O,B-AGE
+193,tuổi,N,O,
+193,",",CH,O,
+193,ở,E,O,
+193,xã,N,B-LOC,B-ADD
+193,Cẩm Quan,Np,I-LOC,I-ADD
+193,",",CH,O,I-ADD
+193,huyện,N,B-LOC,I-ADD
+193,Cẩm Xuyên,Np,I-LOC,I-ADD
+193,",",CH,O,I-ADD
+193,tỉnh,N,B-LOC,I-ADD
+193,Hà Tĩnh,Np,I-LOC,I-ADD
+193,",",CH,O,
+193,sinh sống,V,O,B-R
+193,và,C,O,
+193,làm việc,V,O,B-R
+193,tại,E,O,
+193,Nga,Np,B-LOC,B-LOC
+193,",",CH,B-LOC,
+193,ngày,N,I-LOC,
+193,25/3,M,I-LOC,B-TIME
+193,từ,E,O,B-R
+193,Nga,Np,B-LOC,B-LOC
+193,về,E,O,B-R
+193,Việt Nam,Np,B-LOC,B-LOC
+193,trên,E,O,
+193,chuyến,N,O,
+193,bay,V,O,
+193,SU290,Np,B-LOC,B-FLIGHT
+193,",",CH,O,
+193,ghế,N,O,
+193,23A,N,O,
+193,",",CH,O,
+193,nhập cảnh,V,O,B-R
+193,tại,E,O,
+193,Nội Bài,Np,B-LOC,B-LOC
+193,.,CH,O,
+194,BN243,Np,B-PER,B-BN
+194,-,CH,O,
+194,nam,N,O,B-SEX
+194,",",CH,O,
+194,46,M,O,B-AGE
+194,tuổi,N,O,
+194,",",CH,O,
+194,ở,E,O,
+194,xã,N,B-LOC,B-ADD
+194,Mê Linh,Np,I-LOC,I-ADD
+194,",",CH,O,I-ADD
+194,huyện,N,B-LOC,I-ADD
+194,Mê Linh,Np,I-LOC,I-ADD
+194,",",CH,O,I-ADD
+194,TP,Ny,O,I-ADD
+194,Hà Nội,Np,B-LOC,I-ADD
+194,",",CH,O,
+194,ngày,N,B-LOC,
+194,12/3,M,I-LOC,B-TIME
+194,đưa,V,O,B-R
+194,vợ,N,O,I-R
+194,đi,V,O,I-R
+194,khám,V,O,I-R
+194,bệnh,N,O,I-R
+194,tại,E,O,
+194,Khoa,Np,B-LOC,B-LOC
+194,Miễn dịch,M,O,I-LOC
+194,-,CH,O,I-LOC
+194,Dị ứng,N,O,I-LOC
+194,",",CH,O,I-LOC
+194,Bệnh viện,N,B-LOC,I-LOC
+194,Bạch Mai,Np,I-LOC,I-LOC
+194,và,C,O,
+194,về,V,O,
+194,trong,E,O,
+194,ngày,N,O,
+194,",",CH,O,
+194,ăn uống,V,O,B-R
+194,tại,E,O,
+194,quán,N,B-LOC,B-LOC
+194,cơm,N,I-LOC,I-LOC
+194,đường,N,I-LOC,I-LOC
+194,Giải Phóng,Np,I-LOC,I-LOC
+194,đối diện,V,O,
+194,cổng,N,O,
+194,bệnh viện,N,O,
+194,",",CH,O,
+194,từ,E,O,
+194,đó,P,O,
+194,đến,E,O,
+194,nay,P,O,
+194,chưa,R,O,
+194,quay,V,O,
+194,lại,V,O,
+194,Bệnh viện,N,O,
+194,.,CH,O,
+195,BN244,Np,B-PER,B-BN
+195,-,CH,O,
+195,nữ,N,O,B-SEX
+195,",",CH,O,
+195,44,M,O,B-AGE
+195,tuổi,N,O,
+195,",",CH,O,
+195,ở,E,O,
+195,Đức Trạch,Np,B-LOC,B-ADD
+195,",",CH,B-LOC,I-ADD
+195,Bố Trạch,Np,I-LOC,I-ADD
+195,",",CH,O,I-ADD
+195,Quảng Bình,Np,B-LOC,I-ADD
+195,",",CH,O,
+195,nhân viên,N,O,
+195,phục vụ,V,O,
+195,quán,N,O,
+195,ăn,V,O,
+195,nhanh,A,O,
+195,tại,E,O,
+195,Đức,Np,B-LOC,
+195,",",CH,O,
+195,từ,E,O,B-R
+195,Đức,Np,B-LOC,B-LOC
+195,đến,E,O,B-R
+195,Nga,Np,B-LOC,B-LOC
+195,trên,E,O,
+195,chuyến,N,O,
+195,bay,V,O,
+195,SU2313,Np,B-LOC,B-FLIGHT
+195,",",CH,O,
+195,số,N,O,
+195,ghế,N,O,
+195,20F,A,O,
+195,",",CH,O,
+195,nối,V,O,
+195,chuyến,N,O,
+195,từ,E,O,B-R
+195,Nga,Np,B-LOC,B-LOC
+195,về,E,O,B-R
+195,Việt Nam,Np,B-LOC,B-LOC
+195,trên,E,O,
+195,chuyến,N,O,
+195,bay,V,O,
+195,SU290,Np,B-LOC,B-FLIGHT
+195,",",CH,O,
+195,ghế,N,O,
+195,40C,N,O,
+195,",",CH,O,
+195,nhập cảnh,V,O,B-R
+195,tại,E,O,
+195,Nội Bài,Np,B-LOC,B-LOC
+195,ngày,N,B-LOC,
+195,25/3,M,I-LOC,B-TIME
+195,.,CH,O,
+196,BN245,Np,B-PER,B-BN
+196,-,CH,O,
+196,nữ,N,O,B-SEX
+196,",",CH,O,
+196,21,M,O,B-AGE
+196,tuổi,N,O,
+196,",",CH,O,
+196,ở,E,O,
+196,Sơn Hải,Np,B-LOC,B-ADD
+196,",",CH,B-LOC,I-ADD
+196,Quỳnh Lưu,Np,I-LOC,I-ADD
+196,",",CH,O,I-ADD
+196,Nghệ An,Np,B-LOC,I-ADD
+196,",",CH,O,
+196,nhân viên,N,O,
+196,làm,V,O,
+196,móng,N,O,
+196,tại,E,O,B-R
+196,Tây,Np,B-LOC,B-LOC
+196,Ban Nha,Np,B-LOC,I-LOC
+196,",",CH,O,
+196,từ,E,O,B-R
+196,Tây,Np,B-LOC,B-LOC
+196,Ban Nha,Np,B-LOC,B-LOC
+196,đến,E,O,B-R
+196,Nga,Np,B-LOC,B-LOC
+196,trên,E,O,
+196,chuyến,N,O,
+196,bay,V,O,
+196,SU250,Np,B-LOC,B-FLIGHT
+196,",",CH,O,
+196,số,N,O,
+196,ghế,N,O,
+196,26B,A,O,
+196,",",CH,O,
+196,nối,V,O,
+196,chuyến,N,O,
+196,từ,E,O,B-R
+196,Nga,Np,B-LOC,B-LOC
+196,về,E,O,B-R
+196,Việt Nam,Np,B-LOC,B-LOC
+196,trên,E,O,
+196,chuyến,N,O,
+196,bay,V,O,
+196,SU290,Np,B-LOC,B-FLIGHT
+196,",",CH,O,
+196,số,N,O,
+196,ghế,N,O,
+196,30H,N,O,
+196,và,C,O,
+196,nhập cảnh,V,O,B-R
+196,tại,E,O,
+196,Nội Bài,Np,B-LOC,B-LOC
+196,ngày,N,B-LOC,
+196,25/3,M,I-LOC,B-TIME
+196,.,CH,O,
+197,Cả,P,O,
+197,4,M,O,
+197,BN,Np,B-PER,B-BNS
+197,đang,R,O,
+197,được,V,O,
+197,cách ly,V,O,B-R
+197,",",CH,O,
+197,điều trị,V,O,B-R
+197,BV,Np,B-PER,B-HOS
+197,Bệnh,Np,I-PER,I-HOS
+197,Nhiệt đới,V,O,I-HOS
+197,Trung ương,N,B-LOC,I-HOS
+197,cơ sở,N,I-LOC,I-HOS
+197,2,M,I-LOC,I-HOS
+197,.,CH,O,
+198,Hôm nay,N,O,
+198,(,CH,O,
+198,6/4,M,O,B-TIME
+198,),CH,O,
+198,",",CH,O,
+198,Việt Nam,Np,B-PER,
+198,đã,R,O,
+198,có,V,O,
+198,thêm,V,O,
+198,4,M,B-MISC,
+198,BN,Np,I-MISC,
+198,mắc,V,O,
+198,COVID,Np,O,
+198,-,CH,O,
+198,19,M,O,
+198,được,V,O,
+198,công bố,V,O,
+198,khỏi,V,O,B-STATUS
+198,bệnh,N,O,I-STATUS
+198,",",CH,O,
+198,nâng,V,O,
+198,tổng số,N,O,
+198,ca,N,O,
+198,bình phục,V,O,
+198,ở,E,O,
+198,nước,N,O,
+198,ta,P,O,
+198,lên,V,O,
+198,95,M,O,
+198,người,N,O,
+198,.,CH,O,
+199,Trong,E,O,
+199,đó,P,O,
+199,",",CH,O,
+199,gồm,V,O,
+199,:,CH,O,
+199,BN122,Np,B-PER,B-BN
+199,(,CH,O,
+199,24,M,O,B-AGE
+199,tuổi,N,O,
+199,),CH,O,
+199,điều trị,V,O,B-R
+199,tại,E,O,
+199,Bệnh viện,N,B-LOC,B-HOS
+199,Đà Nẵng,Np,I-LOC,I-HOS
+199,",",CH,O,
+199,vào,V,O,
+199,viện,N,B-LOC,
+199,hôm,N,I-LOC,
+199,22/3,M,I-LOC,B-TIME
+199,.,CH,O,
+200,BN154,Np,B-PER,B-BN
+200,(,CH,O,
+200,23,M,O,B-AGE
+200,tuổi,N,O,
+200,),CH,O,
+200,",",CH,O,
+200,điều trị,V,O,B-R
+200,tại,E,O,
+200,bệnh viện,N,B-LOC,B-HOS
+200,Lao,Np,I-LOC,I-HOS
+200,và,C,O,I-HOS
+200,bệnh,N,O,I-HOS
+200,Phổi,Np,B-PER,I-HOS
+200,Cần Thơ,Np,I-PER,I-HOS
+200,",",CH,O,
+200,vào,V,O,
+200,viện,N,B-LOC,
+200,hôm,N,I-LOC,
+200,24/3,M,I-LOC,B-TIME
+200,.,CH,O,
+201,hai,M,O,
+201,BN117,Np,B-PER,B-BN
+201,và,C,O,
+201,118,N,O,
+201,điều trị,V,O,B-BN
+201,tại,E,O,
+201,Bệnh viện,N,B-LOC,B-HOS
+201,Đa khoa,N,I-LOC,I-HOS
+201,Tây Ninh,Np,I-LOC,I-HOS
+201,",",CH,O,
+201,vào,V,O,
+201,viện,N,B-LOC,
+201,hôm,N,I-LOC,
+201,22/3,M,I-LOC,B-TIME
+201,.,CH,O,
+202,THÔNG BÁO,Np,B-PER,
+202,VỀ,Np,B-PER,
+202,BN241,Np,I-PER,B-BN
+202,(,CH,O,
+202,BN241,Np,B-LOC,B-BN
+202,),CH,O,
+202,:,CH,O,
+202,BN,Np,B-PER,
+202,nam,N,O,B-SEX
+202,",",CH,O,
+202,20,M,O,B-AGE
+202,tuổi,N,O,
+202,",",CH,O,
+202,ở,E,O,
+202,phường,N,B-LOC,B-ADD
+202,Thảo Điền,Np,I-LOC,I-ADD
+202,",",CH,O,I-ADD
+202,quận,N,B-LOC,I-ADD
+202,2,M,I-LOC,I-ADD
+202,",",CH,O,I-ADD
+202,TP.,Ny,B-LOC,I-ADD
+202,HCM,Np,I-LOC,I-ADD
+202,",",CH,O,
+202,là,V,O,B-R
+202,du học sinh,N,O,I-R
+202,tại,E,O,
+202,Anh,Np,B-LOC,B-LOC
+202,.,CH,O,
+203,Ngày,N,O,
+203,21/3,M,O,B-TIME
+203,",",CH,O,
+203,BN,Np,B-PER,B-BN
+203,từ,E,O,B-R
+203,London,Np,B-LOC,B-LOC
+203,lên,V,O,
+203,chuyến,N,O,
+203,bay,V,O,
+203,của,E,O,
+203,Vietnam Airlines,Np,B-ORG,
+203,số hiệu,N,B-LOC,
+203,VN0050,Np,I-LOC,B-FLIGHT
+203,",",CH,O,
+203,số,N,O,
+203,ghế,N,O,
+203,5A,N,O,
+203,",",CH,O,
+203,về,V,O,B-R
+203,tới,E,O,
+203,sân bay,N,B-LOC,B-LOC
+203,Cần Thơ,Np,I-LOC,I-LOC
+203,ngày,N,O,
+203,22/3,M,O,B-TIME
+203,.,CH,O,
+204,THÔNG BÁO,Np,B-PER,
+204,VỀ,Np,B-PER,
+204,BN240,Np,I-PER,B-BN
+204,:,CH,O,
+204,BN nữ,N,O,B-SEX
+204,",",CH,O,
+204,29,M,O,B-AGE
+204,tuổi,N,O,
+204,",",CH,O,
+204,ở,E,O,
+204,huyện,N,B-LOC,B-ADD
+204,Lục Nam,Np,I-LOC,I-ADD
+204,",",CH,O,I-ADD
+204,tỉnh,N,B-LOC,I-ADD
+204,Bắc Giang,Np,I-LOC,I-ADD
+204,",",CH,O,
+204,làm việc,V,O,B-R
+204,tại,E,O,
+204,Bangkok,Np,B-LOC,B-LOC
+204,",",CH,O,I-LOC
+204,Thái Lan,Np,B-LOC,I-LOC
+204,.,CH,O,
+205,Ngày,N,O,
+205,19/3,M,O,B-TIME
+205,",",CH,O,
+205,trước,E,O,
+205,khi,N,O,
+205,về,V,O,
+205,Việt Nam,Np,B-LOC,
+205,",",CH,B-LOC,
+205,BN240,Np,I-LOC,B-BN
+205,có,V,O,
+205,tham gia,V,O,
+205,buổi,N,O,
+205,liên hoan,V,O,B-R
+205,với,E,O,
+205,gia đình,N,B-LOC,B-LOC
+205,BN166,Np,I-LOC,B-BN
+205,.,CH,O,
+206,Ngày,N,O,
+206,20/3,M,O,B-TIME
+206,",",CH,O,
+206,BN,Np,B-PER,B-BN
+206,đáp,V,O,
+206,chuyến,N,O,
+206,bay,V,O,
+206,VN618,Np,B-LOC,B-FLIGHT
+206,",",CH,O,
+206,ghế,N,O,
+206,28B,N,O,
+206,về,E,O,B-R
+206,Hà Nội,Np,B-LOC,B-LOC
+206,.,CH,O,
+207,Sau,N,O,
+207,khi,N,O,
+207,nhập cảnh,V,O,
+207,",",CH,O,
+207,BN,Np,B-PER,B-BN
+207,được,V,O,
+207,đưa,V,O,
+207,đến,E,O,
+207,khu,N,O,
+207,cách ly,V,O,B-R
+207,tập trung,V,O,
+207,tại,E,O,
+207,Lữ đoàn,N,B-LOC,B-LOC
+207,241,N,I-LOC,I-LOC
+207,",",CH,I-LOC,I-LOC
+207,xã,N,I-LOC,I-LOC
+207,Quỳnh Lưu,Np,I-LOC,I-LOC
+207,",",CH,O,I-LOC
+207,huyện,N,B-LOC,I-LOC
+207,Nho Quan,Np,I-LOC,I-LOC
+207,",",CH,O,I-LOC
+207,tỉnh,N,B-LOC,I-LOC
+207,Ninh Bình,Np,I-LOC,I-LOC
+207,.,CH,O,
+208,Ngày,N,O,
+208,1/4,M,O,B-TIME
+208,",",CH,O,
+208,BN,Np,B-PER,B-BN
+208,được,V,O,
+208,chuyển,V,O,B-R
+208,điều trị,V,O,I-R
+208,tại,E,O,
+208,Khoa,Np,B-LOC,B-HOS
+208,Truyền nhiễm,N,B-LOC,I-HOS
+208,BVĐK,Np,I-LOC,I-HOS
+208,tỉnh,N,B-LOC,I-HOS
+208,Ninh Bình,Np,I-LOC,I-HOS
+208,.,CH,O,
+209,6,M,O,
+209,trường hợp,N,O,
+209,ở,V,O,
+209,cùng,A,O,
+209,phòng,N,O,
+209,với,E,O,
+209,BN,Np,B-PER,
+209,tại,E,O,
+209,khu,N,O,
+209,cách ly,V,O,
+209,được,V,O,
+209,lấy,V,O,
+209,mẫu,N,O,
+209,xét nghiệm,V,O,
+209,trong,E,O,
+209,đêm,N,O,
+209,1/4,V,O,B-TIME
+209,và,C,O,
+209,đều,R,O,
+209,có,V,O,
+209,kết quả,N,O,
+209,âm tính,A,O,B-STATUS
+209,.,CH,O,
+210,THÔNG BÁO,Np,O,
+210,VỀ,Np,B-LOC,
+210,2,M,I-LOC,
+210,BN238,Np,I-LOC,B-BN
+210,",",CH,O,
+210,BN239,Np,B-LOC,B-BN
+210,:,CH,B-LOC,
+210,BN238,Np,I-LOC,B-BN
+210,-,CH,O,
+210,nữ,N,O,B-SEX
+210,",",CH,O,
+210,17,M,O,B-AGE
+210,tuổi,N,O,
+210,",",CH,O,
+210,ở,E,O,
+210,thị trấn,N,B-LOC,B-ADD
+210,Thạch Hà,Np,I-LOC,I-ADD
+210,",",CH,O,I-ADD
+210,huyện,N,B-LOC,I-ADD
+210,Thạch Hà,Np,I-LOC,I-ADD
+210,",",CH,O,I-ADD
+210,tỉnh,N,B-LOC,I-ADD
+210,Hà Tĩnh,Np,I-LOC,I-ADD
+210,",",CH,O,
+210,là,V,O,B-R
+210,lao động,N,O,I-R
+210,tự do,A,O,I-R
+210,tại,E,O,
+210,Thái Lan,Np,B-LOC,B-LOC
+210,",",CH,O,
+210,trước,N,O,
+210,đó,P,O,
+210,có,V,O,
+210,ở,V,O,B-R
+210,cùng,C,O,I-R
+210,bạn,N,B-LOC,
+210,(,CH,I-LOC,
+210,BN210,Np,I-LOC,B-BN
+210,),CH,O,
+210,tại,E,O,
+210,Thái Lan,Np,B-LOC,
+210,",",CH,B-LOC,
+210,ngày,N,I-LOC,
+210,17/3,M,I-LOC,B-TIME
+210,đi,V,O,
+210,xe,N,O,
+210,ô tô,V,O,
+210,từ,E,O,B-R
+210,Bangkok,Np,B-LOC,B-LOC
+210,về,E,O,B-R
+210,Việt Nam,Np,B-LOC,B-LOC
+210,",",CH,O,
+210,ngày,N,O,
+210,18/3,M,O,B-TIME
+210,nhập cảnh,N,O,B-R
+210,qua,V,O,
+210,cửa khẩu,N,B-LOC,B-LOC
+210,Cha Lo,Np,I-LOC,I-LOC
+210,",",CH,O,I-LOC
+210,tỉnh,N,O,I-LOC
+210,Quảng Bình,Np,B-LOC,I-LOC
+210,",",CH,O,
+210,hiện,N,O,B-TIME
+210,đang,R,O,
+210,được,V,O,
+210,cách ly,V,O,B-R
+210,và,C,O,
+210,điều trị,V,O,B-R
+210,tại,E,O,
+210,BVĐK,Np,B-LOC,B-HOS
+210,Cầu Treo,Np,B-LOC,I-HOS
+210,",",CH,O,I-HOS
+210,huyện,N,O,I-HOS
+210,Hương Sơn,Np,B-LOC,I-HOS
+210,",",CH,O,I-HOS
+210,Hà Tĩnh,Np,B-LOC,I-HOS
+210,",",CH,O,
+210,tình trạng,N,O,
+210,sức khoẻ,N,O,
+210,ổn định,A,O,
+210,.,CH,O,
+211,BN239,Np,B-PER,B-BN
+211,-,CH,O,
+211,nam,N,O,B-SEX
+211,",",CH,O,
+211,71,M,O,B-AGE
+211,tuổi,N,O,
+211,",",CH,O,
+211,ở,E,O,
+211,An Hoà,Np,B-LOC,B-ADD
+211,",",CH,B-LOC,I-ADD
+211,Tam Dương,Np,I-LOC,I-ADD
+211,",",CH,O,I-ADD
+211,tỉnh,N,B-LOC,I-ADD
+211,Vĩnh Phúc,Np,I-LOC,I-ADD
+211,",",CH,O,
+211,ngày,N,O,
+211,11/3,V,O,B-TIME
+211,đi,V,O,
+211,khám,V,O,B-R
+211,",",CH,O,
+211,điều trị,V,O,B-R
+211,tại,E,O,
+211,Bệnh viện,N,B-LOC,B-HOS
+211,Bạch Mai,Np,I-LOC,I-HOS
+211,và,C,O,
+211,về,V,O,
+211,trong,E,O,
+211,ngày,N,O,
+211,",",CH,O,
+211,ngày,N,B-LOC,
+211,18/3,M,I-LOC,B-TIME
+211,khám,V,O,
+211,lại,V,O,
+211,",",CH,O,
+211,ngày,N,B-LOC,
+211,19/3,M,I-LOC,B-TIME
+211,quay,V,O,B-R
+211,lại,V,O,B-R
+211,Vĩnh Phúc,Np,B-LOC,B-LOC
+211,",",CH,O,
+211,trong,E,O,
+211,thời gian,N,O,
+211,khám,V,O,
+211,có,V,O,
+211,mua,V,O,
+211,đồ,N,O,
+211,ăn,V,O,
+211,ở,E,O,
+211,căng tin,N,O,
+211,",",CH,O,
+211,hiện,N,O,B-TIME
+211,đang,R,O,
+211,được,V,O,
+211,cách ly,V,O,B-R
+211,và,C,O,
+211,điều trị,V,O,B-R
+211,tại,E,O,
+211,BV,Np,B-LOC,B-HOS
+211,Bệnh,Np,B-LOC,I-HOS
+211,nhiệt đới,N,B-LOC,I-HOS
+211,Trung ương,N,I-LOC,I-HOS
+211,cơ sở,N,I-LOC,I-HOS
+211,2,M,I-LOC,I-HOS
+211,.,CH,O,
+212,THÔNG BÁO,Np,B-PER,
+212,VỀ,Np,I-PER,
+212,BN234,Np,I-PER,B-BN
+212,",",CH,O,
+212,BN237,Np,B-LOC,B-BN
+212,:,CH,B-LOC,
+212,BN234,Np,I-LOC,B-BN
+212,:,CH,O,
+212,nữ,N,O,B-SEX
+212,",",CH,O,
+212,69,M,O,B-AGE
+212,tuổi,N,O,
+212,",",CH,O,
+212,quốc tịch,N,B-LOC,
+212,Việt Nam,Np,I-LOC,B-NAT
+212,",",CH,O,
+212,có,V,O,
+212,địa chỉ,N,O,
+212,tại,E,O,
+212,huyện,N,B-LOC,B-ADD
+212,Buôn Đôn,Np,I-LOC,I-ADD
+212,",",CH,O,I-ADD
+212,tỉnh,N,B-LOC,I-ADD
+212,Đăk Lăk,Np,I-LOC,I-ADD
+212,.,CH,O,
+213,Ngày,N,O,
+213,17/3,M,O,B-TIME
+213,",",CH,O,
+213,BN,Np,B-PER,B-BN
+213,từ,E,O,B-R
+213,Paris,Np,B-LOC,B-LOC
+213,về,E,O,B-R
+213,Việt Nam,Np,B-LOC,B-LOC
+213,trên,E,O,
+213,chuyến,N,O,
+213,bay,V,O,
+213,của,E,O,
+213,Vietnam Airlines,Np,B-PER,
+213,",",CH,O,
+213,số hiệu,N,B-LOC,
+213,VN2106,Np,I-LOC,B-FLIGHT
+213,",",CH,O,
+213,số,N,B-LOC,
+213,ghế,N,I-LOC,
+213,45,M,I-LOC,
+213,và,C,O,
+213,nhập cảnh,V,O,B-R
+213,tại,E,O,
+213,Sân bay,N,B-LOC,B-LOC
+213,Tân Sơn Nhất,Np,I-LOC,I-LOC
+213,ngày,N,O,
+213,18/3,M,O,B-TIME
+213,.,CH,O,
+214,BN235,Np,B-PER,B-BN
+214,:,CH,O,
+214,nam,N,O,B-SEX
+214,",",CH,O,
+214,25,M,O,B-AGE
+214,tuổi,N,O,
+214,",",CH,O,
+214,quốc tịch,N,B-LOC,
+214,Anh,Np,I-LOC,B-NAT
+214,.,CH,O,
+215,Ngày,N,O,
+215,14/3/2020,M,O,B-TIME
+215,có,V,O,
+215,đi,V,O,B-R
+215,quán,N,B-LOC,B-LOC
+215,Bar Buddha,Np,I-LOC,I-LOC
+215,(,CH,O,I-LOC
+215,TP.,Ny,B-LOC,I-LOC
+215,Hồ Chí Minh,Np,I-LOC,I-LOC
+215,),CH,O,I-LOC
+215,.,CH,O,
+216,BN236,Np,B-PER,B-BN
+216,:,CH,O,
+216,nữ,N,O,B-SEX
+216,",",CH,O,
+216,26,M,O,B-AGE
+216,tuổi,N,O,
+216,",",CH,O,
+216,quốc tịch,N,B-LOC,
+216,Anh,Np,I-LOC,B-NAT
+216,",",CH,O,
+216,địa chỉ,N,O,
+216,lưu trú,V,O,
+216,tại,E,O,
+216,phường,N,B-LOC,B-ADD
+216,Thảo Điền,Np,I-LOC,I-ADD
+216,",",CH,O,I-ADD
+216,Quận,Np,I-LOC,I-ADD
+216,2,M,I-LOC,I-ADD
+216,",",CH,O,I-ADD
+216,TP.,Ny,B-PER,I-ADD
+216,Hồ Chí Minh,Np,I-PER,I-ADD
+216,.,CH,O,
+217,Ngày,N,O,
+217,14/3,M,O,B-TIME
+217,",",CH,O,
+217,BN,Np,B-PER,B-BN
+217,đi,V,O,B-R
+217,quán,N,B-LOC,B-LOC
+217,bar,FW,I-LOC,I-LOC
+217,Buddha,Np,I-LOC,I-LOC
+217,",",CH,O,
+217,tiếp xúc,V,O,
+217,với,E,O,
+217,trường hợp,N,B-LOC,
+217,bệnh,N,I-LOC,
+217,COVID,Np,I-LOC,
+217,-,CH,O,
+217,19,M,O,
+217,.,CH,O,
+218,BN237,Np,B-PER,B-BN
+218,:,CH,O,
+218,nam,N,O,B-SEX
+218,",",CH,O,
+218,64,M,O,B-AGE
+218,tuổi,N,O,
+218,",",CH,O,
+218,quốc tịch,N,B-LOC,
+218,Thụy Điển,Np,I-LOC,B-NAT
+218,",",CH,O,
+218,đến,V,O,B-R
+218,Việt Nam,Np,B-LOC,B-LOC
+218,từ,E,O,B-TIME
+218,cuối,N,B-LOC,I-TIME
+218,tháng,N,I-LOC,I-TIME
+218,12/20,M,I-LOC,I-TIME
+218,19,M,O,I-TIME
+218,",",CH,O,
+218,di chuyển,V,O,
+218,nhiều,A,O,
+218,địa điểm,N,O,
+218,và,C,O,
+218,quay,V,O,B-R
+218,lại,V,O,B-R
+218,Hà Nội,Np,B-LOC,
+218,từ,E,O,B-TIME
+218,22/3,N,O,I-TIME
+218,đến,E,O,I-TIME
+218,nay,P,O,I-TIME
+218,.,CH,O,
+219,THÔNG BÁO,Np,B-PER,
+219,VỀ,Np,I-PER,
+219,6,M,O,
+219,CA,Np,B-MISC,
+219,BỆNH,Np,I-MISC,
+219,TỪ,E,O,
+219,228,N,B-LOC,
+219,ĐẾN,Np,I-LOC,
+219,233,V,O,
+219,:,CH,O,
+219,BN228,Np,B-LOC,B-BN
+219,(,CH,O,
+219,BN228,Ny,O,B-BN
+219,),CH,O,
+219,-,CH,O,
+219,nam,N,O,B-SEX
+219,",",CH,O,
+219,29,M,O,B-AGE
+219,tuổi,N,O,
+219,",",CH,O,
+219,ở,E,O,
+219,Bắc Giang,Np,B-LOC,B-ADD
+219,",",CH,O,
+219,nhập cảnh,V,O,
+219,ngày,N,B-LOC,
+219,20/3,M,I-LOC,B-TIME
+219,.,CH,O,
+220,BN229,Np,B-PER,B-BN
+220,-,CH,O,
+220,nữ,N,O,B-SEX
+220,",",CH,O,
+220,30,M,O,B-AGE
+220,tuổi,N,O,
+220,",",CH,O,
+220,ở,E,O,
+220,Hà Tĩnh,Np,B-LOC,B-ADD
+220,",",CH,O,
+220,nhập cảnh,V,O,
+220,ngày,N,B-LOC,
+220,20/3,M,I-LOC,B-TIME
+220,.,CH,O,
+221,BN230,Np,B-PER,B-BN
+221,-,CH,O,
+221,nữ,N,O,B-SEX
+221,",",CH,O,
+221,28,M,O,B-AGE
+221,tuổi,N,O,
+221,",",CH,O,
+221,ở,E,O,
+221,Hà Tĩnh,Np,B-LOC,B-ADD
+221,",",CH,O,
+221,nhập cảnh,V,O,
+221,ngày,N,B-LOC,
+221,20/3,M,I-LOC,B-TIME
+221,.,CH,O,
+222,BN231,Np,B-PER,B-BN
+222,-,CH,O,
+222,nữ,N,O,B-SEX
+222,",",CH,O,
+222,57,M,O,B-AGE
+222,tuổi,N,O,
+222,",",CH,O,
+222,ở,E,O,
+222,xã,N,B-LOC,B-ADD
+222,Kim Lư,Np,I-LOC,I-ADD
+222,",",CH,O,I-ADD
+222,huyện,N,B-LOC,I-ADD
+222,Na Rì,Np,I-LOC,I-ADD
+222,",",CH,O,I-ADD
+222,tỉnh,N,B-LOC,I-ADD
+222,Bắc Kạn,Np,I-LOC,I-ADD
+222,",",CH,O,
+222,là,V,O,B-R
+222,nhân viên,N,B-LOC,I-R
+222,Công ty,N,I-LOC,B-LOC
+222,Trường Sinh,Np,I-LOC,I-LOC
+222,",",CH,O,
+222,cùng,A,O,
+222,đoàn,N,O,
+222,của,E,O,
+222,BV,Np,B-PER,
+222,Bạch Mai,Np,I-PER,
+222,công tác,V,O,B-R
+222,tại,E,O,
+222,tỉnh,N,B-LOC,B-LOC
+222,Hà Nam,Np,I-LOC,I-LOC
+222,ngày,N,O,
+222,27/3,M,O,B-TIME
+222,.,CH,O,
+223,BN232,Np,B-PER,B-BN
+223,-,CH,O,
+223,nam,N,O,B-SEX
+223,",",CH,O,
+223,67,M,O,B-AGE
+223,tuổi,N,O,
+223,",",CH,O,
+223,ở,E,O,
+223,Bà Rịa,Np,B-LOC,B-ADD
+223,-,CH,B-LOC,I-ADD
+223,Vũng Tàu,Np,I-LOC,I-ADD
+223,",",CH,O,
+223,từ,E,O,
+223,nước ngoài,N,O,
+223,về,V,O,
+223,trên,E,O,
+223,chuyến,N,B-LOC,
+223,bay,V,I-LOC,
+223,SU290,Np,I-LOC,B-FLIGHT
+223,",",CH,O,
+223,nhập cảnh,V,O,
+223,ngày,N,B-LOC,
+223,27/3,M,I-LOC,B-TIME
+223,.,CH,O,
+224,BN233,Np,B-PER,B-BN
+224,-,CH,O,
+224,nữ,N,O,B-SEX
+224,",",CH,O,
+224,24,M,O,B-AGE
+224,tuổi,N,O,
+224,",",CH,O,
+224,ở,E,O,
+224,Diễn Châu,Np,B-LOC,B-ADD
+224,",",CH,B-LOC,I-ADD
+224,Nghệ An,Np,I-LOC,I-ADD
+224,",",CH,O,
+224,từ,E,O,
+224,nước ngoài,N,O,
+224,về,V,O,
+224,trên,E,O,
+224,chuyến,N,B-LOC,
+224,bay,V,I-LOC,
+224,SU290,Np,I-LOC,B-FLIGHT
+224,",",CH,O,
+224,nhập cảnh,V,O,
+224,ngày,N,B-LOC,
+224,27/3,M,I-LOC,B-TIME
+224,.,CH,O,
+225,Các,L,O,
+225,BN BN228,Np,B-PER,B-BN
+225,",",CH,O,
+225,BN229,Np,B-LOC,B-BN
+225,",",CH,B-LOC,
+225,BN230,Np,I-LOC,B-BN
+225,",",CH,O,
+225,BN232,Np,B-LOC,B-BN
+225,",",CH,B-LOC,
+225,BN233,Np,I-LOC,B-BN
+225,đều,R,O,
+225,đã,R,O,
+225,được,V,O,
+225,cách ly,V,O,
+225,ngay,T,O,
+225,sau,N,O,
+225,khi,N,O,
+225,nhập cảnh,V,O,
+225,.,CH,O,
+226,THÔNG BÁO,Np,B-PER,
+226,VỀ,Np,I-PER,
+226,BN223,Np,I-PER,B-BN
+226,",",CH,O,
+226,BN227,Np,B-LOC,B-BN
+226,:,CH,B-LOC,
+226,BN223,Np,I-LOC,B-BN
+226,:,CH,O,
+226,nữ,N,O,B-SEX
+226,",",CH,O,
+226,29,M,O,B-AGE
+226,tuổi,N,O,
+226,",",CH,O,
+226,địa chỉ,N,O,
+226,:,CH,O,
+226,Hải,Np,B-PER,B-ADD
+226,Hậu,Np,I-PER,I-ADD
+226,",",CH,O,I-ADD
+226,Nam Định,Np,I-LOC,I-ADD
+226,",",CH,O,
+226,chăm sóc,V,O,B-R
+226,người thân,N,O,I-R
+226,tại,E,O,
+226,Khoa,Np,B-LOC,B-HOS
+226,Phục hồi,V,O,I-HOS
+226,chức năng,N,O,I-HOS
+226,",",CH,O,I-HOS
+226,Bệnh viện,N,B-LOC,I-HOS
+226,Bạch Mai,Np,I-LOC,I-HOS
+226,từ,E,O,B-TIME
+226,11/3,N,O,I-TIME
+226,.,CH,O,
+227,Từ,E,O,B-TIME
+227,11/3,M,O,I-TIME
+227,-,CH,O,I-TIME
+227,24/3,N,B-LOC,I-TIME
+227,BN,Np,I-LOC,B-BN
+227,thường xuyên,A,O,
+227,đi,V,O,
+227,ăn uống,V,O,
+227,và,C,O,
+227,mua,V,O,
+227,đồ,N,O,
+227,tạp hoá,N,O,
+227,ở,E,O,
+227,căng tin,N,O,
+227,",",CH,O,
+227,có,V,O,
+227,tiếp xúc,V,O,
+227,với,E,O,
+227,đội,N,O,
+227,cung cấp,V,O,
+227,nước,N,O,
+227,sôi,V,O,
+227,của,E,O,
+227,Công ty,N,B-LOC,
+227,Trường Sinh,Np,I-LOC,
+227,.,CH,O,
+228,BN224,Np,B-PER,B-BN
+228,:,CH,O,
+228,nam,N,O,B-SEX
+228,",",CH,O,
+228,39,M,O,B-AGE
+228,tuổi,N,O,
+228,",",CH,O,
+228,quốc tịch,N,B-LOC,
+228,Brazil,Np,I-LOC,B-NAT
+228,",",CH,O,
+228,có,V,O,
+228,địa chỉ,N,O,
+228,tại,E,O,B-ADD
+228,phường,N,B-LOC,I-ADD
+228,Thảo Điền,Np,I-LOC,I-ADD
+228,",",CH,O,I-ADD
+228,Q.,Ny,B-LOC,I-ADD
+228,2,M,I-LOC,I-ADD
+228,",",CH,O,I-ADD
+228,TP,Ny,O,I-ADD
+228,Hồ Chí Minh,Np,B-PER,I-ADD
+228,.,CH,O,
+229,BN,Np,B-PER,B-BN
+229,có,V,O,
+229,thời gian,N,O,
+229,sống,V,O,B-R
+229,cùng,A,O,I-R
+229,phòng,N,O,
+229,với,E,O,
+229,BN158,Np,B-PER,B-BN
+229,tại,E,O,
+229,chung cư,N,B-LOC,B-LOC
+229,Masteri,Np,I-LOC,I-LOC
+229,",",CH,O,
+229,không,R,O,
+229,có,V,O,
+229,triệu chứng,N,O,
+229,lâm sàng,V,O,
+229,.,CH,O,
+230,BN225,Np,B-PER,B-BN
+230,:,CH,O,
+230,nam,N,O,B-SEX
+230,",",CH,O,
+230,35,M,O,B-AGE
+230,tuổi,N,O,
+230,",",CH,O,
+230,quê,N,B-LOC,
+230,An Đông,Np,I-LOC,B-ADD
+230,",",CH,O,I-ADD
+230,An Dương,Np,B-LOC,I-ADD
+230,",",CH,B-LOC,I-ADD
+230,Hải Phòng,Np,I-LOC,I-ADD
+230,",",CH,O,
+230,làm việc,V,O,B-R
+230,ở,E,O,
+230,Matxcova Nga,Np,B-LOC,B-LOC
+230,10,M,O,
+230,năm,N,O,
+230,nay,P,O,
+230,",",CH,O,
+230,về,V,O,
+230,nước,N,O,
+230,trên,E,O,
+230,chuyến,N,O,
+230,bay,V,O,
+230,SU290,Np,B-LOC,B-FLIGHT
+230,ghế,N,O,
+230,50D,M,O,
+230,ngày,N,B-LOC,
+230,25/3/2020,M,I-LOC,B-TIME
+230,và,C,O,
+230,được,V,O,
+230,cách ly,V,O,B-R
+230,tại,E,O,
+230,Đại học FPT,M,O,B-LOC
+230,-,CH,O,I-LOC
+230,Hòa Lạc,Np,B-LOC,I-LOC
+230,",",CH,B-LOC,I-LOC
+230,Thạch Thất,Np,I-LOC,I-LOC
+230,.,CH,O,
+231,BN226,Np,B-PER,B-BN
+231,:,CH,O,
+231,nam,N,O,B-SEX
+231,",",CH,O,
+231,22,M,O,B-AGE
+231,tuổi,N,O,
+231,",",CH,O,
+231,về,V,O,
+231,nước,N,O,
+231,cùng,A,O,B-R
+231,chuyến,N,O,I-R
+231,bay,V,O,I-R
+231,với,E,O,
+231,BN212,Np,B-PER,B-BN
+231,ngày,N,O,
+231,27/3,M,O,B-TIME
+231,và,C,O,
+231,được,V,O,
+231,cách ly,V,O,B-R
+231,tại,E,O,
+231,Trường Văn hóa,N,B-LOC,B-LOC
+231,Nghệ thuật,N,I-LOC,I-LOC
+231,Vĩnh Phúc,Np,I-LOC,I-LOC
+231,.,CH,O,
+232,BN227,Np,B-PER,B-BN
+232,:,CH,O,
+232,nam,N,O,B-SEX
+232,",",CH,O,
+232,31,M,O,B-AGE
+232,tuổi,N,O,
+232,",",CH,O,
+232,là,V,O,B-R
+232,con,N,B-LOC,I-R
+232,của,E,I-LOC,I-R
+232,BN209,Np,I-LOC,B-BN
+232,",",CH,O,
+232,có,V,O,
+232,tiếp xúc,V,O,B-R
+232,gần,A,O,I-R
+232,tại,E,O,
+232,gia đình,N,O,
+232,trong,E,O,
+232,khoảng,N,O,
+232,thời gian,N,O,
+232,từ,E,O,
+232,16-25,M,O,
+232,/,CH,O,
+232,3,M,O,
+232,.,CH,O,
+233,THÔNG BÁO,Np,B-PER,
+233,VỀ,Np,I-PER,
+233,4,M,O,
+233,CA,Np,B-MISC,
+233,BỆNH,Np,I-MISC,
+233,TỪ,E,O,
+233,219,M,O,
+233,-,CH,O,
+233,222,N,O,
+233,:,CH,O,
+233,BN219,Np,B-LOC,B-BN
+233,(,CH,O,
+233,BN219,Ny,O,B-BN
+233,),CH,O,
+233,-,CH,O,
+233,nữ,N,O,B-SEX
+233,",",CH,O,
+233,59,M,O,B-AGE
+233,tuổi,N,O,
+233,",",CH,O,
+233,quê,N,B-LOC,
+233,Hưng Yên,Np,I-LOC,B-ADD
+233,",",CH,O,
+233,đi,V,O,
+233,chăm sóc,V,O,B-R
+233,người bệnh,N,O,I-R
+233,tại,E,O,
+233,Khoa,Np,B-LOC,B-HOS
+233,Thần kinh,N,O,I-HOS
+233,",",CH,O,I-HOS
+233,BV,Np,B-PER,I-HOS
+233,Bạch Mai,Np,I-PER,I-HOS
+233,",",CH,O,
+233,cùng,A,O,B-R
+233,phòng,N,O,I-R
+233,với,E,O,
+233,BN133,Np,B-LOC,B-BN
+233,ngày,N,O,
+233,16/3,M,O,B-TIME
+233,.,CH,O,
+234,BN220,Np,B-PER,B-BN
+234,-,CH,O,
+234,nam,N,O,B-SEX
+234,",",CH,O,
+234,20,M,O,B-AGE
+234,tuổi,N,O,
+234,",",CH,O,
+234,từ,E,O,B-R
+234,Pháp,Np,B-LOC,B-LOC
+234,về,V,O,
+234,nước,N,O,
+234,ngày,N,B-LOC,
+234,17/3,M,I-LOC,B-TIME
+234,.,CH,O,
+235,BN221,Np,B-PER,B-BN
+235,-,CH,O,
+235,nữ,N,O,B-SEX
+235,",",CH,O,
+235,24,M,O,B-AGE
+235,tuổi,N,O,
+235,",",CH,O,
+235,du học sinh,N,O,B-R
+235,tại,E,O,
+235,Canada,Np,B-LOC,B-LOC
+235,",",CH,B-LOC,
+235,ngày,N,I-LOC,
+235,24/3,M,I-LOC,B-TIME
+235,về,V,O,
+235,nước,N,O,
+235,",",CH,O,
+235,có,V,O,
+235,quá cảnh,N,O,B-R
+235,ở,E,O,
+235,Đài Bắc,Np,B-LOC,B-LOC
+235,",",CH,O,I-LOC
+235,Đài Loan,Np,B-LOC,I-LOC
+235,.,CH,O,
+236,BN222,Np,B-PER,B-BN
+236,-,CH,O,
+236,nữ,N,O,B-SEX
+236,",",CH,O,
+236,28,M,O,B-AGE
+236,tuổi,N,O,
+236,ở,E,O,
+236,Phúc Lợi,Np,B-LOC,B-ADD
+236,",",CH,B-LOC,I-ADD
+236,Long Biên,Np,I-LOC,I-ADD
+236,",",CH,O,I-ADD
+236,Hà Nội,Np,B-LOC,I-ADD
+236,",",CH,O,
+236,sống,V,O,B-R
+236,và,C,O,
+236,làm việc,V,O,B-R
+236,tại,E,O,
+236,Mỹ,Np,B-LOC,B-LOC
+236,",",CH,B-LOC,
+236,ngày,N,I-LOC,
+236,20/3,M,I-LOC,B-TIME
+236,về,E,O,B-R
+236,Việt Nam,Np,B-LOC,B-LOC
+236,trên,E,O,
+236,chuyến,N,O,
+236,bay,V,O,
+236,mang,V,O,
+236,số hiệu,N,B-LOC,
+236,JL751,Np,I-LOC,B-FLIGHT
+236,.,CH,O,
+237,Việt Nam,Np,B-LOC,
+237,công bố,V,O,
+237,12,M,O,
+237,trường hợp,N,O,
+237,được,V,O,
+237,chữa,V,O,
+237,khỏi,V,O,
+237,bệnh,N,B-LOC,
+237,COVID,Np,I-LOC,
+237,-,CH,O,
+237,19,M,O,
+237,bao gồm,V,O,
+237,:,CH,O,
+237,11,M,B-MISC,
+237,BN,Np,I-MISC,
+237,điều trị,V,O,
+237,tại,E,O,
+237,BV,Np,B-LOC,
+237,Bệnh,Np,B-LOC,
+237,Nhiệt đới,V,O,
+237,Trung ương,N,O,
+237,cơ sở,N,B-LOC,
+237,Đông Anh,Np,I-LOC,
+237,(,CH,O,
+237,BN19,Np,B-LOC,B-BN
+237,",",CH,B-LOC,
+237,BN63,Np,I-LOC,B-BN
+237,",",CH,B-LOC,
+237,BN76,Np,I-LOC,B-BN
+237,",",CH,O,
+237,BN78,Np,B-LOC,B-BN
+237,",",CH,B-LOC,
+237,BN107,Np,I-LOC,B-BN
+237,",",CH,O,
+237,BN129,Np,B-LOC,B-BN
+237,",",CH,B-LOC,
+237,BN131,Np,I-LOC,B-BN
+237,",",CH,O,
+237,BN132,Np,B-LOC,B-BN
+237,",",CH,B-LOC,
+237,BN138,Np,I-LOC,B-BN
+237,",",CH,O,
+237,BN179,Np,B-LOC,B-BN
+237,",",CH,B-LOC,
+237,BN198,Np,I-LOC,B-BN
+237,),CH,O,
+237,và,C,O,
+237,một,M,O,
+237,bé,N,O,
+237,trai,N,O,
+237,11,M,O,B-AGE
+237,tuổi,N,O,
+237,",",CH,O,
+237,quốc tịch,N,B-LOC,
+237,Anh,Np,I-LOC,B-NAT
+237,",",CH,O,
+237,điều trị,V,O,B-R
+237,tại,E,O,
+237,khoa,N,B-LOC,B-HOS
+237,Truyền nhiễm,N,I-LOC,I-HOS
+237,Trung tâm,N,I-LOC,I-HOS
+237,y tế,N,I-LOC,I-HOS
+237,huyện,N,I-LOC,I-HOS
+237,Thanh Miện,Np,I-LOC,I-HOS
+237,",",CH,O,I-HOS
+237,tỉnh,N,B-LOC,I-HOS
+237,Hải Dương,Np,I-LOC,I-HOS
+237,đã,R,O,
+237,được,V,O,
+237,công bố,V,O,
+237,khỏi,V,O,B-STATUS
+237,bệnh,N,O,I-STATUS
+237,(,CH,O,
+237,BN73,Np,B-LOC,B-BN
+237,),CH,O,
+237,.,CH,O,
+238,THÔNG BÁO,Np,B-PER,
+238,VỀ,Np,I-PER,
+238,6,M,O,
+238,BN213,Np,B-LOC,B-BN
+238,",",CH,O,
+238,BN218,Np,B-LOC,B-BN
+238,:,CH,B-LOC,
+238,BN213,Np,I-LOC,B-BN
+238,(,CH,O,
+238,BN213,Ny,O,B-BN
+238,),CH,O,
+238,-,CH,O,
+238,nữ,N,O,B-SEX
+238,",",CH,O,
+238,40,M,O,B-AGE
+238,tuổi,N,O,
+238,",",CH,O,
+238,ở,E,O,
+238,KĐT,Np,B-LOC,B-ADD
+238,Thanh Hà,Np,B-LOC,I-ADD
+238,",",CH,O,I-ADD
+238,Cự Khê,Np,B-LOC,I-ADD
+238,",",CH,B-LOC,I-ADD
+238,Thanh Oai,Np,I-LOC,I-ADD
+238,",",CH,O,I-ADD
+238,Hà Nội,Np,B-LOC,I-ADD
+238,",",CH,O,
+238,đã,R,O,
+238,cùng,A,O,
+238,chồng,N,O,
+238,đến,V,O,
+238,khám,V,O,B-R
+238,tại,E,O,
+238,BV,Np,B-LOC,B-ADD
+238,Bạch Mai,Np,B-LOC,I-ADD
+238,.,CH,O,
+239,BN214,Np,B-PER,B-BN
+239,-,CH,O,
+239,nữ,N,O,B-SEX
+239,nhân viên,N,O,
+239,45,M,O,
+239,tuổi,N,O,B-AGE
+239,của,E,O,
+239,Công ty,N,B-LOC,
+239,Trường Sinh,Np,I-LOC,
+239,cung cấp,V,O,
+239,dịch vụ,N,O,
+239,cho,E,O,
+239,BV Bạch Mail BN215,Np,B-PER,
+239,-,CH,O,
+239,nam nhân viên,N,O,
+239,31,M,O,
+239,tuổi,N,O,
+239,của,E,O,
+239,Công ty,N,B-LOC,
+239,Trường Sinh,Np,I-LOC,
+239,.,CH,O,
+240,BN216,Np,B-PER,B-BN
+240,-,CH,O,
+240,nữ,N,O,B-SEX
+240,",",CH,O,
+240,48,M,O,B-AGE
+240,tuổi,N,O,
+240,",",CH,O,
+240,từ,E,O,B-R
+240,Đức,Np,B-LOC,B-LOC
+240,trở về,V,O,B-R
+240,Việt Nam,Np,B-LOC,B-LOC
+240,trên,E,O,
+240,chuyến,N,O,
+240,bay,V,O,
+240,SU290,Np,B-PER,B-FLIGHT
+240,ngày,N,O,
+240,23/3,M,O,B-TIME
+240,.,CH,O,
+241,BN217,Np,B-PER,B-BN
+241,-,CH,O,
+241,nữ,N,O,B-SEX
+241,",",CH,O,
+241,25,M,O,B-AGE
+241,tuổi,N,O,
+241,",",CH,O,
+241,ở,E,O,
+241,Khánh Sơn,Np,B-LOC,B-LOC
+241,2,M,I-LOC,I-LOC
+241,",",CH,O,I-LOC
+241,Nam Đàn,Np,B-LOC,I-LOC
+241,",",CH,B-LOC,I-LOC
+241,Nghệ An,Np,I-LOC,I-LOC
+241,",",CH,O,
+241,từ,E,O,B-R
+241,Nhật Bản,Np,B-LOC,B-LOC
+241,về,V,O,B-R
+241,nước,N,B-LOC,B-LOC
+241,ngày,N,I-LOC,
+241,25/3,M,I-LOC,B-TIME
+241,trên,E,O,
+241,chuyến,N,O,
+241,bay,V,O,
+241,NH857,Np,B-LOC,B-FLIGHT
+241,(,CH,O,
+241,ghế,N,B-LOC,
+241,31K,M,I-LOC,
+241,),CH,O,
+241,.,CH,O,
+242,BN218,Np,B-PER,B-BN
+242,-,CH,O,
+242,nữ,N,O,B-SEX
+242,43,M,O,B-AGE
+242,tuổi,N,O,
+242,",",CH,O,
+242,ở,E,O,
+242,Phú Xá,Np,B-LOC,B-ADD
+242,",",CH,B-LOC,I-ADD
+242,Thái Nguyên,Np,I-LOC,I-ADD
+242,",",CH,O,
+242,về,V,O,
+242,nước,N,O,
+242,trên,E,O,
+242,chuyến,N,O,
+242,bay,V,O,
+242,SU290,Np,B-LOC,B-FLIGHT
+242,(,CH,O,
+242,số,N,O,
+242,ghế,N,O,
+242,46G,N,O,
+242,),CH,O,
+242,ngày,N,O,
+242,25/3,M,O,B-TIME
+242,.,CH,O,
+243,THÔNG BÁO,Np,O,
+243,VỀ,Np,B-LOC,
+243,5,M,I-LOC,
+243,BN209,Np,I-LOC,B-BN
+243,",",CH,O,
+243,BN212,Np,B-LOC,B-BN
+243,:,CH,B-LOC,
+243,BN208,Np,I-LOC,B-BN
+243,(,CH,O,
+243,BN208,Np,B-LOC,B-BN
+243,),CH,O,
+243,là,V,O,
+243,nữ,N,B-LOC,B-SEX
+243,nhân viên,N,I-LOC,
+243,38,M,I-LOC,B-AGE
+243,tuổi,N,O,
+243,của,E,O,
+243,Công ty,N,B-LOC,B-LOC
+243,Trường Sinh,Np,I-LOC,I-LOC
+243,cung cấp,V,O,
+243,dịch vụ,N,O,
+243,cho,E,O,
+243,Bệnh viện,N,B-LOC,
+243,Bạch Mai,Np,I-LOC,
+243,.,CH,O,
+244,BN209,Np,B-PER,B-BN
+244,",",CH,O,
+244,nữ,N,O,B-SEX
+244,",",CH,O,
+244,55,M,O,B-AGE
+244,tuổi,N,O,
+244,",",CH,O,
+244,ở,E,O,
+244,Đức Giang,Np,B-LOC,B-LOC
+244,",",CH,B-LOC,I-LOC
+244,Long Biên,Np,I-LOC,I-LOC
+244,",",CH,O,I-LOC
+244,Hà Nội,Np,B-LOC,I-LOC
+244,",",CH,O,
+244,nấu ăn,V,O,B-R
+244,cho,E,O,
+244,Công ty,N,B-LOC,B-LOC
+244,Xăng dầu,N,I-LOC,I-LOC
+244,Khu vực,N,I-LOC,I-LOC
+244,I,M,I-LOC,I-LOC
+244,",",CH,O,
+244,từ,E,O,B-TIME
+244,18/3,N,O,I-TIME
+244,đến,E,O,I-TIME
+244,24/3,N,O,I-TIME
+244,có,V,O,
+244,tiếp xúc,V,O,B-R
+244,gần,A,O,I-R
+244,với,E,O,
+244,BN163,Np,B-PER,B-BN
+244,.,CH,O,
+245,Những,L,O,
+245,người,Nc,O,
+245,có,V,O,
+245,tiếp xúc,V,O,
+245,gần,A,O,
+245,với,E,O,
+245,BN209,Np,B-PER,B-BN
+245,gồm,V,O,
+245,:,CH,O,
+245,chồng,N,O,
+245,",",CH,O,
+245,2,M,O,
+245,con trai,N,O,
+245,",",CH,O,
+245,mẹ,N,O,
+245,đẻ,V,O,
+245,và,C,O,
+245,người,N,O,
+245,giúp việc,V,O,
+245,.,CH,O,
+246,BN210,Np,B-PER,B-BN
+246,",",CH,O,
+246,nữ,N,O,B-SEX
+246,",",CH,O,
+246,26,M,O,B-AGE
+246,tuổi,N,O,
+246,",",CH,O,
+246,ở,E,O,
+246,huyện,N,B-LOC,B-ADD
+246,Can Lộc,Np,I-LOC,I-ADD
+246,",",CH,O,I-ADD
+246,tỉnh,N,B-LOC,I-ADD
+246,Hà Tĩnh,Np,I-LOC,I-ADD
+246,",",CH,O,
+246,từ,E,O,B-R
+246,Thái Lan,Np,B-LOC,B-LOC
+246,về,E,O,
+246,ngày,N,B-LOC,
+246,20/3,M,I-LOC,B-TIME
+246,",",CH,O,
+246,trước,N,O,
+246,đó,P,O,
+246,có,V,O,
+246,tiếp xúc,V,O,B-R
+246,gần,A,O,I-R
+246,với,E,O,
+246,BN146,Np,B-PER,B-BN
+246,.,CH,O,
+247,BN211,Np,B-PER,B-BN
+247,",",CH,O,
+247,nữ,N,O,B-SEX
+247,",",CH,O,
+247,23,M,O,B-AGE
+247,tuổi,N,O,
+247,",",CH,O,
+247,là,V,O,B-R
+247,du học sinh,N,O,I-R
+247,tại,E,O,
+247,Mỹ,Np,B-LOC,B-LOC
+247,",",CH,O,
+247,ở,E,O,
+247,Chùa Láng,Np,B-LOC,B-ADD
+247,",",CH,B-LOC,I-ADD
+247,Láng Thượng,Np,I-LOC,I-ADD
+247,",",CH,B-LOC,I-ADD
+247,Đống Đa,Np,I-LOC,I-ADD
+247,",",CH,O,I-ADD
+247,Hà Nội,Np,B-LOC,I-ADD
+247,.,CH,O,
+248,Ngày,N,O,
+248,19/3,M,O,B-TIME
+248,",",CH,O,
+248,BN,Np,B-PER,B-BN
+248,từ,E,O,B-R
+248,Mỹ,Np,B-LOC,B-LOC
+248,về,E,O,B-R
+248,Việt Nam,Np,B-LOC,B-LOC
+248,quá cảnh,N,B-LOC,B-R
+248,Abu Dhabi,Np,I-LOC,B-LOC
+248,và,C,O,
+248,Bangkok,Np,B-LOC,B-LOC
+248,",",CH,O,
+248,đến,V,O,B-R
+248,Hà Nội,Np,B-LOC,B-LOC
+248,ngày,N,O,
+248,20/3,M,O,B-TIME
+248,.,CH,O,
+249,BN212,Np,B-PER,B-BN
+249,",",CH,O,
+249,nữ,N,O,B-SEX
+249,",",CH,O,
+249,35,M,O,B-AGE
+249,tuổi,N,O,
+249,",",CH,O,
+249,ở,E,O,
+249,Hòa Tiến,Np,B-LOC,B-ADD
+249,",",CH,B-LOC,I-ADD
+249,Hưng Hà,Np,I-LOC,I-ADD
+249,",",CH,O,I-ADD
+249,Thái Bình,Np,B-LOC,I-ADD
+249,",",CH,O,
+249,cùng,A,O,
+249,chồng,N,O,
+249,từ,E,O,B-R
+249,Nga,Np,B-LOC,B-LOC
+249,về,E,O,B-R
+249,Việt Nam,Np,B-LOC,B-LOC
+249,ngày,N,B-LOC,
+249,27/3,M,I-LOC,B-TIME
+249,trên,E,O,
+249,chuyến,N,O,
+249,bay,V,O,
+249,mang,V,O,
+249,số hiệu,N,B-LOC,
+249,SU290,Np,I-LOC,B-FLIGHT
+249,(,CH,O,
+249,ghế,N,B-LOC,
+249,42C,M,I-LOC,
+249,),CH,O,
+249,.,CH,O,
+250,THÔNG BÁO,Np,O,
+250,VỀ,Np,B-LOC,
+250,3,M,I-LOC,
+250,BN205,Np,I-LOC,B-BN
+250,",",CH,O,
+250,BN207,Np,B-LOC,B-BN
+250,:,CH,B-LOC,
+250,BN205,Np,I-LOC,B-BN
+250,(,CH,O,
+250,BN205,Np,B-LOC,B-BN
+250,),CH,O,
+250,là,V,O,B-R
+250,nam nhân viên,N,B-LOC,I-R
+250,41,M,I-LOC,B-AGE
+250,tuổi,N,O,
+250,của,E,O,
+250,Công ty,N,B-LOC,B-LOC
+250,TNHH,Ny,I-LOC,I-LOC
+250,Trường Sinh,Np,I-LOC,I-LOC
+250,",",CH,O,
+250,cung cấp,V,O,
+250,dịch vụ,N,O,
+250,cho,E,O,
+250,Bệnh viện,N,B-LOC,B-HOS
+250,Bạch Mai,Np,I-LOC,I-HOS
+250,.,CH,O,
+251,BN206,Np,B-PER,B-BN
+251,là,V,O,
+251,nam giới,N,O,B-SEX
+251,",",CH,O,
+251,48,M,O,B-AGE
+251,tuổi,N,O,
+251,",",CH,O,
+251,ở,E,O,
+251,phường,N,B-LOC,B-ADD
+251,An Phú,Np,I-LOC,I-ADD
+251,",",CH,O,I-ADD
+251,Quận,Np,I-LOC,I-ADD
+251,2,M,I-LOC,I-ADD
+251,",",CH,O,I-ADD
+251,TP.,Ny,B-LOC,I-ADD
+251,HCM,Np,I-LOC,I-ADD
+251,",",CH,O,
+251,là,V,O,B-R
+251,lái,V,O,I-R
+251,xe,N,O,I-R
+251,riêng,A,O,I-R
+251,của,E,O,
+251,BN124,Np,B-PER,B-BN
+251,và,C,O,
+251,BN151,Np,B-LOC,B-BN
+251,",",CH,O,
+251,hàng,R,O,
+251,ngày,N,O,
+251,đưa đón,V,O,
+251,hai,M,O,
+251,người,N,O,
+251,đến,E,O,
+251,các,L,O,
+251,chi nhánh,N,O,
+251,công ty,N,O,
+251,tại,E,O,
+251,huyện,N,B-LOC,
+251,Vĩnh Cửu,Np,I-LOC,
+251,",",CH,O,
+251,Đồng Nai,Np,I-LOC,
+251,và,C,O,
+251,Quận,Np,B-ORG,
+251,12,M,O,
+251,",",CH,O,
+251,TP.,Ny,B-PER,
+251,HCM.,Np,I-PER,
+252,BN207,Np,B-PER,B-BN
+252,là,V,O,
+252,nam,N,O,B-SEX
+252,",",CH,O,
+252,quốc tịch,N,B-LOC,
+252,Brazil,Np,I-LOC,B-NAT
+252,",",CH,O,
+252,49,M,O,B-AGE
+252,tuổi,N,O,
+252,",",CH,O,
+252,trú,V,O,
+252,tại,E,O,
+252,phường,N,B-LOC,B-ADD
+252,Thảo Điền,Np,I-LOC,I-ADD
+252,",",CH,O,I-ADD
+252,Quận,Np,I-LOC,I-ADD
+252,2,M,I-LOC,I-ADD
+252,",",CH,O,I-ADD
+252,TP.,Ny,B-LOC,I-ADD
+252,HCM,Np,I-LOC,I-ADD
+252,",",CH,O,
+252,là,V,O,B-R
+252,chồng,N,B-LOC,I-R
+252,của,E,I-LOC,
+252,BN151,Np,I-LOC,B-BN
+252,và,C,O,
+252,đồng nghiệp,N,B-LOC,B-R
+252,BN124,Np,I-LOC,B-BN
+252,.,CH,O,
+253,THÔNG BÁO,Np,B-PER,
+253,VỀ,Np,B-PER,
+253,BN204,Np,I-PER,B-BN
+253,(,CH,O,
+253,BN204,Np,B-LOC,B-BN
+253,),CH,O,
+253,:,CH,O,
+253,Nam,Np,B-PER,B-SEX
+253,",",CH,O,
+253,10,M,O,B-AGE
+253,tuổi,N,O,
+253,",",CH,O,
+253,có,V,O,
+253,địa chỉ,N,O,
+253,tại,E,O,
+253,phường,N,B-LOC,B-ADD
+253,Cát Lái,Np,I-LOC,I-ADD
+253,",",CH,O,I-ADD
+253,quận,N,B-LOC,I-ADD
+253,2,M,I-LOC,I-ADD
+253,",",CH,O,I-ADD
+253,TP.,Ny,B-PER,I-ADD
+253,HCM.,Np,I-PER,I-ADD
+254,BN204,Np,B-PER,B-BN
+254,đi,V,O,
+254,từ,E,O,B-R
+254,Praha,Np,B-LOC,B-LOC
+254,(,CH,B-LOC,I-LOC
+254,CH Czech,Np,I-LOC,I-LOC
+254,),CH,O,I-LOC
+254,tới,E,O,B-R
+254,Istabul,Np,B-LOC,B-LOC
+254,(,CH,O,I-LOC
+254,Thổ Nhĩ Kỳ,Ny,O,I-LOC
+254,),CH,O,I-LOC
+254,trên,E,O,
+254,chuyến,N,B-LOC,
+254,bay,V,I-LOC,
+254,TK1770,Np,I-LOC,B-FLIGHT
+254,của,E,O,
+254,Turkish Airlines,Np,B-ORG,
+254,",",CH,O,
+254,số,N,O,
+254,ghế,N,O,
+254,20B,V,O,
+254,vào,E,O,
+254,ngày,N,B-LOC,
+254,14/3,M,I-LOC,B-TIME
+254,và,C,O,
+254,từ,E,O,B-R
+254,Istanbul,Np,B-LOC,B-LOC
+254,-,CH,O,I-LOC
+254,Thổ,Np,B-PER,I-LOC
+254,Nhĩ,Np,I-PER,I-LOC
+254,Kỳ,Np,I-PER,I-LOC
+254,lên,V,O,
+254,chuyến,N,O,
+254,bay,V,O,
+254,số hiệu,N,B-LOC,
+254,TK162,Np,I-LOC,B-FLIGHT
+254,",",CH,O,
+254,số,N,O,
+254,ghế,N,O,
+254,16K,N,O,
+254,về,V,O,B-R
+254,tới,E,O,
+254,Việt Nam,Np,B-LOC,B-LOC
+254,ngày,N,B-LOC,
+254,15/3,M,I-LOC,B-TIME
+254,(,CH,O,
+254,cùng,C,O,B-R
+254,chuyến,N,O,I-R
+254,bay,V,O,I-R
+254,với,E,O,
+254,BN83,Np,B-PER,B-BN
+254,),CH,O,
+254,.,CH,O,
+255,Hiện,N,O,B-TIME
+255,BN,Np,B-PER,B-BN
+255,đang,R,O,
+255,được,V,O,
+255,cách ly,V,O,B-R
+255,tại,E,O,
+255,Bệnh viện,N,B-LOC,B-HOS
+255,COVID,Np,I-LOC,I-HOS
+255,-,CH,O,I-HOS
+255,19,M,B-MISC,I-HOS
+255,Cần Giờ,Np,I-MISC,I-HOS
+255,.,CH,O,
+256,THÔNG BÁO,Np,O,
+256,VỀ,Np,B-LOC,
+256,9,M,I-LOC,
+256,BN195,Np,I-LOC,B-BN
+256,",",CH,O,
+256,BN203,Np,B-LOC,B-BN
+256,:,CH,B-LOC,
+256,BN195,Np,I-LOC,B-BN
+256,",",CH,O,
+256,BN196,Np,B-LOC,B-BN
+256,",",CH,B-LOC,
+256,BN198,Np,I-LOC,B-BN
+256,",",CH,O,
+256,BN199,Np,B-LOC,B-BN
+256,",",CH,B-LOC,
+256,BN200,Np,I-LOC,B-BN
+256,",",CH,O,
+256,BN201,Np,B-LOC,B-BN
+256,",",CH,B-LOC,
+256,BN202,Np,I-LOC,B-BN
+256,đều,R,O,
+256,là,V,O,
+256,nữ giới,N,O,B-SEX
+256,",",CH,O,
+256,là,V,O,B-R
+256,nhân viên,N,B-LOC,I-R
+256,Công ty,N,I-LOC,B-LOC
+256,TNHH,Ny,I-LOC,I-LOC
+256,Trường Sinh,Np,I-LOC,I-LOC
+256,tại,E,O,
+256,căng tin,N,B-LOC,B-HOS
+256,Bệnh viện,N,I-LOC,I-HOS
+256,Bạch Mai,Np,I-LOC,I-HOS
+256,.,CH,O,
+257,BN197,Np,B-PER,B-BN
+257,",",CH,O,
+257,nam,N,O,B-SEX
+257,",",CH,O,
+257,41,M,O,B-AGE
+257,tuổi,N,O,
+257,",",CH,O,
+257,ở,E,O,
+257,KĐT,Np,B-LOC,B-ADD
+257,Thanh Hà,Np,B-LOC,I-ADD
+257,",",CH,O,I-ADD
+257,Cự Khê,Np,B-LOC,I-ADD
+257,",",CH,B-LOC,I-ADD
+257,Thanh Oai,Np,I-LOC,I-ADD
+257,",",CH,O,I-ADD
+257,Hà Nội,Np,B-LOC,I-ADD
+257,",",CH,O,
+257,có,V,O,
+257,đến,E,O,
+257,khám,V,O,B-R
+257,tại,E,O,
+257,BV,Np,B-LOC,B-HOS
+257,Bạch Mai ngày,V,O,I-HOS
+257,12/3,N,O,B-TIME
+257,.,CH,O,
+258,Cả,P,O,
+258,8,M,O,
+258,ca,N,O,
+258,này,P,O,
+258,đều,R,O,
+258,được,V,O,
+258,cách ly,V,O,B-R
+258,",",CH,O,
+258,điều trị,V,O,B-R
+258,tại,E,O,
+258,Bệnh viện,N,B-LOC,B-HOS
+258,Bệnh,N,I-LOC,I-HOS
+258,nhiệt đới,N,I-LOC,I-HOS
+258,Trung ương,N,I-LOC,I-HOS
+258,cơ sở,N,I-LOC,I-HOS
+258,Đông Anh,Np,I-LOC,I-HOS
+258,",",CH,O,
+258,sức khoẻ,N,O,
+258,ổn định,A,O,
+258,.,CH,O,
+259,BN203,Np,B-PER,B-BN
+259,",",CH,O,
+259,nữ,N,O,B-SEX
+259,",",CH,O,
+259,35,M,O,B-AGE
+259,tuổi,N,O,
+259,",",CH,O,
+259,quốc tịch,N,B-LOC,
+259,Việt Nam,Np,I-LOC,B-LOC
+259,",",CH,O,
+259,từ,E,O,B-R
+259,Hy Lạp,Np,B-LOC,B-LOC
+259,về,V,O,
+259,trên,E,O,
+259,chuyến,N,B-LOC,
+259,bay,V,I-LOC,
+259,TK162,Np,I-LOC,B-FLIGHT
+259,",",CH,O,
+259,số,N,O,
+259,ghế,N,O,
+259,21A,N,O,
+259,",",CH,O,
+259,có,V,O,
+259,quá cảnh,N,O,B-R
+259,ở,E,O,
+259,Thổ,Np,B-LOC,B-LOC
+259,Nhĩ Kỳ,Np,B-LOC,I-LOC
+259,",",CH,O,
+259,nhập cảnh,N,B-LOC,B-R
+259,Tân Sơn Nhất,Np,I-LOC,B-LOC
+259,ngày,N,O,
+259,17/3,M,O,B-TIME
+259,.,CH,O,
+260,THÔNG BÁO,Np,B-PER,
+260,VỀ,V,O,
+260,7,M,O,
+260,CA,Np,B-PER,
+260,BỆNH BN189,Np,I-PER,
+260,-,CH,O,
+260,BN194,Np,B-LOC,B-BN
+260,:,CH,B-LOC,
+260,BN189,Np,I-LOC,B-BN
+260,:,CH,O,
+260,nữ,N,O,B-SEX
+260,",",CH,O,
+260,46,M,O,B-AGE
+260,tuổi,N,O,
+260,",",CH,O,
+260,địa chỉ,N,O,
+260,tại,E,O,
+260,Nông Cống,Np,B-LOC,B-ADD
+260,",",CH,B-LOC,I-ADD
+260,Thanh Hóa,Np,I-LOC,I-ADD
+260,",",CH,O,
+260,là,V,O,B-R
+260,nhân viên,N,O,I-R
+260,thuộc,V,O,
+260,bộ phận,N,O,
+260,chuyển,V,O,
+260,phát,V,O,
+260,nước,N,O,
+260,sôi,V,O,
+260,của,E,O,
+260,Công ty,N,B-LOC,B-LOC
+260,Trường Sinh,Np,I-LOC,I-LOC
+260,tại,E,O,
+260,Bệnh viện,N,B-LOC,B-HOS
+260,Bạch Mai,Np,I-LOC,I-HOS
+260,.,CH,O,
+261,BN190,Np,B-PER,B-BN
+261,:,CH,O,
+261,nữ,N,O,B-SEX
+261,",",CH,O,
+261,sinh,V,O,
+261,năm,N,B-LOC,
+261,1971,M,I-LOC,
+261,",",CH,O,
+261,làm việc,V,O,B-R
+261,tại,E,O,
+261,công ty,N,B-LOC,B-LOC
+261,Trường Sinh,Np,I-LOC,I-LOC
+261,cung cấp,V,O,
+261,dịch vụ,N,O,
+261,cho,E,O,
+261,BV,Np,B-PER,B-HOS
+261,Bạch Mai,Np,I-PER,I-HOS
+261,.,CH,O,
+262,BN191,Np,B-PER,B-BN
+262,:,CH,O,
+262,nữ,N,O,B-SEX
+262,",",CH,O,
+262,sinh,V,O,
+262,năm,N,B-LOC,
+262,1984,M,I-LOC,
+262,",",CH,O,
+262,làm việc,V,O,B-R
+262,tại,E,O,
+262,công ty,N,B-LOC,B-LOC
+262,Trường Sinh,Np,I-LOC,B-LOC
+262,cung cấp,V,O,
+262,dịch vụ,N,O,
+262,cho,E,O,
+262,BV,Np,B-PER,B-HOS
+262,Bạch Mai,Np,I-PER,I-HOS
+262,.,CH,O,
+263,BN192,Np,B-PER,B-BN
+263,:,CH,O,
+263,nữ,N,O,B-SEX
+263,",",CH,O,
+263,sinh,V,O,
+263,năm,N,B-LOC,
+263,1997,M,I-LOC,
+263,",",CH,O,
+263,làm việc,V,O,B-R
+263,tại,E,O,
+263,công ty,N,B-LOC,B-LOC
+263,Trường Sinh,Np,I-LOC,I-LOC
+263,cung cấp,V,O,
+263,dịch vụ,N,O,
+263,cho,E,O,
+263,BV,Np,B-PER,B-HOS
+263,Bạch Mai,Np,I-PER,I-HOS
+263,.,CH,O,
+264,BN193,Np,B-PER,B-BN
+264,:,CH,O,
+264,nữ,N,O,B-SEX
+264,",",CH,O,
+264,sinh,V,O,
+264,năm,N,B-LOC,
+264,1999,M,I-LOC,
+264,",",CH,O,
+264,làm việc,V,O,B-R
+264,tại,E,O,
+264,công ty,N,B-LOC,B-LOC
+264,Trường Sinh,Np,I-LOC,I-LOC
+264,cung cấp,V,O,
+264,dịch vụ,N,O,
+264,cho,E,O,
+264,BV,Np,B-PER,B-HOS
+264,Bạch Mai,Np,I-PER,I-HOS
+264,.,CH,O,
+265,BN194,Np,B-PER,B-BN
+265,:,CH,O,
+265,nữ,N,O,B-SEX
+265,",",CH,O,
+265,sinh,V,O,
+265,năm,N,B-LOC,
+265,1978,M,I-LOC,
+265,",",CH,O,
+265,làm việc,V,O,B-R
+265,tại,E,O,
+265,công ty,N,B-LOC,B-LOC
+265,Trường Sinh,Np,I-LOC,I-LOC
+265,cung cấp,V,O,
+265,dịch vụ,N,O,
+265,cho,E,O,
+265,BV,Np,B-PER,B-HOS
+265,Bạch Mai,Np,I-PER,I-HOS
+265,.,CH,O,
+266,Thông tin,N,O,
+266,về,E,O,
+266,các,L,O,
+266,ca,N,O,
+266,bệnh,N,O,
+266,này,P,O,
+266,chúng tôi,P,O,
+266,sẽ,R,O,
+266,cập nhật,V,O,
+266,sau,N,O,
+266,.,CH,O,
+267,Do,C,O,
+267,sai sót,V,O,
+267,trong,E,O,
+267,khâu,N,O,
+267,thu thập,V,O,
+267,và,C,O,
+267,cập nhật,V,O,
+267,thông tin,N,O,
+267,",",CH,O,
+267,nên,C,O,
+267,trong,E,O,
+267,bản,Nc,O,
+267,Thông tin,N,O,
+267,báo chí,N,O,
+267,phát hành,V,O,
+267,lúc,N,O,
+267,18h30,V,O,
+267,29/3,V,O,B-TIME
+267,",",CH,O,
+267,chúng tôi,P,O,
+267,đã,R,O,
+267,để,V,O,
+267,trùng lắp,V,O,
+267,trường hợp,N,B-LOC,
+267,BN184,Np,I-LOC,B-BN
+267,với,E,O,
+267,trường hợp,N,B-LOC,
+267,BN173,Np,I-LOC,B-BN
+267,đã,R,O,
+267,công bố,V,O,
+267,trước,N,O,
+267,đó,P,O,
+267,và,C,O,
+267,sai,A,O,
+267,chi tiết,N,O,
+267,của,E,O,
+267,BN185,Np,B-PER,B-BN
+267,.,CH,O,
+268,Nay,P,O,
+268,xin,V,O,
+268,thay,V,O,
+268,vào,E,O,
+268,vị trí,N,B-LOC,
+268,BN184,Np,I-LOC,B-BN
+268,ca,N,O,
+268,bệnh,N,O,
+268,sau,N,O,
+268,đây,P,O,
+268,",",CH,O,
+268,đồng thời,R,O,
+268,cung cấp,V,O,
+268,thông tin,N,O,
+268,chuẩn,A,O,
+268,về,E,O,
+268,BN185,Np,B-LOC,B-BN
+268,.,CH,O,
+269,BN184,Np,B-PER,B-BN
+269,:,CH,O,
+269,nữ,N,O,B-SEX
+269,",",CH,O,
+269,42,M,O,B-AGE
+269,tuổi,N,O,
+269,",",CH,O,
+269,địa chỉ,N,O,
+269,tại,E,O,
+269,Diễn Vạn,Np,B-LOC,B-ADD
+269,",",CH,B-LOC,I-ADD
+269,Diễn Châu,Np,I-LOC,I-ADD
+269,",",CH,O,I-ADD
+269,Nghệ An,Np,B-LOC,I-ADD
+269,",",CH,O,
+269,là,V,O,B-R
+269,nhân viên,N,O,I-R
+269,thuộc,V,O,
+269,bộ phận,N,O,
+269,bán,V,O,
+269,hàng,N,O,
+269,và,C,O,
+269,chuyển,V,O,
+269,phát,V,O,
+269,nước,N,O,
+269,sôi,V,O,
+269,của,E,O,
+269,Công ty,N,B-LOC,B-LOC
+269,TNHH,Ny,I-LOC,I-LOC
+269,Trường Sinh,Np,I-LOC,I-LOC
+269,tại,E,O,
+269,căng tin,N,O,
+269,và,C,O,
+269,các,L,O,
+269,khoa,N,O,
+269,/,CH,O,
+269,phòng,N,B-LOC,
+269,Bệnh viện,N,I-LOC,B-HOS
+269,Bạch Mai,Np,I-LOC,I-HOS
+269,.,CH,O,
+270,BN185,Np,B-PER,B-BN
+270,BN185,Np,I-PER,B-BN
+270,:,CH,O,
+270,nam,N,O,B-SEX
+270,",",CH,O,
+270,38,M,O,B-AGE
+270,tuổi,N,O,
+270,",",CH,O,
+270,địa chỉ,N,O,
+270,tại,E,O,
+270,Đông La,Np,B-LOC,B-ADD
+270,",",CH,B-LOC,I-ADD
+270,Hoài Đức,Np,I-LOC,I-ADD
+270,",",CH,O,I-ADD
+270,Hà Nội,Np,B-LOC,I-ADD
+270,.,CH,O,
+271,BN,Np,B-PER,B-BN
+271,vào,V,O,
+271,chăm,V,O,
+271,anh,Nc,O,
+271,rể,N,O,
+271,điều trị,V,O,
+271,tại,E,O,
+271,Khoa,Np,B-LOC,B-HOS
+271,Thần kinh,N,O,I-HOS
+271,–,CH,O,I-HOS
+271,Bệnh viện,N,B-LOC,I-HOS
+271,Bạch Mai,Np,I-LOC,I-HOS
+271,các,L,O,
+271,ngày,N,O,
+271,từ,E,O,B-TIME
+271,15-16,M,O,I-TIME
+271,/,CH,O,I-TIME
+271,3,M,O,I-TIME
+271,và,C,O,I-TIME
+271,18-19,V,O,I-TIME
+271,/,CH,O,I-TIME
+271,3,M,O,I-TIME
+271,",",CH,O,
+271,trong,E,O,
+271,đó,P,O,
+271,có,V,O,
+271,ít nhất,X,O,
+271,2,M,O,
+271,lần,N,O,
+271,qua,V,O,
+271,căng tin,N,O,
+271,của,E,O,
+271,bệnh viện,N,O,
+271,để,E,O,
+271,ăn,V,O,
+271,và,C,O,
+271,mua,V,O,
+271,đồ,N,O,
+271,.,CH,O,
+272,THÔNG BÁO,Np,B-PER,
+272,VỀ,Np,I-PER,
+272,9,M,O,
+272,CA,Np,B-MISC,
+272,BỆNH,Np,I-MISC,
+272,TỪ,E,O,
+272,180,N,B-LOC,
+272,ĐẾN,Np,I-LOC,
+272,188,V,O,
+272,:,CH,O,
+272,BN180,Np,B-LOC,B-BN
+272,(,CH,B-LOC,
+272,BN180,Np,I-LOC,B-BN
+272,),CH,O,
+272,là,V,O,
+272,nữ,N,O,B-SEX
+272,",",CH,O,
+272,27,M,O,B-AGE
+272,tuổi,N,O,
+272,",",CH,O,
+272,ở,E,O,
+272,Hợp Thanh,Np,B-LOC,B-ADD
+272,",",CH,B-LOC,I-ADD
+272,Mỹ Đức,Np,I-LOC,I-ADD
+272,",",CH,O,I-ADD
+272,Hà Nội,Np,B-LOC,I-ADD
+272,",",CH,O,
+272,du học sinh,N,O,B-R
+272,tại,E,O,
+272,Pháp,Np,B-LOC,B-LOC
+272,(,CH,O,
+272,quá cảnh,N,O,B-R
+272,Thái Lan,Np,B-LOC,B-LOC
+272,),CH,O,
+272,về,E,O,B-R
+272,Nội Bài,Np,B-LOC,B-LOC
+272,ngày,N,B-LOC,
+272,20/3,M,I-LOC,B-TIME
+272,trên,E,O,
+272,chuyến,N,O,
+272,bay,V,O,
+272,TG564,Np,B-LOC,B-TIME
+272,.,CH,O,
+273,BN181,Np,B-PER,B-BN
+273,",",CH,O,
+273,nam,N,O,B-SEX
+273,",",CH,O,
+273,33,M,O,B-AGE
+273,tuổi,N,O,
+273,",",CH,O,
+273,ở,E,O,
+273,Hà Nội,Np,B-LOC,B-ADD
+273,",",CH,O,
+273,cùng,A,O,B-R
+273,chuyến,N,O,I-R
+273,bay,V,O,I-R
+273,với,E,O,
+273,BN180,Np,B-PER,B-BN
+273,.,CH,O,
+274,BN182,Np,B-PER,B-BN
+274,",",CH,O,
+274,nữ,N,O,B-SEX
+274,",",CH,O,
+274,19,M,O,B-AGE
+274,tuổi,N,O,
+274,",",CH,O,
+274,ở,E,O,
+274,Hà Nội,Np,B-LOC,B-ADD
+274,",",CH,O,
+274,du học sinh,N,O,B-R
+274,từ,E,O,B-R
+274,Thuỵ Sỹ,Np,B-LOC,B-LOC
+274,(,CH,O,
+274,quá cảnh,N,O,B-R
+274,),CH,O,
+274,Thái Lan,Np,B-LOC,B-LOC
+274,về,V,O,B-R
+274,Nội Bài,Np,B-LOC,B-LOC
+274,ngày,N,B-LOC,
+274,20/3,M,I-LOC,B-TIME
+274,trên,E,O,
+274,chuyến,N,O,
+274,bay,V,O,
+274,VN618,Np,B-LOC,B-FLIGHT
+274,.,CH,O,
+275,Cả,P,O,
+275,BN180,Np,B-PER,B-BN
+275,",",CH,O,
+275,BN181,Np,B-LOC,B-BN
+275,",",CH,B-LOC,
+275,BN182,Np,I-LOC,B-BN
+275,đều,R,O,
+275,được,V,O,
+275,cách ly,V,O,B-R
+275,tập trung,V,O,
+275,tại,E,O,
+275,Lữ đoàn,N,B-LOC,B-LOC
+275,241,M,I-LOC,I-LOC
+275,-,CH,O,I-LOC
+275,Quỳnh Lưu,Ny,O,I-LOC
+275,-,CH,O,I-LOC
+275,Nho Quan,Ny,O,I-LOC
+275,-,CH,O,I-LOC
+275,Ninh Bình,Np,B-PER,I-LOC
+275,.,CH,O,
+276,BN183,Np,B-PER,B-BN
+276,",",CH,O,
+276,43,M,O,B-AGE
+276,tuổi,N,O,
+276,",",CH,O,
+276,ở,E,O,
+276,Trung Hòa,Np,B-LOC,B-LOC
+276,",",CH,B-LOC,I-LOC
+276,Cầu Giấy,Np,I-LOC,I-LOC
+276,",",CH,O,
+276,là,V,O,
+276,nữ,N,O,B-SEX
+276,phóng viên,N,O,
+276,có,V,O,
+276,tiếp xúc,V,O,B-R
+276,gần,A,O,I-R
+276,với,E,O,
+276,BN148,Np,B-LOC,B-BN
+276,ngày,N,O,
+276,12/3,M,O,B-TIME
+276,.,CH,O,
+277,BN184,Np,B-PER,B-BN
+277,",",CH,O,
+277,nữ,N,O,B-SEX
+277,",",CH,O,
+277,43,M,O,B-AGE
+277,tuổi,N,O,
+277,",",CH,O,
+277,ở,E,O,
+277,Cao Minh,Np,B-LOC,B-ADD
+277,",",CH,B-LOC,I-ADD
+277,huyện,N,I-LOC,I-ADD
+277,Phúc Yên,Np,I-LOC,I-ADD
+277,",",CH,O,I-ADD
+277,tỉnh,N,B-LOC,I-ADD
+277,Vĩnh Phúc,Np,I-LOC,I-ADD
+277,",",CH,O,
+277,từ,E,O,B-R
+277,Nga,Np,B-LOC,B-LOC
+277,về,E,O,B-R
+277,Nội Bài,Np,B-LOC,B-LOC
+277,trên,E,O,
+277,chuyến,N,O,
+277,bay,V,O,
+277,SU290,Np,B-LOC,B-FLIGHT
+277,ngày,N,O,
+277,25/3,M,O,B-TIME
+277,.,CH,O,
+278,BN185,Np,B-PER,B-BN
+278,",",CH,O,
+278,nam,N,O,B-SEX
+278,",",CH,O,
+278,38,M,O,B-AGE
+278,tuổo,N,O,
+278,",",CH,O,
+278,ở,E,O,
+278,Đông Lao,Np,B-LOC,B-ADD
+278,",",CH,B-LOC,I-ADD
+278,Đông La,Np,I-LOC,I-ADD
+278,",",CH,B-LOC,I-ADD
+278,Hoài Đức,Np,I-LOC,I-ADD
+278,",",CH,O,I-ADD
+278,Hà Nội,Np,B-LOC,I-ADD
+278,",",CH,O,
+278,điều trị,V,O,B-R
+278,8,M,O,
+278,ngày,N,O,
+278,tại,E,O,
+278,khoa,N,B-LOC,B-HOS
+278,Thần Kinh,Np,I-LOC,I-HOS
+278,bệnh viện,N,B-LOC,I-HOS
+278,Bạch Mai,Np,I-LOC,I-HOS
+278,.,CH,O,
+279,BN186,Np,B-PER,B-BN
+279,",",CH,O,
+279,nữ,N,O,B-SEX
+279,",",CH,O,
+279,52,M,O,B-AGE
+279,tuổi,N,O,
+279,",",CH,O,
+279,quốc tịch,N,O,
+279,Pháp,Np,B-LOC,B-NAT
+279,",",CH,O,
+279,là,V,O,B-R
+279,vợ,N,B-LOC,I-R
+279,của,E,I-LOC,
+279,BN76,Np,I-LOC,B-BN
+279,",",CH,O,
+279,đến,V,O,B-R
+279,Tân Sơn Nhất,Np,B-LOC,B-LOC
+279,ngày,N,B-LOC,
+279,10/3,M,I-LOC,B-TIME
+279,trên,E,O,
+279,chuyến,N,B-LOC,
+279,bay,V,I-LOC,
+279,TK162,Np,I-LOC,
+279,",",CH,O,
+279,từ,E,O,
+279,ngày,N,B-LOC,
+279,10/3,M,I-LOC,B-TIME
+279,-,CH,O,I-TIME
+279,16/3,N,O,I-TIME
+279,",",CH,O,
+279,BN,Np,B-PER,B-BN
+279,đi,V,O,
+279,qua,V,O,B-R
+279,TP. HCM,Np,B-LOC,B-LOC
+279,",",CH,B-LOC,
+279,Cần Thơ,Np,I-LOC,B-LOC
+279,",",CH,B-LOC,
+279,Hội An,Np,I-LOC,B-LOC
+279,và,C,O,
+279,Huế,Np,B-LOC,B-LOC
+279,",",CH,B-LOC,
+279,Ninh Bình,Np,I-LOC,B-LOC
+279,.,CH,O,
+280,BN187,Np,B-PER,B-BN
+280,",",CH,O,
+280,nam,N,O,B-SEX
+280,",",CH,O,
+280,30,M,O,B-AGE
+280,tuổi,N,O,
+280,",",CH,O,
+280,quốc tịch,N,O,
+280,Mỹ,Np,B-LOC,B-NAT
+280,",",CH,O,
+280,địa chỉ,N,O,
+280,ở,E,O,
+280,Quảng An,Np,B-LOC,B-ADD
+280,",",CH,B-LOC,I-ADD
+280,Tây Hồ,Np,I-LOC,I-ADD
+280,",",CH,O,I-ADD
+280,Hà Nội,Np,B-LOC,I-ADD
+280,.,CH,O,
+281,Từ,E,O,B-R
+281,nước ngoài,N,O,B-LOC
+281,về,E,O,B-R
+281,sân bay,N,B-LOC,B-LOC
+281,Nội Bài,Np,I-LOC,I-LOC
+281,trên,E,O,
+281,chuyến,N,O,
+281,bay,V,O,
+281,VN0054,Np,B-LOC,B-FLIGHT
+281,ngày,N,O,
+281,13/3,M,O,B-TIME
+281,.,CH,O,
+282,BN188,Np,B-PER,B-BN
+282,",",CH,O,
+282,nữ,N,O,B-SEX
+282,",",CH,O,
+282,44,M,O,B-AGE
+282,tuổi,N,O,
+282,",",CH,O,
+282,địa chỉ,N,O,
+282,tại,E,O,
+282,Mỹ,Np,B-LOC,B-ADD
+282,Lương,Np,B-LOC,I-ADD
+282,",",CH,O,I-ADD
+282,Mỹ Đức,Np,I-LOC,I-ADD
+282,",",CH,O,I-ADD
+282,Hà Nội,Np,B-LOC,I-ADD
+282,",",CH,O,
+282,là,V,O,B-R
+282,nhân viên,N,O,I-R
+282,của,E,O,
+282,Công ty,N,B-LOC,B-LOC
+282,Trường Sinh,Np,I-LOC,I-LOC
+282,cung cấp,V,O,
+282,nước,N,O,
+282,sôi,V,O,
+282,cho,E,O,
+282,Bệnh viện,N,B-LOC,B-LOC
+282,Bạch Mai,Np,I-LOC,I-LOC
+282,",",CH,O,
+282,tiếp xúc,V,O,B-R
+282,gần,A,O,I-R
+282,với,E,O,
+282,BN169,Np,B-PER,B-BN
+282,.,CH,O,
+283,THÔNG BÁO,Np,B-PER,
+283,VỀ,Np,I-PER,
+283,5,M,O,
+283,BN175 ĐẾN,Np,B-LOC,
+283,179,V,O,
+283,:,CH,O,
+283,Tới,V,O,
+283,6h,N,B-LOC,
+283,sáng,N,I-LOC,
+283,29/3,M,I-LOC,B-TIME
+283,",",CH,O,
+283,đã,R,O,
+283,ghi nhận,V,O,
+283,thêm,V,O,
+283,5,M,O,
+283,trường hợp,N,O,
+283,mắc,V,O,
+283,mới,A,O,
+283,",",CH,O,
+283,nâng,V,O,
+283,tổng số,N,O,
+283,người,N,O,
+283,mắc,V,O,
+283,COVID,Np,B-LOC,
+283,-,CH,O,
+283,19,M,O,
+283,của,E,O,
+283,Việt Nam,Np,B-LOC,
+283,lên,V,O,
+283,179,N,O,
+283,.,CH,O,
+284,BN175,Np,B-PER,B-BN
+284,(,CH,O,
+284,nam,N,O,B-SEX
+284,",",CH,O,
+284,57,M,O,B-AGE
+284,tuổi,N,O,
+284,),CH,O,
+284,",",CH,O,
+284,BN176,Np,B-PER,B-BN
+284,(,CH,O,
+284,nữ,N,O,B-SEX
+284,",",CH,O,
+284,38,M,O,B-AGE
+284,tuổi,N,O,
+284,),CH,O,
+284,",",CH,O,
+284,BN177,Np,B-PER,B-BN
+284,(,CH,O,
+284,nữ,N,O,B-SEX
+284,",",CH,O,
+284,49,M,O,B-AGE
+284,tuổi,N,O,
+284,),CH,O,
+284,",",CH,O,
+284,BN178,Np,B-PER,B-BN
+284,(,CH,O,
+284,nữ,N,O,B-SEX
+284,",",CH,O,
+284,44,M,O,B-AGE
+284,tuổi,N,O,
+284,),CH,O,
+284,là,V,O,
+284,4,M,B-PER,
+284,BN,Np,I-PER,B-BNS
+284,cùng,A,O,
+284,làm việc,V,O,B-R
+284,tại,E,O,
+284,Công ty,N,B-LOC,B-LOC
+284,Trường Sinh,Np,I-LOC,I-LOC
+284,cung cấp,V,O,B-R
+284,dịch vụ,N,O,I-R
+284,cho,E,O,
+284,Bệnh viện,N,B-LOC,B-LOC
+284,Bạch Mai,Np,I-LOC,I-LOC
+284,",",CH,O,
+284,tiếp xúc,V,O,
+284,với,E,O,
+284,nhiều,A,O,
+284,người,N,O,
+284,.,CH,O,
+285,BN179,Np,B-PER,B-BN
+285,ở,E,O,
+285,Hà Đông,Np,B-LOC,B-ADD
+285,",",CH,O,I-ADD
+285,Hà Nội,Np,B-LOC,I-ADD
+285,",",CH,O,
+285,62,M,O,B-AGE
+285,tuổi,N,O,
+285,",",CH,O,
+285,từ,E,O,B-R
+285,nước ngoài,N,O,B-LOC
+285,về,V,O,
+285,trên,E,O,
+285,chuyến,N,O,
+285,bay,V,O,
+285,EK394,Np,B-LOC,B-FLIGHT
+285,ngày,N,O,
+285,18/03,M,O,B-TIME
+285,.,CH,O,
+286,THÔNG BÁO,Np,O,
+286,VỀ,Np,B-LOC,
+286,5,M,I-LOC,
+286,BN170,Np,I-LOC,B-BN
+286,",",CH,O,
+286,BN174,Np,B-LOC,B-BN
+286,:,CH,B-LOC,
+286,BN170,Np,I-LOC,B-BN
+286,là,V,O,
+286,nam giới,N,O,B-SEX
+286,",",CH,O,
+286,27,M,O,B-AGE
+286,tuổi,N,O,
+286,",",CH,O,
+286,ở,E,O,
+286,Định Hoá,Np,B-LOC,B-ADD
+286,",",CH,B-LOC,I-ADD
+286,Kim Sơn,Np,I-LOC,I-ADD
+286,",",CH,B-LOC,I-ADD
+286,Ninh Bình,Np,I-LOC,I-ADD
+286,",",CH,O,
+286,thợ,N,O,
+286,làm,V,O,
+286,thạch cao,N,O,
+286,",",CH,O,
+286,chăm,V,O,B-R
+286,bố,N,O,I-R
+286,điều trị,V,O,
+286,ở,E,O,
+286,Bệnh viện,Np,B-LOC,B-HOS
+286,Bạch Mai,Np,I-LOC,I-HOS
+286,từ,E,O,B-TIME
+286,20/3,N,O,I-TIME
+286,",",CH,O,
+286,sốt,V,O,
+286,"38,5",V,O,
+286,độ,N,O,
+286,từ,E,O,B-TIME
+286,22/3,N,O,I-TIME
+286,.,CH,O,
+287,BN171,Np,B-PER,B-BN
+287,là,V,O,
+287,nữ giới,N,O,B-SEX
+287,",",CH,O,
+287,19,M,O,B-AGE
+287,tuổi,N,O,
+287,",",CH,O,
+287,là,V,O,B-R
+287,du học sinh,N,O,I-R
+287,tại,E,O,
+287,Mỹ,Np,B-LOC,B-LOC
+287,",",CH,O,
+287,địa chỉ,N,O,
+287,tại,E,O,
+287,phường,N,B-LOC,B-ADD
+287,11,M,I-LOC,I-ADD
+287,",",CH,O,I-ADD
+287,quận,N,B-LOC,I-ADD
+287,10,M,I-LOC,I-ADD
+287,",",CH,O,I-ADD
+287,TP.,Ny,B-LOC,I-ADD
+287,HCM,Np,I-LOC,I-ADD
+287,",",CH,O,
+287,từ,E,O,B-R
+287,Mỹ,Np,B-LOC,B-LOC
+287,về,V,O,
+287,",",CH,O,
+287,quá cảnh,N,O,B-R
+287,ở,E,O,
+287,Philippines,Np,B-LOC,B-LOC
+287,",",CH,O,
+287,nhập cảnh,N,O,B-R
+287,Việt Nam,Np,B-LOC,B-LOC
+287,ngày,N,O,
+287,13/3,M,O,B-TIME
+287,.,CH,O,
+288,BN172,Np,B-PER,B-BN
+288,là,V,O,
+288,nữ giới,N,O,B-SEX
+288,",",CH,O,
+288,con,Nc,O,B-R
+288,dâu,N,B-LOC,I-R
+288,BN133,Np,I-LOC,B-BN
+288,(,CH,O,
+288,BN,Np,B-PER,
+288,Lào Cai,Np,I-PER,
+288,được,R,O,
+288,phát hiện,V,O,
+288,ở,E,O,
+288,BV,Np,B-LOC,
+288,Bạch Mai,Np,B-LOC,
+288,),CH,O,
+288,",",CH,O,
+288,chăm sóc,V,O,B-R
+288,BN133,Np,B-LOC,B-BN
+288,trong,E,O,
+288,23,M,O,
+288,ngày,N,O,
+288,.,CH,O,
+289,BN173,Np,B-PER,B-BN
+289,là,V,O,
+289,nữ giới,N,O,B-SEX
+289,",",CH,O,
+289,quốc tịch,N,B-LOC,
+289,Việt Nam,Np,I-LOC,B-NAT
+289,",",CH,O,
+289,sống,V,O,B-R
+289,và,C,O,
+289,làm việc,V,O,B-R
+289,Moscow,Np,B-LOC,B-LOC
+289,",",CH,O,
+289,về,V,O,B-R
+289,nước,N,B-LOC,I-R
+289,ngày,N,I-LOC,
+289,25/3,M,I-LOC,B-TIME
+289,.,CH,O,
+290,BN174,Np,B-PER,B-BN
+290,là,V,O,
+290,nữ giới,N,O,B-SEX
+290,",",CH,O,
+290,làm việc,V,O,B-R
+290,tại,E,O,
+290,nhà,N,O,B-LOC
+290,ăn,V,O,I-LOC
+290,Bệnh viện,N,B-LOC,I-LOC
+290,Bạch Mai,Np,I-LOC,I-LOC
+290,",",CH,O,
+290,có,V,O,
+290,tiếp xúc,V,O,B-R
+290,với,E,O,
+290,nhiều,A,O,
+290,người,N,O,
+290,.,CH,O,
+291,THÔNG BÁO,Np,B-PER,
+291,VỀ,Np,I-PER,
+291,BN164,Np,I-PER,B-BN
+291,",",CH,O,
+291,BN169,Np,B-LOC,B-BN
+291,:,CH,B-LOC,
+291,BN164,Np,I-LOC,B-BN
+291,:,CH,O,
+291,nam,N,O,B-SEX
+291,",",CH,O,
+291,23,M,O,B-AGE
+291,tuổi,N,O,
+291,",",CH,O,
+291,quốc tịch,N,B-LOC,
+291,Việt Nam,Np,I-LOC,B-NAT
+291,",",CH,O,
+291,có,V,O,
+291,địa chỉ,N,O,
+291,ở,E,O,
+291,Rạch Giá,Np,B-LOC,B-ADD
+291,",",CH,B-LOC,I-ADD
+291,Kiên Giang,Np,I-LOC,I-ADD
+291,.,CH,O,
+292,BN,Np,B-PER,B-BN
+292,là,V,O,B-R
+292,du học sinh,N,O,I-R
+292,tại,E,O,
+292,Anh,Np,B-LOC,B-LOC
+292,",",CH,O,
+292,về,E,O,B-R
+292,Việt Nam,Np,B-LOC,I-R
+292,ngày,N,B-LOC,
+292,23/03/2020,M,I-LOC,B-TIME
+292,trên,E,O,
+292,chuyến,N,O,
+292,bay,V,O,
+292,mang,V,O,
+292,số hiệu,N,B-LOC,
+292,VN0054,Np,I-LOC,B-FLIGHT
+292,của,E,O,
+292,Vietnam Airlines,Np,B-LOC,
+292,(,CH,O,
+292,ghế,N,B-LOC,
+292,22K,M,I-LOC,
+292,),CH,O,
+292,",",CH,O,
+292,nhập cảnh,V,O,B-R
+292,tại,E,O,
+292,sân bay,N,B-LOC,B-R
+292,Vân Đồn,Np,I-LOC,I-R
+292,.,CH,O,
+293,BN165,Np,B-PER,B-BN
+293,:,CH,O,
+293,nam,N,O,B-SEX
+293,",",CH,O,
+293,58,M,O,B-AGE
+293,tuổi,N,O,
+293,",",CH,O,
+293,quốc tịch,N,B-LOC,
+293,Việt Nam,Np,I-LOC,B-NAT
+293,",",CH,O,
+293,địa chỉ,N,O,
+293,ở,E,O,
+293,Tiên Dương,Np,B-LOC,B-ADD
+293,",",CH,B-LOC,I-ADD
+293,Đông Anh,Np,I-LOC,I-ADD
+293,",",CH,O,I-ADD
+293,Hà Nội,Np,B-LOC,I-ADD
+293,.,CH,O,
+294,BN,Np,B-PER,B-BN
+294,từ,E,O,B-R
+294,Anh,Nc,O,B-LOC
+294,về,V,O,B-R
+294,Việt Nam,Np,B-LOC,B-LOC
+294,ngày,N,B-LOC,
+294,23/03/2020,M,I-LOC,B-TIME
+294,trên,E,O,
+294,chuyến,N,O,
+294,bay,V,O,
+294,mang,V,O,
+294,số hiệu,N,B-LOC,
+294,VN0054,Np,I-LOC,B-FLIGHT
+294,của,E,O,
+294,Vietnam Airlines,Np,B-LOC,
+294,(,CH,O,
+294,ghế,N,B-LOC,
+294,41C,M,I-LOC,
+294,),CH,O,
+294,",",CH,O,
+294,nhập cảnh,V,O,B-R
+294,tại,E,O,
+294,sân bay,N,B-LOC,B-LOC
+294,Vân Đồn,Np,I-LOC,I-LOC
+294,.,CH,O,
+295,BN166,Np,B-PER,B-BN
+295,:,CH,O,
+295,nữ,N,O,B-SEX
+295,",",CH,O,
+295,25,M,O,B-AGE
+295,tuổi,N,O,
+295,",",CH,O,
+295,quốc tịch,N,B-LOC,
+295,Việt Nam,Np,I-LOC,B-NAT
+295,",",CH,O,
+295,địa chỉ,N,O,
+295,ở,E,O,
+295,Đông Phú,Np,B-LOC,B-ADD
+295,",",CH,B-LOC,I-ADD
+295,Lục Nam,Np,I-LOC,I-ADD
+295,",",CH,B-LOC,I-ADD
+295,Bắc Giang,Np,I-LOC,I-ADD
+295,.,CH,O,
+296,BN,N,O,B-BN
+296,sống,V,O,B-R
+296,tại,E,O,
+296,Thái Lan,Np,B-LOC,B-LOC
+296,",",CH,O,
+296,về,E,O,B-R
+296,Việt Nam,Np,B-LOC,B-LOC
+296,ngày,N,B-LOC,
+296,20/03/2020,M,I-LOC,B-TIME
+296,trên,E,O,
+296,chuyến,N,O,
+296,bay,V,O,
+296,mang,V,O,
+296,số hiệu,N,B-LOC,
+296,TG564,Np,I-LOC,B-FLIGHT
+296,của,E,O,
+296,Thai Airways,Np,B-LOC,
+296,(,CH,O,
+296,ghế,N,B-LOC,
+296,40B,M,I-LOC,
+296,),CH,O,
+296,.,CH,O,
+297,BN167,Np,B-PER,B-BN
+297,:,CH,O,
+297,nữ,N,O,B-SEX
+297,",",CH,O,
+297,20,M,O,B-AGE
+297,tuổi,N,O,
+297,",",CH,O,
+297,quốc tịch,N,B-LOC,
+297,Đan Mạch,Np,I-LOC,B-NAT
+297,",",CH,O,
+297,lưu trú,V,O,
+297,tại,E,O,
+297,khách sạn,N,O,
+297,ở,E,O,
+297,Quận,Np,B-LOC,
+297,Hoàn Kiếm,Np,B-LOC,
+297,",",CH,O,
+297,Hà Nội,Np,B-LOC,
+297,.,CH,O,
+298,BN,Np,B-PER,B-BN
+298,là,V,O,
+298,khách,N,O,
+298,du lịch,V,O,
+298,đi,V,O,
+298,cùng,C,O,
+298,bạn,N,O,
+298,22,M,O,
+298,tuổi,N,O,
+298,.,CH,O,
+299,Ngày,N,O,
+299,7/3/2020,M,O,B-TIME
+299,BN,Np,B-LOC,B-BN
+299,và,C,O,
+299,bạn,N,O,
+299,đến,E,O,B-R
+299,Hà Nội,Np,B-LOC,B-LOC
+299,trên,E,O,
+299,chuyến,N,O,
+299,bay,V,O,
+299,số hiệu,N,B-LOC,
+299,QR0976,Np,I-LOC,B-FLIGHT
+299,(,CH,O,
+299,ghế,N,O,
+299,37K,N,O,
+299,và,C,O,
+299,37J,M,O,B-FLIGHT
+299,),CH,O,
+299,",",CH,O,
+299,nhập cảnh,V,O,B-R
+299,tại,E,O,
+299,sân bay,N,B-LOC,B-LOC
+299,Nội Bài,Np,I-LOC,I-LOC
+299,ngày,N,O,
+299,08/3/2020,M,O,B-TIME
+299,.,CH,O,
+300,BN168,Np,B-PER,B-BN
+300,và,C,O,
+300,BN169,Np,B-LOC,B-BN
+300,:,CH,O,
+300,đều,R,O,
+300,là,V,O,
+300,nữ,N,O,B-SEX
+300,",",CH,O,
+300,là,V,O,B-R
+300,nhân viên,N,O,I-R
+300,cung cấp,V,O,I-R
+300,nước,N,O,I-R
+300,sôi,V,O,I-R
+300,của,E,O,
+300,Bệnh viện,N,B-LOC,B-HOS
+300,Bạch Mai,Np,I-LOC,I-HOS
+300,.,CH,O,
+301,THÔNG BÁO,Np,B-PER,
+301,VỀ,Np,I-PER,
+301,BN154,Np,I-PER,B-BN
+301,",",CH,O,
+301,BN163,Np,B-LOC,B-BN
+301,:,CH,B-LOC,
+301,BN154,Np,I-LOC,B-BN
+301,:,CH,O,
+301,nữ,N,O,B-SEX
+301,",",CH,O,
+301,quốc tịch,N,O,
+301,Việt Nam,Np,B-LOC,B-NAT
+301,",",CH,O,
+301,23,M,O,B-AGE
+301,tuổi,N,O,
+301,",",CH,O,
+301,có,V,O,
+301,địa chỉ,N,O,
+301,tại,E,O,
+301,phường,N,B-LOC,B-ADD
+301,Hồng Hải,Np,I-LOC,I-ADD
+301,",",CH,O,I-ADD
+301,TP,Ny,O,I-ADD
+301,Hạ Long,Np,B-LOC,I-ADD
+301,",",CH,B-LOC,I-ADD
+301,Quảng Ninh,Np,I-LOC,I-ADD
+301,",",CH,O,
+301,là,V,O,B-R
+301,du học sinh,N,O,I-R
+301,tại,E,O,
+301,Anh,Np,B-LOC,B-LOC
+301,từ,E,O,
+301,năm,N,B-LOC,
+301,2018,M,I-LOC,
+301,.,CH,O,
+302,BN155,Np,B-PER,B-BN
+302,:,CH,O,
+302,nữ,N,O,B-SEX
+302,",",CH,O,
+302,quốc tịch,N,O,
+302,Việt Nam,Np,B-LOC,B-NAT
+302,",",CH,O,
+302,21,M,O,B-AGE
+302,tuổi,N,O,
+302,",",CH,O,
+302,có,V,O,
+302,địa chỉ,N,O,
+302,tại,E,O,
+302,thôn,N,B-LOC,B-ADD
+302,Trung,Np,I-LOC,I-ADD
+302,",",CH,O,I-ADD
+302,thị trấn,N,B-LOC,I-ADD
+302,Ân Thi,Np,I-LOC,I-ADD
+302,",",CH,O,I-ADD
+302,tỉnh,N,B-LOC,I-ADD
+302,Hưng Yên,Np,I-LOC,I-ADD
+302,",",CH,O,
+302,sinh viên,N,O,B-R
+302,trường,N,B-LOC,B-LOC
+302,Đại học,N,I-LOC,I-LOC
+302,Huddersfield,Ny,I-LOC,I-LOC
+302,(,CH,O,I-LOC
+302,Anh,Np,B-LOC,I-LOC
+302,),CH,O,I-LOC
+302,.,CH,O,
+303,BN156,Np,B-PER,B-BN
+303,:,CH,O,
+303,nam,N,O,B-SEX
+303,",",CH,O,
+303,quốc tịch,N,O,
+303,Việt Nam,Np,B-LOC,B-NAT
+303,",",CH,O,
+303,21,M,O,B-AGE
+303,tuổi,N,O,
+303,",",CH,O,
+303,có,V,O,
+303,địa chỉ,N,O,
+303,tại,E,O,
+303,Phường,Np,B-LOC,B-ADD
+303,7,M,O,I-ADD
+303,",",CH,O,I-ADD
+303,TP,Ny,O,I-ADD
+303,Trà Vinh,Np,B-LOC,I-ADD
+303,",",CH,O,I-ADD
+303,du học sinh,N,O,I-ADD
+303,tại,E,O,I-ADD
+303,Anh,Np,B-LOC,I-ADD
+303,.,CH,O,
+304,BN157,Np,B-PER,B-BN
+304,:,CH,O,
+304,nữ,N,O,B-SEX
+304,",",CH,O,
+304,quốc tịch,N,B-LOC,
+304,Anh,Np,I-LOC,B-NAT
+304,",",CH,O,
+304,31,M,O,B-AGE
+304,tuổi,N,O,
+304,",",CH,O,
+304,giáo viên,N,B-LOC,
+304,Eschool,Np,I-LOC,
+304,-,CH,B-LOC,
+304,Eclass,Np,I-LOC,
+304,",",CH,O,
+304,hiện,N,O,B-TIME
+304,ngụ,V,O,
+304,tại,E,O,
+304,đường,N,B-LOC,B-ADD
+304,Tôn Đản,Np,I-LOC,I-ADD
+304,",",CH,O,I-ADD
+304,phường,N,B-LOC,I-ADD
+304,13,M,I-LOC,I-ADD
+304,",",CH,O,I-ADD
+304,quận,N,B-LOC,I-ADD
+304,4,M,I-LOC,I-ADD
+304,",",CH,O,I-ADD
+304,TP.,Ny,B-PER,I-ADD
+304,Hồ Chí Minh,Np,I-PER,I-ADD
+304,.,CH,O,
+305,BN158,Np,B-PER,B-BN
+305,:,CH,O,
+305,nam,N,O,B-SEX
+305,",",CH,O,
+305,quốc tịch,N,B-LOC,
+305,Brazil,Np,I-LOC,B-NAT
+305,",",CH,O,
+305,45,M,O,B-AGE
+305,tuổi,N,O,
+305,",",CH,O,
+305,nghề nghiệp,N,O,
+305,–,CH,O,
+305,kỹ thuật viên,N,O,
+305,",",CH,O,
+305,hiện,N,O,B-TIME
+305,ngụ,V,O,
+305,tại,E,O,
+305,đường,N,B-LOC,B-ADD
+305,42,M,I-LOC,I-ADD
+305,",",CH,O,I-ADD
+305,quận,N,B-LOC,I-ADD
+305,2,M,I-LOC,I-ADD
+305,",",CH,O,I-ADD
+305,TP.,Ny,B-PER,I-ADD
+305,Hồ Chí Minh,Np,I-PER,I-ADD
+305,.,CH,O,
+306,BN159,Np,B-PER,B-BN
+306,:,CH,O,
+306,nam,N,O,B-SEX
+306,",",CH,O,
+306,quốc tịch,N,B-LOC,
+306,Brazil,Np,I-LOC,B-NAT
+306,",",CH,O,
+306,33,M,O,B-ADD
+306,tuổi,N,O,
+306,",",CH,O,
+306,hiện,N,O,B-TIME
+306,ngụ,V,O,
+306,tại,E,O,
+306,phường,N,B-LOC,B-ADD
+306,Thạnh Mỹ Lợi,Np,I-LOC,I-ADD
+306,",",CH,O,I-ADD
+306,quận,N,B-LOC,I-ADD
+306,2,M,I-LOC,I-ADD
+306,",",CH,O,I-ADD
+306,TP.,Ny,B-PER,I-ADD
+306,Hồ Chí Minh,Np,I-PER,I-ADD
+306,.,CH,O,
+307,BN,Np,B-PER,B-BN
+307,có,V,O,
+307,tiếp xúc,V,O,B-R
+307,ca,N,O,
+307,bệnh,N,O,
+307,dương tính,V,O,B-STATUS
+307,trong,E,O,
+307,quán,N,B-LOC,
+307,bar,FW,I-LOC,
+307,Buddha,Np,I-LOC,B-LOC
+307,ngày,N,O,
+307,14/3/2020,M,O,B-TIME
+307,.,CH,O,
+308,BN160,Np,B-PER,B-BN
+308,:,CH,O,
+308,nữ,N,O,B-SEX
+308,",",CH,O,
+308,quốc tịch,N,O,
+308,Việt Nam,Np,B-LOC,B-NAT
+308,",",CH,O,
+308,30,M,O,B-AGE
+308,tuổi,N,O,
+308,",",CH,O,
+308,ngụ,V,O,
+308,tại,E,O,
+308,phường,N,B-LOC,B-ADD
+308,Lộc Phát,Np,I-LOC,I-ADD
+308,",",CH,O,I-ADD
+308,TP,Ny,B-LOC,I-ADD
+308,Bảo Lộc,Np,I-LOC,I-ADD
+308,",",CH,O,I-ADD
+308,tỉnh,N,B-LOC,I-ADD
+308,Lâm Đồng,Np,I-LOC,I-ADD
+308,.,CH,O,
+309,BN161,Np,B-PER,B-BN
+309,:,CH,O,
+309,nữ,N,O,B-SEX
+309,",",CH,O,
+309,88,M,O,B-AGE
+309,tuổi,N,O,
+309,",",CH,O,
+309,ngụ,V,O,
+309,tại,E,O,
+309,Tân Quang,Np,B-LOC,B-ADD
+309,",",CH,B-LOC,I-ADD
+309,Văn Lâm,Np,I-LOC,I-ADD
+309,",",CH,B-LOC,I-ADD
+309,Hưng Yên,Np,I-LOC,I-ADD
+309,.,CH,O,
+310,BN162,Np,B-PER,B-BN
+310,:,CH,O,
+310,nữ,N,O,B-SEX
+310,",",CH,O,
+310,63,M,O,B-AGE
+310,tuổi,N,O,
+310,",",CH,O,
+310,con,Nc,O,B-R
+310,dâu,N,B-LOC,I-R
+310,BN161,Np,I-LOC,B-BN
+310,",",CH,O,
+310,ngụ,V,O,
+310,tại,E,O,
+310,Thượng Thanh,Np,B-LOC,B-ADD
+310,",",CH,B-LOC,I-ADD
+310,Long Biên,Np,I-LOC,I-ADD
+310,",",CH,O,I-ADD
+310,Hà Nội,Np,B-LOC,I-ADD
+310,.,CH,O,
+311,BN163,Np,B-PER,B-BN
+311,:,CH,O,
+311,nữ,N,O,B-SEX
+311,",",CH,O,
+311,43,M,O,B-AGE
+311,tuổi,N,O,
+311,(,CH,O,
+311,cháu,Nc,O,B-R
+311,gái,N,B-LOC,I-R
+311,BN161,Np,I-LOC,B-BN
+311,),CH,O,
+311,",",CH,O,
+311,ngụ,V,O,
+311,tại,E,O,
+311,Thượng Thanh,Np,B-LOC,B-ADD
+311,",",CH,B-LOC,I-ADD
+311,Long Biên,Np,I-LOC,I-ADD
+311,",",CH,O,I-ADD
+311,Hà Nội,Np,B-LOC,I-ADD
+311,.,CH,O,
+312,THÔNG BÁO,Np,B-PER,
+312,VỀ,Np,I-PER,
+312,BN149,Np,I-PER,B-BN
+312,",",CH,O,
+312,BN153,Np,B-LOC,B-BN
+312,:,CH,B-LOC,
+312,BN149,Np,I-LOC,B-BN
+312,:,CH,O,
+312,nam,N,O,B-SEX
+312,",",CH,O,
+312,40,M,O,B-AGE
+312,tuổi,N,O,
+312,",",CH,O,
+312,quốc tịch,N,B-LOC,
+312,Việt Nam,Np,I-LOC,B-NAT
+312,",",CH,O,
+312,địa chỉ,N,O,
+312,ở,E,O,
+312,Long Biên,Np,B-LOC,B-ADD
+312,",",CH,O,I-ADD
+312,Hà Nội,Np,B-LOC,I-ADD
+312,.,CH,O,
+313,BN,Np,B-PER,B-BN
+313,là,V,O,B-R
+313,lao động,N,O,I-R
+313,tự do,A,O,I-R
+313,tại,E,O,
+313,Bang Hessen,Np,B-LOC,B-LOC
+313,-,CH,B-LOC,I-LOC
+313,CHLB Đức,Np,I-LOC,I-LOC
+313,.,CH,O,
+314,Ngày,N,O,
+314,23/3/2020,M,O,B-TIME
+314,",",CH,O,
+314,BN,Np,B-LOC,B-BN
+314,đến,E,O,B-R
+314,Sân bay,N,B-LOC,B-LOC
+314,Vân Đồn,Np,I-LOC,I-LOC
+314,trên,E,O,
+314,chuyến,N,O,
+314,bay,V,O,
+314,VN36,Np,B-LOC,B-FLIGHT
+314,của,E,O,
+314,Vietnam Airlines,Np,B-ORG,
+314,",",CH,O,
+314,số,N,O,
+314,ghế,N,O,
+314,55C,N,O,
+314,(,CH,O,
+314,cùng,C,O,
+314,với,E,O,
+314,mẹ,N,O,
+314,",",CH,O,
+314,68,M,O,
+314,tuổi,N,O,
+314,",",CH,O,
+314,ngồi,V,O,
+314,ghế,N,O,
+314,55A,N,O,
+314,),CH,O,
+314,.,CH,O,
+315,Lúc,N,O,
+315,nhập cảnh,V,O,
+315,",",CH,O,
+315,BN,Np,B-PER,
+315,không,R,O,
+315,có,V,O,
+315,biểu hiện,N,O,
+315,sốt,V,O,
+315,",",CH,O,
+315,không,R,O,
+315,ho,V,O,
+315,",",CH,O,
+315,không,R,O,
+315,viêm,V,O,
+315,phổi,N,O,
+315,",",CH,O,
+315,sau,N,O,
+315,đó,P,O,
+315,được,V,O,
+315,cách ly,V,O,B-R
+315,Trường,N,B-LOC,B-LOC
+315,Quân sự,N,I-LOC,I-LOC
+315,tỉnh,N,I-LOC,I-LOC
+315,Quảng Ninh,Np,I-LOC,I-LOC
+315,.,CH,O,
+316,BN150,Np,B-PER,B-BN
+316,:,CH,O,
+316,nam,N,O,B-SEX
+316,",",CH,O,
+316,quốc tịch,N,O,
+316,Việt Nam,Np,B-LOC,B-NAT
+316,",",CH,O,
+316,55,M,O,B-AGE
+316,tuổi,N,O,
+316,",",CH,O,
+316,trú,V,O,
+316,tại,E,O,
+316,phường,N,B-LOC,B-ADD
+316,Tân Định,Np,I-LOC,I-ADD
+316,",",CH,O,I-ADD
+316,Quận,N,B-LOC,I-ADD
+316,1,M,I-LOC,I-ADD
+316,",",CH,O,I-ADD
+316,TP.,Ny,B-PER,I-ADD
+316,Hồ Chí Minh,Np,I-PER,I-ADD
+316,.,CH,O,
+317,Ngày,N,O,
+317,13/3/2020,M,O,B-TIME
+317,",",CH,O,
+317,BN,Np,B-PER,B-BN
+317,cùng,A,O,
+317,vợ,N,O,
+317,từ,E,O,B-R
+317,Hoa Kỳ,Np,B-LOC,B-LOC
+317,về,E,O,B-R
+317,Việt Nam,Np,B-LOC,B-LOC
+317,",",CH,O,
+317,có,V,O,
+317,quá cảnh,N,O,B-R
+317,tại,E,O,
+317,Đài Loan,Np,B-LOC,B-LOC
+317,-,CH,B-LOC,I-LOC
+317,Trung Quốc,Np,I-LOC,I-LOC
+317,trên,E,O,
+317,chuyến,N,O,
+317,bay,V,O,
+317,của,E,O,
+317,hãng,N,B-LOC,
+317,hàng không,N,I-LOC,
+317,EVA Air,Np,I-LOC,
+317,",",CH,O,
+317,số hiệu,N,B-LOC,
+317,BR395,Np,I-LOC,B-FLIGHT
+317,",",CH,O,
+317,số,N,O,
+317,ghế,N,O,
+317,2D,N,O,
+317,",",CH,O,
+317,2K,N,O,
+317,và,C,O,
+317,nhập cảnh,V,O,B-R
+317,tại,E,O,
+317,Cảng hàng không,N,B-LOC,B-LOC
+317,quốc tế,N,I-LOC,I-LOC
+317,Tân Sơn Nhất,Np,I-LOC,I-LOC
+317,.,CH,O,
+318,BN151,Np,B-PER,B-BN
+318,:,CH,O,
+318,nữ,N,O,B-SEX
+318,",",CH,O,
+318,quốc tịch,N,B-LOC,
+318,Brazil,Np,I-LOC,B-NAT
+318,",",CH,O,
+318,45,M,O,B-AGE
+318,tuổi,N,O,
+318,",",CH,O,
+318,trú,V,O,
+318,tại,E,O,
+318,phường,N,B-LOC,B-ADD
+318,Thảo Điền,Np,I-LOC,I-ADD
+318,",",CH,O,I-ADD
+318,Quận,Np,I-LOC,I-ADD
+318,2,M,I-LOC,I-ADD
+318,",",CH,O,I-ADD
+318,TP.,Ny,B-PER,I-ADD
+318,Hồ Chí Minh,Np,I-PER,I-ADD
+318,.,CH,O,
+319,BN,Np,B-PER,B-BN
+319,là,V,O,B-R
+319,đồng nghiệp,N,O,I-R
+319,",",CH,O,
+319,tiếp xúc,V,O,B-R
+319,gần,A,O,I-R
+319,với,E,O,
+319,BN124,Np,B-PER,B-BN
+319,.,CH,O,
+320,Ngày,N,O,
+320,23/3,M,O,B-TIME
+320,",",CH,O,
+320,BN,Np,B-PER,B-BN
+320,được,R,O,
+320,xác định,V,O,
+320,là,V,O,
+320,người,N,O,
+320,tiếp xúc,V,O,B-R
+320,gần,A,B-LOC,I-R
+320,BN124,Np,I-LOC,B-BN
+320,và,C,O,
+320,được,V,O,
+320,lấy,V,O,
+320,mẫu,N,O,
+320,xét nghiệm,V,O,
+320,và,C,O,
+320,chuyển,V,O,
+320,cách ly,V,O,B-R
+320,tập trung,V,O,
+320,tại,E,O,
+320,Khu,Np,B-LOC,B-LOC
+320,C,Np,B-LOC,I-LOC
+320,-,CH,O,I-LOC
+320,Trường,N,O,I-LOC
+320,thiếu sinh quân,N,O,I-LOC
+320,",",CH,O,I-LOC
+320,huyện,N,O,I-LOC
+320,Củ Chi,Np,B-LOC,I-LOC
+320,.,CH,O,
+321,BN152,Np,B-PER,B-BN
+321,:,CH,O,
+321,nữ,N,O,B-SEX
+321,",",CH,O,
+321,quốc tịch,N,O,
+321,Việt Nam,Np,B-LOC,B-NAT
+321,",",CH,O,
+321,27,M,O,B-AGE
+321,tuổi,N,O,
+321,",",CH,O,
+321,trú,V,O,
+321,tại,E,O,
+321,phường,N,B-LOC,B-ADD
+321,Tây Thạnh,Np,I-LOC,I-ADD
+321,",",CH,O,I-ADD
+321,quận,N,B-LOC,I-ADD
+321,Tân Phú,Np,I-LOC,I-ADD
+321,",",CH,O,I-ADD
+321,TP.,Ny,B-MISC,I-ADD
+321,Hồ Chí Minh,Np,I-MISC,I-ADD
+321,.,CH,O,
+322,BN,Np,B-PER,B-BN
+322,là,V,O,B-R
+322,chị gái,N,O,I-R
+322,sống,V,O,B-R
+322,cùng,A,O,I-R
+322,nhà,N,O,I-R
+322,với,E,O,
+322,BN127,Np,B-PER,B-BN
+322,(,CH,O,
+322,nam nhân viên,V,O,
+322,quán,N,B-LOC,
+322,Bar Buddha,Np,I-LOC,
+322,),CH,O,
+322,.,CH,O,
+323,BN153,Np,B-PER,B-BN
+323,:,CH,O,
+323,nữ,N,O,B-SEX
+323,",",CH,O,
+323,quốc tịch,N,O,
+323,Việt Nam,Np,B-LOC,B-NAT
+323,",",CH,O,
+323,60,M,O,B-AGE
+323,tuổi,N,O,
+323,",",CH,O,
+323,trú,V,O,
+323,tại,E,O,
+323,quận,N,B-LOC,B-ADD
+323,Hải Châu,Np,I-LOC,I-ADD
+323,",",CH,O,I-ADD
+323,TP.,Ny,O,I-ADD
+323,Đà Nẵng,Np,B-LOC,I-ADD
+323,.,CH,O,
+324,Tiền sử,N,O,
+324,chưa,R,O,
+324,ghi nhận,V,O,
+324,bệnh lý,N,O,
+324,.,CH,O,
+325,BN,Np,B-PER,B-BN
+325,sang,V,O,B-R
+325,Australia,Np,B-LOC,B-LOC
+325,thăm,V,O,
+325,người thân,N,O,
+325,và,C,O,
+325,trở về,V,O,B-R
+325,Việt Nam,Np,B-LOC,B-LOC
+325,ngày,N,B-LOC,
+325,21/3/2020,M,I-LOC,B-TIME
+325,trên,E,O,
+325,chuyến,N,O,
+325,bay,V,O,
+325,của,E,O,
+325,Vietnam Airlines,Np,B-ORG,
+325,số hiệu,N,B-LOC,
+325,VN772,Np,I-LOC,B-FLIGHT
+325,",",CH,O,
+325,nhập cảnh,V,O,B-R
+325,tại,E,O,
+325,Cảng hàng không,N,B-LOC,B-LOC
+325,quốc tế,N,I-LOC,I-LOC
+325,Tân Sơn Nhất,Np,I-LOC,I-LOC
+325,.,CH,O,
+326,Sau,N,O,
+326,nhập cảnh,N,O,
+326,",",CH,O,
+326,BN,Np,B-PER,B-BN
+326,được,V,O,
+326,chuyển,V,O,
+326,khu,N,O,
+326,cách ly,V,O,B-R
+326,tập trung,V,O,
+326,tại,E,O,
+326,ký túc xá,N,B-LOC,B-LOC
+326,Đại học,N,I-LOC,I-LOC
+326,Quốc gia,N,I-LOC,I-LOC
+326,TP.,Ny,I-LOC,I-LOC
+326,Hồ Chí Minh,Np,I-LOC,I-LOC
+326,.,CH,O,
+327,THÔNG BÁO,Np,B-PER,
+327,VỀ,V,O,
+327,7,M,O,
+327,CA,Np,B-PER,
+327,BỆNH,Np,I-PER,
+327,MỚI,R,O,
+327,(,CH,O,
+327,142,M,O,
+327,-,CH,O,
+327,148,N,O,
+327,),CH,O,
+327,:,CH,O,
+327,BN142,Np,B-PER,B-BN
+327,",",CH,O,
+327,nam,N,O,B-SEX
+327,",",CH,O,
+327,26,M,O,B-AGE
+327,tuổi,N,O,
+327,",",CH,O,
+327,ở,E,O,
+327,huyện,N,B-LOC,B-LOC
+327,Bình Chánh,Np,I-LOC,I-ADD
+327,",",CH,O,I-ADD
+327,TP.,Ny,B-LOC,I-ADD
+327,HCM,Np,I-LOC,I-ADD
+327,",",CH,O,
+327,là,V,O,B-R
+327,du học sinh,N,B-LOC,I-R
+327,Mỹ,Np,I-LOC,B-LOC
+327,.,CH,O,
+328,Ngày,N,O,
+328,08/3,M,O,B-TIME
+328,",",CH,O,
+328,BN,Np,B-PER,B-BN
+328,khởi hành,V,O,
+328,từ,E,O,B-R
+328,Texas,Np,B-LOC,B-LOC
+328,quá cảnh,V,O,B-R
+328,tại,E,O,
+328,Đài Loan,Np,B-LOC,B-LOC
+328,",",CH,O,
+328,sau,N,O,
+328,đó,P,O,
+328,đáp,V,O,
+328,chuyến,N,O,
+328,bay,V,O,
+328,của,E,O,
+328,Eva Air,Np,B-ORG,
+328,số hiệu,N,B-LOC,
+328,BR395,Np,I-LOC,B-FLIGHT
+328,nhập cảnh,V,O,B-R
+328,Việt Nam,Np,B-LOC,B-LOC
+328,ngày,N,B-LOC,
+328,10/3,M,I-LOC,B-TIME
+328,tại,E,O,
+328,Tân Sơn Nhất,Np,B-LOC,B-LOC
+328,.,CH,O,
+329,Sau,N,O,
+329,khi,N,O,
+329,nhập cảnh,V,O,
+329,",",CH,O,
+329,BN,Np,B-PER,B-BN
+329,đã,R,O,
+329,đến,V,O,
+329,thăm,V,O,B-R
+329,người nhà,N,O,I-R
+329,tại,E,O,
+329,Bệnh viện,N,B-LOC,B-HOS
+329,Bình Dân,Np,I-LOC,I-HOS
+329,",",CH,O,I-HOS
+329,Lãnh sự,N,B-LOC,I-HOS
+329,quán,N,I-LOC,I-HOS
+329,Hoa Kỳ,Np,I-LOC,I-HOS
+329,và,C,O,
+329,cũng,R,O,
+329,đã,R,O,
+329,tiếp xúc,V,O,
+329,một số,L,O,
+329,cán bộ,N,O,
+329,làm,V,O,
+329,công tác,N,O,
+329,khai báo,N,O,
+329,tạm trú,V,O,
+329,tại,E,O,
+329,xã,N,B-LOC,
+329,Tân Túc,Np,I-LOC,
+329,",",CH,O,
+329,huyện,N,B-LOC,
+329,Bình Chánh,Np,I-LOC,
+329,.,CH,O,
+330,BN143,Np,B-PER,B-BN
+330,",",CH,O,
+330,nữ,N,O,B-SEX
+330,",",CH,O,
+330,58,M,O,B-AGE
+330,tuổi,N,O,
+330,",",CH,O,
+330,quốc tịch,N,B-LOC,
+330,Nam Phi,Np,I-LOC,B-NAT
+330,",",CH,O,
+330,ở,E,O,
+330,phường,N,B-LOC,B-ADD
+330,Tân Sơn Nhì,Np,I-LOC,I-ADD
+330,",",CH,O,I-ADD
+330,quận,N,B-LOC,I-ADD
+330,Tân Phú,Np,I-LOC,I-ADD
+330,",",CH,O,I-ADD
+330,TP.,Ny,B-MISC,I-ADD
+330,HCM.,Np,I-MISC,I-ADD
+331,BN,Np,B-PER,B-BN
+331,khởi hành,V,O,
+331,từ,E,O,B-R
+331,Seattle,Np,B-LOC,B-LOC
+331,(,CH,B-LOC,I-LOC
+331,Washington,Np,I-LOC,I-LOC
+331,",",CH,O,I-LOC
+331,Mỹ,Np,B-LOC,I-LOC
+331,),CH,O,I-LOC
+331,",",CH,O,
+331,quá cảnh,V,O,B-R
+331,tại,E,O,
+331,Đài Loan,Np,B-LOC,B-LOC
+331,",",CH,O,
+331,sau,N,O,
+331,đó,P,O,
+331,đáp,V,O,
+331,chuyến,N,O,
+331,bay,V,O,
+331,của,E,O,
+331,Eva Air,Np,B-ORG,
+331,số hiệu,N,B-LOC,
+331,BR395,Np,I-LOC,B-FLIGHT
+331,",",CH,O,
+331,số,N,O,
+331,ghế,N,O,
+331,48A,N,O,
+331,",",CH,O,
+331,nhập cảnh,N,O,B-R
+331,Việt Nam,Np,B-LOC,B-LOC
+331,ngày,N,B-LOC,
+331,21/3/2020,M,I-LOC,B-TIME
+331,tại,E,O,
+331,Tân Sơn Nhất,Np,B-LOC,B-LOC
+331,.,CH,O,
+332,BN,Np,B-PER,B-BN
+332,đã,R,O,
+332,tiếp xúc,V,O,
+332,với,E,O,
+332,người thân,N,O,
+332,xác định,V,O,
+332,mắc,V,O,
+332,bệnh,N,B-LOC,
+332,COVID,Np,I-LOC,
+332,-,CH,O,
+332,19,M,O,
+332,trước,E,O,
+332,khi,N,O,
+332,về,V,O,
+332,Việt Nam,Np,B-LOC,
+332,.,CH,O,
+333,BN144,Np,B-PER,B-BN
+333,",",CH,O,
+333,nam,N,O,B-SEX
+333,",",CH,O,
+333,quốc tịch,N,O,
+333,Việt Nam,Np,B-LOC,B-NAT
+333,",",CH,O,
+333,22,M,O,B-AGE
+333,tuổi,N,O,
+333,",",CH,O,
+333,ở,E,O,
+333,hường,N,B-LOC,B-ADD
+333,14,M,I-LOC,I-ADD
+333,",",CH,O,I-ADD
+333,quận,N,B-LOC,I-ADD
+333,Phú Nhuận,Np,I-LOC,I-ADD
+333,",",CH,O,I-ADD
+333,TP.,Ny,B-MISC,I-ADD
+333,HCM.,Np,I-MISC,I-ADD
+334,BN,Np,B-PER,
+334,từ,E,O,B-R
+334,Anh,Nc,O,B-LOC
+334,về,V,O,B-R
+334,Việt Nam,Np,B-LOC,B-LOC
+334,trên,E,O,
+334,chuyến,N,O,
+334,bay,V,O,
+334,của,E,O,
+334,Vietnam Airlines VN0050,Np,B-PER,B-FLIGHT
+334,ngày,N,O,
+334,22/3,M,O,B-TIME
+334,.,CH,O,
+335,BN145,Np,B-PER,B-BN
+335,",",CH,O,
+335,nam,N,O,B-SEX
+335,",",CH,O,
+335,quốc tịch,N,O,
+335,Việt Nam,Np,B-LOC,B-NAT
+335,",",CH,O,
+335,34,M,O,B-AGE
+335,tuổi,N,O,
+335,",",CH,O,
+335,trú,V,O,
+335,tại,E,O,
+335,phường,N,B-LOC,B-ADD
+335,Sơn Kỳ,Np,I-LOC,I-ADD
+335,",",CH,O,I-ADD
+335,quận,N,B-LOC,I-ADD
+335,Tân Phú,Np,I-LOC,I-ADD
+335,",",CH,O,I-ADD
+335,TP.,Ny,B-MISC,I-ADD
+335,HCM.,Np,I-MISC,I-ADD
+336,Nghề nghiệp,N,O,
+336,là,C,O,
+336,thợ,N,O,
+336,làm,V,O,
+336,móng,N,O,
+336,.,CH,O,
+337,BN,Np,B-PER,B-BN
+337,đáp,V,O,
+337,chuyến,N,O,
+337,bay,V,O,
+337,VN0050,Np,B-LOC,B-FLIGHT
+337,của,E,O,
+337,Hãng,N,B-LOC,
+337,hàng không,N,I-LOC,
+337,VietnamAirlines,Np,I-LOC,
+337,về,E,O,B-R
+337,sân bay,N,B-LOC,B-LOC
+337,Cần Thơ,Np,I-LOC,I-LOC
+337,ngày,N,O,
+337,22/3,M,O,B-TIME
+337,.,CH,O,
+338,BN146,Np,B-PER,B-BN
+338,",",CH,O,
+338,nữ,N,O,B-SEX
+338,",",CH,O,
+338,17,M,O,B-AGE
+338,tuổi,N,O,
+338,",",CH,O,
+338,địa chỉ,N,O,
+338,ở,E,O,
+338,xã,N,B-LOC,B-LOC
+338,Nghi Thiết,Np,I-LOC,I-LOC
+338,",",CH,O,I-LOC
+338,huyện,N,B-LOC,I-LOC
+338,Nghi Lộc,Np,I-LOC,I-LOC
+338,",",CH,O,I-LOC
+338,Nghệ An,Np,B-LOC,I-LOC
+338,.,CH,O,
+339,BN,Np,B-PER,B-BN
+339,đi,V,O,
+339,từ,E,O,B-R
+339,Thái Lan,Np,B-LOC,B-LOC
+339,về,E,O,
+339,ngày,N,B-LOC,
+339,20/3,M,I-LOC,B-TIME
+339,",",CH,O,
+339,trước,N,O,
+339,đó,P,O,
+339,có,V,O,
+339,tiếp xúc,V,O,B-R
+339,gần,A,O,I-R
+339,với,C,O,
+339,ca,N,O,
+339,dương tính,N,O,B-STATUS
+339,xác định,V,O,
+339,tại,E,O,
+339,Đà Nẵng,Np,B-LOC,B-LOC
+339,.,CH,O,
+340,BN147,Np,B-PER,B-BN
+340,",",CH,O,
+340,nam,N,O,B-SEX
+340,",",CH,O,
+340,19,M,O,B-AGE
+340,tuổi,N,O,
+340,",",CH,O,
+340,ở,E,O,
+340,Yên Hoà,Np,B-LOC,B-ADD
+340,",",CH,B-LOC,I-ADD
+340,Cầu Giấy,Np,I-LOC,I-ADD
+340,",",CH,O,I-ADD
+340,Hà Nội,Np,B-LOC,I-ADD
+340,.,CH,O,
+341,BN,Np,B-PER,B-BN
+341,là,V,O,B-R
+341,du học sinh,N,O,I-R
+341,từ,E,O,
+341,Anh,Np,B-LOC,B-LOC
+341,",",CH,O,
+341,đáp,V,O,
+341,chuyến,N,B-LOC,
+341,bay,V,I-LOC,
+341,VN0054,Np,I-LOC,B-FLIGHT
+341,của,E,O,
+341,Vietnam Airlines,Np,B-ORG,
+341,về,E,O,B-R
+341,Nội Bài,Np,B-LOC,B-LOC
+341,ngày,N,B-LOC,
+341,21/3,M,I-LOC,B-TIME
+341,.,CH,O,
+342,BN148,Np,B-PER,B-BN
+342,",",CH,O,
+342,nam,N,O,B-SEX
+342,",",CH,O,
+342,58,M,O,B-AGE
+342,tuổi,N,O,
+342,",",CH,O,
+342,quốc tịch,N,O,
+342,Pháp,Np,B-LOC,B-NAT
+342,",",CH,O,
+342,ở,E,O,
+342,Ô,Np,B-LOC,B-ADD
+342,Chợ Dừa,Np,B-LOC,I-ADD
+342,",",CH,O,I-ADD
+342,Đống Đa,Np,I-LOC,I-ADD
+342,",",CH,O,I-ADD
+342,Hà Nội,Np,B-LOC,I-ADD
+342,.,CH,O,
+343,BN,Np,B-PER,B-BN
+343,đến,V,O,B-R
+343,Việt Nam,Np,B-LOC,B-LOC
+343,ngày,N,B-LOC,
+343,12/3,M,I-LOC,B-TIME
+343,trên,E,O,
+343,chuyến,N,O,
+343,bay,V,O,
+343,VN0018,Np,B-LOC,B-FLIGHT
+343,.,CH,O,
+344,Từ,E,O,B-TIME
+344,12/3,M,O,I-TIME
+344,-,CH,O,I-TIME
+344,19/3,N,O,I-TIME
+344,",",CH,O,
+344,BN,Np,B-PER,B-BN
+344,có,V,O,
+344,đi,V,O,
+344,đến,E,O,
+344,nhiều,A,O,
+344,điểm,N,O,
+344,ở,E,O,
+344,Hà Nội,Np,B-LOC,B-LOC
+344,.,CH,O,
+345,THÔNG BÁO,Np,B-PER,
+345,VỀ,Np,I-PER,
+345,BN135,Np,I-PER,B-BN
+345,",",CH,O,
+345,BN141,Np,B-LOC,B-BN
+345,:,CH,B-LOC,
+345,BN135,Np,I-LOC,B-BN
+345,:,CH,O,
+345,nữ,N,O,B-SEX
+345,27,M,O,B-AGE
+345,tuổi,N,O,
+345,(,CH,O,
+345,địa chỉ,N,O,
+345,của,E,O,
+345,bố mẹ,N,O,
+345,ở,E,O,
+345,quận,N,B-LOC,B-ADD
+345,Lê Chân,Np,I-LOC,I-ADD
+345,",",CH,O,I-ADD
+345,TP.,Ny,B-PER,I-ADD
+345,Hải Phòng,Np,I-PER,I-ADD
+345,),CH,O,
+345,.,CH,O,
+346,Ngày,N,O,
+346,19/3/2020,M,O,B-TIME
+346,BN,Np,B-PER,B-BN
+346,khởi hành,V,O,
+346,từ,E,O,B-R
+346,Copenhagen,Np,B-LOC,B-LOC
+346,",",CH,B-LOC,I-LOC
+346,Đan Mạch,Np,I-LOC,I-LOC
+346,",",CH,O,
+346,quá cảnh,V,O,B-R
+346,tại,E,O,
+346,Doha,Np,B-LOC,B-LOC
+346,và,C,O,
+346,Bangkok,Np,B-LOC,B-LOC
+346,",",CH,O,
+346,nhập cảnh,N,O,B-R
+346,Việt Nam,Np,B-LOC,B-LOC
+346,ngày,N,B-LOC,
+346,21/3/2020,M,I-LOC,B-TIME
+346,trên,E,O,
+346,chuyến,N,O,
+346,bay,V,O,
+346,số hiệu,N,B-LOC,
+346,PG947,Np,I-LOC,B-FLIGHT
+346,.,CH,O,
+347,BN136,Np,B-PER,B-BN
+347,:,CH,O,
+347,nữ,N,O,B-SEX
+347,",",CH,O,
+347,23,M,O,B-AGE
+347,tuổi,N,O,
+347,ở,E,O,
+347,quận,N,B-LOC,B-LOC
+347,Hoàng Mai,Np,I-LOC,I-LOC
+347,",",CH,O,I-LOC
+347,Hà Nội,Np,B-LOC,I-LOC
+347,.,CH,O,
+348,BN,Np,B-PER,B-BN
+348,là,V,O,B-R
+348,học sinh,N,O,I-R
+348,từ,E,O,
+348,Mỹ,Np,B-LOC,B-LOC
+348,",",CH,O,
+348,nhập cảnh,V,O,B-R
+348,về,E,O,
+348,Nội Bài,Np,B-LOC,B-LOC
+348,ngày,N,B-LOC,
+348,16/03/2020,M,I-LOC,B-TIME
+348,.,CH,O,
+349,BN137,Np,B-PER,B-BN
+349,:,CH,O,
+349,nam,N,O,B-SEX
+349,",",CH,O,
+349,36,M,O,B-LOC
+349,tuổi,N,O,
+349,ở,E,O,
+349,Yên Thành,Np,B-LOC,B-ADD
+349,",",CH,B-LOC,I-ADD
+349,Nghệ An,Np,I-LOC,I-ADD
+349,",",CH,O,
+349,là,V,O,
+349,du khách,N,O,
+349,từ,E,O,B-R
+349,Đức,Np,B-LOC,B-LOC
+349,",",CH,O,
+349,nhập cảnh,V,O,B-R
+349,về,E,O,
+349,Nội Bài,Np,B-LOC,B-LOC
+349,ngày,N,B-LOC,
+349,15/03/2020,M,I-LOC,B-TIME
+349,.,CH,O,
+350,BN138,Np,B-PER,B-BN
+350,:,CH,O,
+350,nam,N,O,B-SEX
+350,",",CH,O,
+350,23,M,O,B-AGE
+350,tuổi,N,O,
+350,ở,E,O,
+350,quận,N,B-LOC,B-ADD
+350,Đống Đa,Np,I-LOC,I-ADD
+350,",",CH,O,I-ADD
+350,Hà Nội,Np,B-LOC,I-ADD
+350,",",CH,O,
+350,là,V,O,B-R
+350,du học sinh,N,O,I-R
+350,từ,E,O,
+350,Anh,Np,B-LOC,B-LOC
+350,",",CH,O,
+350,nhập cảnh,V,O,B-R
+350,về,E,O,
+350,Nội Bài,Np,B-LOC,B-LOC
+350,ngày,N,B-LOC,
+350,21/03/2020,M,I-LOC,B-TIME
+350,trên,E,O,
+350,chuyến,N,O,
+350,bay,V,O,
+350,VN0054,Np,B-LOC,B-FLIGHT
+350,.,CH,O,
+351,BN139,Np,B-PER,B-BN
+351,:,CH,O,
+351,nữ,N,O,B-SEX
+351,",",CH,O,
+351,24,M,O,B-AGE
+351,tuổi,N,O,
+351,ở,E,O,
+351,quận Hai Bà Trưng,N,B-LOC,B-LOC
+351,",",CH,I-LOC,I-LOC
+351,Hà Nội,Np,I-LOC,I-LOC
+351,",",CH,O,
+351,là,V,O,B-R
+351,du học sinh,N,O,I-R
+351,tại,E,O,
+351,Anh,Np,B-LOC,B-LOC
+351,",",CH,O,
+351,nhập cảnh,V,O,B-R
+351,về,E,O,
+351,Nội Bài,Np,B-LOC,B-LOC
+351,ngày,N,B-LOC,
+351,21/03/2020,M,I-LOC,B-TIME
+351,trên,E,O,
+351,chuyến,N,O,
+351,bay,V,O,
+351,VN0054,Np,B-LOC,B-FLIGHT
+351,.,CH,O,
+352,BN140,Np,B-PER,B-BN
+352,:,CH,O,
+352,nam,N,O,B-SEX
+352,",",CH,O,
+352,21,M,O,B-AGE
+352,tuổi,N,O,
+352,ở,E,O,
+352,Tây Hồ,Np,B-LOC,B-ADD
+352,",",CH,O,I-ADD
+352,Hà Nội,Np,B-LOC,I-ADD
+352,",",CH,O,
+352,là,V,O,B-R
+352,du học sinh,N,O,I-R
+352,từ,E,O,
+352,Anh,Np,B-LOC,B-LOC
+352,",",CH,O,
+352,nhập cảnh,V,O,B-R
+352,về,E,O,
+352,Nội Bài,Np,B-LOC,B-LOC
+352,ngày,N,B-LOC,
+352,21/03/2020,M,I-LOC,B-TIME
+352,trên,E,O,
+352,chuyến,N,O,
+352,bay,V,O,
+352,VN0054,Np,B-LOC,B-FLIGHT
+352,.,CH,O,
+353,BN141,Np,B-PER,B-BN
+353,:,CH,O,
+353,bác,Nc,O,
+353,sỹ,N,O,
+353,",",CH,O,
+353,29,M,O,B-AGE
+353,tuổi,N,O,
+353,",",CH,O,
+353,làm việc,V,O,B-R
+353,tại,E,O,
+353,Khoa,Np,B-LOC,B-HOS
+353,Cấp cứu,V,O,I-HOS
+353,",",CH,O,I-HOS
+353,Bệnh viện,N,B-LOC,I-HOS
+353,Bệnh,N,I-LOC,I-HOS
+353,Nhiệt đới,N,I-LOC,I-HOS
+353,Trung ương,N,I-LOC,I-HOS
+353,cơ sở,N,I-LOC,I-HOS
+353,Đông Anh,Np,I-LOC,I-HOS
+353,",",CH,O,
+353,bị,V,O,B-R
+353,lây,V,O,I-R
+353,khi,N,O,
+353,thao tác,V,O,
+353,thiết lập,V,O,
+353,máy,N,O,
+353,thở,V,O,
+353,cho,E,O,
+353,BN28,Np,B-PER,B-BN
+353,",",CH,O,
+353,phơi,V,O,
+353,nhiễm,V,O,
+353,cùng,A,O,
+353,ngày,N,O,
+353,với,E,O,
+353,một,M,O,
+353,bác sĩ,N,O,
+353,khác,A,O,
+353,là,V,O,
+353,BN116,Np,B-PER,B-BN
+353,.,CH,O,
